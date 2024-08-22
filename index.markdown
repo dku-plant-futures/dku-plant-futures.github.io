@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+Welcome to the website of DKU Plant Futures Club.
+
+
+![Post of Meatless Monday](/images/logo.png){: width="250" }

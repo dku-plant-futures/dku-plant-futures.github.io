@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# The Club
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is the website for Plant Futures Club at Duke Kunshan University.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Our mission is to fight against climate change and advocate for animal rights via
+promotion of plant-based products, such as a mostly vegetarian diet.
 
+We also help to run the community garden at DKU.
 
-[jekyll-organization]: https://github.com/jekyll
+# Contact
+
+* :email: [Helene Gu (Club President)](mailto:helene.gu@dukekunshan.edu.cn)
+* :email: [Xing Shi Cai (Club Advisor)](mailto:xingshi.cai@dukekunshan.edu.cn)
+* :speech_balloon: [Microsoft Teams Chat Group](https://teams.microsoft.com/l/team/19%3As6SZBTPi7s1f4rHlBfk9aozuwQEAwzQO-yboEB1bxwM1%40thread.tacv2/conversations?groupId=855d3ffe-800c-46a5-a8b4-ec2e656d031f&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c)
