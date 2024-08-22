@@ -5,7 +5,11 @@
 layout: home
 ---
 
-Welcome to the website of DKU Plant Futures Club.
+![Logo of The Club](/images/logo.png){: width="300" }
 
+Welcome to the website of DKU Plant Futures Club! :hugs:
+Our slogan is:
 
-![Post of Meatless Monday](/images/logo.png){: width="250" }
+> Less Meat, Less Heat, More Life.
+
+Check out the [about](/about/) page to learn more about us.
