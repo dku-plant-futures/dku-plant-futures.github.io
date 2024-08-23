@@ -10,6 +10,11 @@ categories: guide
     <img src="/images/2024/vegetarian-survival-guide-at-dku.webp" width="500" alt="Vegetarian Survival Guide" />
 </center>
 
+# Table of Contents
+
+* TOC
+{:toc}
+
 Introduction
 ============
 
