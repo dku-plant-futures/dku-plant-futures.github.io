@@ -5,11 +5,18 @@
 layout: home
 ---
 
-![Logo of The Club](/images/logo.png){: width="300" }
-
 Welcome to the website of DKU Plant Futures Club! :hugs:
+
 Our slogan is:
 
-> Less Meat, Less Heat, More Life.
+<center>
+    <h1>Less Meat, Less Heat, More Life.</h1>
+</center>
+
+Our logo is:
+
+<center>
+    <img src="/images/logo.png" width="350" alt="DKU Plant Futures Club Logo" />
+</center>
 
 Check out the [about](/about/) page to learn more about us.
