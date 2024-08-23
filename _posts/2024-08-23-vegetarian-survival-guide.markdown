@@ -29,34 +29,44 @@ Eating at University Community Center
 Third Floor (Chinese Food)
 --------------------------
 
-The canteen management is committed to offering vegetarian options with proteins for both lunch and dinner. These options are available in both the Weigh-and-Pay and A-la-carte sections.
+The canteen management is committed to offering vegetarian options with proteins for both
+lunch and dinner. These options are available in both the Weigh-and-Pay and A-la-carte
+sections.
 
 Second Floor
 ------------
 
-The Teppanyaki section features tofu options multiple times each week.
-
-Additionally, a vegetarian set meal can be preordered via WeChat. For more information, contact the DKU Plant-Futures Club.
+Now there is a salad bar on the second floor from which you can choose vegetarian
+ingredients. Note that among the three sauces provided, only one is vegan.
 
 First/Ground Floor
 ------------------
 
 From Aug 26, 2024, hotpot with :tomato:-base vegetarian soup is available on the first floor.
 
-Baguette bread available on this floor is free from :baby_bottle: and :egg:, while the bagel bread contains :egg:. The vegetarian sandwich may include :cheese: and :baby_bottle:-based sauce, but a vegetables-only version can be requested. Oat :baby_bottle: is available as a substitute for :baby_bottle: in coffee, at an additional cost of 2 yuan.
+Baguette bread available on this floor is free from :baby_bottle: and :egg:, while the
+bagel bread contains :egg:. The vegetarian sandwich may include :cheese: and
+:baby_bottle:-based sauce, but a vegetables-only version can be requested. Oat
+:baby_bottle: is available as a substitute for :baby_bottle: in coffee, at an additional
+cost of 2 yuan.
 
 The salad section now also sells fruit and vegetable cups.
 
-You can ask for vegetarian noodles on the ground floor with the option of adding a Tofu (素鸡) topping. However, the broth usually poured on the noodles is not vegetarian. You should ask for pure water instead of the broth.
+You can ask for vegetarian noodles on the ground floor with the option of adding a Tofu
+(素鸡) topping. However, the broth usually poured on the noodles is not vegetarian. You
+should ask for pure water instead of the broth.
 
 FamilyMart
 ----------
 
-In the baozi/steamed bun (包子) section, two vegetarian options are available: one with cabbage and mushroom fillings and another with sweet taro filling.
+In the baozi/steamed bun (包子) section, two vegetarian options are available: one with
+cabbage and mushroom fillings and another with sweet taro filling.
 
-The Guandong Zhu (关东煮), or Kanto-ni in Japanese, offers vegetarian skewers, but it is important to note that the broth is fish-based.
+The Guandong Zhu (关东煮), or Kanto-ni in Japanese, offers vegetarian skewers, but it is
+important to note that the broth is fish-based.
 
-Additionally, plant-based protein snacks labeled as veggie meat (素肉) or dried-tofu (豆腐干) can be found on the shelves.
+Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dried-tofu
+(豆腐干) may be found on the shelves. (Note that they are not always available.)
 
 Eating at Restaurants
 =====================
@@ -66,41 +76,44 @@ Vegetarian-Friendly Restaurants
 
 ### Kunshan/昆山
 
--   Zizai Ge/自在阁 (vegetarian buffet)
--   Ziran Feng/自然风 (vegetarian buffet)
--   Shufeng Small Hotpot/蜀风小火锅 (hotpot)
--   Xibei/西贝 (north-western style)
--   Kuafu Fried Skewers/夸父炸串 (fried skewers)
--   Yanhuo Makes Skewers/烟火成串 (BBQ skewers)
--   Dreamherb/梦田 (Taiwan-style set meal with vegetarian option)
--   Yidiantian/益点田 (healthy organic meal with vegetarian options)
+- Zizai Ge/自在阁 (vegetarian buffet)
+- Ziran Feng/自然风 (vegetarian buffet)
+- Shufeng Small Hotpot/蜀风小火锅 (hotpot)
+- Xibei/西贝 (north-western style)
+- Kuafu Fried Skewers/夸父炸串 (fried skewers)
+- Yanhuo Makes Skewers/烟火成串 (BBQ skewers)
+- Dreamherb/梦田 (Taiwan-style set meal with vegetarian option)
+- Yidiantian/益点田 (healthy organic meal with vegetarian options)
 
 ### Suzhou/苏州
 
--   Lotus Veg Cafe/水中莲 (vegetarian)
--   Sumanxiang/素满香 (vegetarian buffet)
--   Xinyi Café/信易咖啡 (vegetarian, with pizza/burger options, and good Sichuan/Tibet dishes)
+- Lotus Veg Cafe/水中莲 (vegetarian)
+- Sumanxiang/素满香 (vegetarian buffet)
+- Xinyi Café/信易咖啡 (vegetarian, with pizza/burger options, and good Sichuan/Tibet dishes)
 
 ### Shanghai/上海
 
--   Vegegood/素来很好 (vegan)
--   茹/If Vegan (vegan)
--   Qingchun Perma/朴门庆春 (vegetarian)
--   Yan Ge Ge/焱格格 (vegetarian buffet style hotpot featuring mushrooms)
--   Jade Buddha Temple Restaurant/玉佛寺素斋 (vegetarian)
--   Ci Guang Temple Restaurant/慈光素食部 (vegetarian restaurant on the second floor, take-away vegetarian dim sum on the first)
--   Chun Feng Song Yue Lou/春风松月楼 (vegetarian)
--   Ruo Wu 若无 (vegan Taiwan-style set menu with the option of tea set)
--   Su Xin Su Shi/愫心素食 (Tibetan/Sichuan-style vegetarian)
--   Green Friday (fusion vegetarian with Western-style dishes e.g., plant-based meat burgers, etc.)
--   Carrot & Cleaver (vegan, Western/Middle Eastern)
--   Jujube Tree/枣子树 (vegetarian)
--   Fortunate Vegan Cafe/幸福咖啡店 (vegan)
+- No Need to Wait For Light Vegetarian Food/轻蔬不用等 (vegan, no. 458 Jiangsu Road, Changning District)
+- Ganesha/咖乃芗 (Indian restaurant with vegetarian options, same address as No Need to Wait For Light Vegetarian Food.)
+- A Bowl of Yangchun Noodles/一碗阳春 (vegetarian buffet, no. 12, Guoji Road, Yangpu District)
+- Fortunate Vegan Cafe/幸福咖啡店 (vegan)
+- Vegegood/素来很好 (vegan)
+- 茹/If Vegan (vegan)
+- Qingchun Perma/朴门庆春 (vegetarian)
+- Yan Ge Ge/焱格格 (vegetarian buffet style hotpot featuring mushrooms)
+- Jade Buddha Temple Restaurant/玉佛寺素斋 (vegetarian)
+- Ci Guang Temple Restaurant/慈光素食部 (vegetarian restaurant on the second floor, take-away vegetarian dim sum on the first)
+- Chun Feng Song Yue Lou/春风松月楼 (vegetarian)
+- Ruo Wu 若无 (vegan Taiwan-style set menu with the option of tea set)
+- Su Xin Su Shi/愫心素食 (Tibetan/Sichuan-style vegetarian)
+- Green Friday (fusion vegetarian with Western-style dishes e.g., plant-based meat burgers, etc.)
+- Carrot & Cleaver (vegan, Western/Middle Eastern)
+- Jujube Tree/枣子树 (vegetarian)
 
 ### Chengdu/成都
 
--   Handou's Kitchen/憨豆厨房 (vegan)
--   Jujube Tree/枣子树 (vegetarian)
+- Handou's Kitchen/憨豆厨房 (vegan)
+- Jujube Tree/枣子树 (vegetarian)
 
 Noodle Restaurants
 -------------------
