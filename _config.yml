@@ -65,3 +65,6 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/dku-plant-futures" }
     - { platform: instagram, user_url: "https://www.instagram.com/plantfuturesdku/" }
+
+disqus:
+  shortname: dku-plant-futures
