@@ -94,7 +94,8 @@ Vegetarian-Friendly Restaurants
 ### Shanghai/上海
 
 - No Need to Wait For Light Vegetarian Food/轻蔬不用等 (vegan, no. 458 Jiangsu Road, Changning District)
-- Ganesha/咖乃芗 (Indian restaurant with vegetarian options, same address as No Need to Wait For Light Vegetarian Food.)
+- Ganesha/咖乃芗 (Indian restaurant with vegetarian options, same address as No Need to Wait.)
+- Wagas (vegetarian salad, can require salad to be made vegan, sometimes have seasonal vegan salad, no reusable cups, same address as No Need to Wait.)
 - A Bowl of Yangchun Noodles/一碗阳春 (vegetarian buffet, no. 12, Guoji Road, Yangpu District)
 - Fortunate Vegan Cafe/幸福咖啡店 (vegan)
 - Vegegood/素来很好 (vegan)
@@ -161,7 +162,7 @@ For those interested in more unique vegan products, online platforms like Taobao
 Western-Style Vegan Food
 ------------------------
 
-For Western vegan options like vegan burgers, Beyond Meat burgers are available on JD. Additionally, the WeChat mini-app ButlerWhite and Epermarket offer a range of products, including vegan burgers, bread, and spreads.
+For Western vegan options like vegan burgers, Beyond Meat burgers are available on JD. Additionally, the WeChat mini-app Butler & White and Epermarket offer a range of products, including vegan burgers, bread, and spreads.
 
 Common Chinese Vegetarian Food
 ==============================
