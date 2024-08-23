@@ -103,81 +103,74 @@ By Location
 #### Vegan Restaurants
 
 1. **No Need to Wait For Light Vegetarian Food/轻蔬不用等**
-   - **Address**: No. 458 Jiangsu Road, Changning District
-   - **Description**: Fully vegan, offering light and healthy dishes with an emphasis on quick and convenient service.
+   - **Location:** 458 Jiangsu Road, Changning District
+   - **Description:** Fully vegan, offering light and healthy dishes with an emphasis on quick and convenient service.
 
 2. **Fortunate Vegan Cafe/幸福咖啡店**
-   - **Address**: 8/F, Ferguson Lane, 378 Wukang Road, Xuhui District
-   - **Description**: A popular spot for vegan Cantonese, Southeast Asian dishes, and Western-style breakfasts and pastries, known for its cozy atmosphere.
+   - **Location:** 8/F, Ferguson Lane, 378 Wukang Road, Xuhui District
 
 3. **Vegegood/素来很好**
-   - **Address**: 1376 Nanjing Road W., Room 114, 1/F (West side), Shanghai Centre
-   - **Description**: Offers healthy, flavor-packed East Asian bowls, wraps, and snacks, with many gluten-free options.
+   - **Location:** 411 Madang Road, Huangpu District
 
-4. **If Vegan/茹**
-   - **Address**: 3rd Floor, 408 North Shaanxi Road, near West Beijing Road, Jing'an District
-   - **Description**: Known for imitation meat dishes and a variety of authentic vegetarian options, housed in a charming venue with a green, garden-like atmosphere.
+4. **Pure Vegan/茹**
+   - **Location:** L4-03, Retail Area, Bohua Plaza, Building 2, 388 Shanhaiguan Road, Jing'an District
 
-5. **Ruo Wu 若无**
-   - **Address**: 3rd Floor, 408 North Shaanxi Road, near West Beijing Road, Jing'an District
-   - **Description**: Offers a Taiwan-style set menu with options for a traditional tea set, located in the same building as If Vegan.
+5. **Ruo Wu/若无**
+   - **Location:** Kangding Building, 464 Xikang Road, Jing'an District
 
 6. **Carrot & Cleaver/蔬蔬食验室**
-   - **Address**: 1376 Nanjing Road W., Room 114, 1/F (West side), Shanghai Centre
-   - **Description**: Focuses on healthy East Asian bowls, wraps, and snacks, emphasizing house-made fermented foods and gluten-free options.
+   - **Location:** Room 105, Floor F1, Shanghai Centre, 1376 Nanjing West Road, Jing'an District
 
 #### Vegetarian Restaurants
 
 1. **A Bowl of Yangchun Noodles/一碗阳春**
-   - **Address**: No. 12 Guoji Road, Yangpu District; No. 408 North Shaanxi Road, Jing'an District
-   - **Description**: Offers a wide range of plant-based dishes in a buffet style, focusing on local flavors.
+   - **Locations:** 
+       - **Xuhui District:** 362-1 Tianlin East Road (near Qinzhou Road)
+       - **Yangpu District:** 12 Guoji Road, Wujiaochang (130 meters walk from Exit 2 of Jiangwan Stadium Subway Station)
 
-2. **Yan Ge Ge/焱格格**
-   - **Address**: 1/F, 800 Changde Road, Jing'an District
-   - **Description**: Specializes in a hotpot experience featuring a wide variety of mushrooms as the main ingredient.
+2. **Yan Gege Vegetarian Hotpot/焱格格素食料理火锅**
+   - **Location:** Floor A4-1, Xiuyuan District, 800 Changde Road, Jing'an District
 
-3. **Jade Buddha Temple Restaurant/玉佛寺素斋**
-   - **Address**: 170 Anyuan Road, Jing'an District
-   - **Description**: A traditional vegetarian restaurant within the Jade Buddha Temple, offering a peaceful dining experience.
+3. **Jade Buddha Temple Restaurant/玉佛寺素斋店**
+   - **Location:** 6 Lane 1268, North Shaanxi Road, Putuo District
 
 4. **Ci Guang Temple Restaurant/慈光素食部**
-   - **Address**: 711 Jiangning Road, Jing'an District
-   - **Description**: Serves a variety of vegetarian dishes, with a popular takeaway dim sum section.
+   - **Location:** 271 Ji'an Road, Huangpu District (220 meters walk from Exit 4 of Laoximen Subway Station)
+   - **Description:** Vegetarian restaurant on the second floor. Take-away vegetarian dim sum on the first.
 
 5. **Chun Feng Song Yue Lou/春风松月楼**
-   - **Address**: 1st Floor, Shanghai Palace, No 77 Songshan Road, Huangpu District
-   - **Description**: Known for serving classic Chinese vegetarian dishes with a focus on traditional flavors.
+   - **Locations:** 
+       - **Jing'an District:** F1 Floor, Jiuguang Department Store, 1618 Nanjing West Road
+       - **Huangpu District:** 23 Bailing Road (400 meters walk from Exit 7 of Yuyuan Subway Station)
 
 6. **Su Xin Su Shi/愫心素食**
-   - **Address**: 1415 Huaihai Road, Xuhui District
-   - **Description**: Features Tibetan and Sichuan-style vegetarian dishes with bold flavors.
+   - **Location:** 1585 Huashan Road, Changning District, Huashan Garden (near the motor vehicle exit)
 
 7. **Jujube Tree/枣子树 (Vegetarian Lifestyle)**
-   - **Locations**:
-     - **Jing'an District**: 258 Fengxian Road, near Jiangning Road.
-     - **Huangpu District**: L3 Floor, K11 Shopping Art Center, No. 300 Huaihai Middle Road.
-     - **Xuhui District**: 77 Songshan Road, near Middle Huaihai Road.
-   - **Description**: Famous for its synthetic meat dishes made from tofu or seitan, offering a diverse menu of vegetarian classics.
+   - **Locations:**
+       - **Jing'an District:** 258 Fengxian Road, near Jiangning Road
+       - **Huangpu District:** L3 Floor, K11 Shopping Art Center, 300 Huaihai Middle Road
+       - **Baoshan District:** 1st Floor, Building 6, 320 Jiqun Road
+   - **Description:** Famous for its plant-based meat-alternative dishes.
 
 #### Vegetarian-Friendly Restaurants
 
 1. **Ganesha/咖乃芗**
-   - **Address**: No. 458 Jiangsu Road, Changning District
-   - **Description**: An Indian restaurant offering a wide range of vegetarian options.
+   - **Location:** 458 Jiangsu Road, Changning District
+   - **Description:** An Indian restaurant offering a wide range of vegetarian options.
 
 2. **Wagas**
-   - **Address**: No. 458 Jiangsu Road, Changning District (same location as Ganesha). Wagas has over 20 locations throughout Shanghai.
-   - **Description**: Offers vegetarian salads, with vegan options available upon request. They also feature seasonal vegan dishes.
+   - **Location:** 458 Jiangsu Road, Changning District (same location as Ganesha). Wagas has over 20 locations throughout Shanghai.
+   - **Description:** Offers vegetarian salads, with vegan options available upon request. They also feature seasonal vegan dishes.
 
-3. **Qingchun Perma/朴门庆春**
-   - **Address**: WL401, Lane 500, Dongyu Road, Qiantan Taikoo Li, Pudong District
-   - **Description**: Known for elevated plant-based takes on classic dishes, using many organic ingredients.
+3. **Qingchun Perma/庆春朴门**
+   - **Location:** Shop WL401, 1-9 North District, Lane 500 Dongyu Road, Taikoo Li, Qiantan, Pudong New Area
 
 4. **Green Friday**
-   - **Address**: 1F, 1376 Nanjing West Road, Jing'an District
-   - **Description**: A fusion restaurant offering Western-style vegetarian dishes, including plant-based meat burgers.
-
-This list should now be accurate and up-to-date, with all the details you requested integrated seamlessly. If there's anything more you'd like to adjust, feel free to ask!
+   - **Locations:**
+       - **Pudong New Area:** 5F Sanlin Impression Plaza, 188 Yixing Road
+       - **Pudong New Area:** 1559 Pudong Avenue, Binjiang Guanghe New Building (opposite to KFC on the first floor of the shopping mall)
+   - **Description:** A fusion restaurant offering Western-style vegetarian dishes, including plant-based meat burgers.
 
 ### Chengdu/成都
 
