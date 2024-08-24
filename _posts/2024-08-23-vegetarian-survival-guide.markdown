@@ -84,7 +84,16 @@ By Location
 
 1. **Zizai Pavilion Plant Cuisine / 自在阁植物料理**
    - **Location:** 28 Ma'anshan East Road, Kunshan
-   - **Description:** A vegetarian buffet offering a variety of dishes with a pay-as-you-wish dinner option.
+   - **Description:** This vegetarian buffet offers a wide variety of dishes with a unique
+     pay-as-you-wish dinner option. It’s a popular spot among locals, so be sure to arrive
+     before 11:30 am to ensure there’s plenty of food left. As of now, the cost is 38 yuan
+     per person, but you can purchase a bundle of 10 coupons at a discounted rate of 28
+     yuan each. If you're celebrating a special occasion, the restaurant also offers a
+     special menu for groups of ten in a private dining room.
+     They offer a variety of traditional Chinese dishes, including cold salads,
+     stir-fries, steamed root vegetables, stews, traditional cakes, noodles, and hot pots.
+     Soda, water, and soup are included in the buffet, but coffee is sold separately at a
+     relatively high price.
    - **Links:** 
      [Amap](https://amap.com/search?query=自在阁植物料理+餐馆+昆山) | 
      [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+自在阁植物料理) | 
