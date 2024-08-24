@@ -82,126 +82,231 @@ By Location
 
 #### Vegetarian Restaurants
 
-1. [Zizai Pavilion Plant Cuisine / 自在阁植物料理](https://amap.com/search?query=自在阁植物料理+餐馆+昆山)
-   - **Location:** No. 28, Ma'anshan East Road, Kunshan
+1. **Zizai Pavilion Plant Cuisine / 自在阁植物料理**
+   - **Location:** 28 Ma'anshan East Road, Kunshan
    - **Description:** A vegetarian buffet offering a variety of dishes with a pay-as-you-wish dinner option.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=自在阁植物料理+餐馆+昆山) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+自在阁植物料理) | 
+     [Google](https://www.google.com/search?q=昆山+自在阁植物料理)
 
-2. [Natural Vegetarian Buffet Restaurant / 自然风蔬食自助餐厅](https://amap.com/search?query=自然风蔬食自助餐厅+餐馆+昆山)
-   - **Location:** Opposite the Post Office, No. 356, Huanghe North Road, Kunshan
-   - **Description:** A self-serve vegetarian buffet known for its variety of vegan options. The pricing is very affordable, making it a popular choice among locals.
+2. **Natural Vegetarian Buffet Restaurant / 自然风蔬食自助餐厅**
+   - **Location:** 356 Huanghe North Road, Kunshan (opposite the Post Office)
+   - **Description:** An affordable self-serve vegetarian buffet known for its variety of vegan options.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=自然风蔬食自助餐厅+餐馆+昆山) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+自然风蔬食自助餐厅) | 
+     [Google](https://www.google.com/search?q=昆山+自然风蔬食自助餐厅)
 
 #### Vegetarian-Friendly Restaurants
 
-1. [Shufeng Small Hotpot / 蜀风小火锅](https://amap.com/search?query=蜀风小火锅+餐馆+昆山)
+1. **Shufeng Small Hotpot / 蜀风小火锅**
    - **Location:** 1st Floor Food Court, Da Run Fa, 46 Baimajing Road, Chao Hua City Plaza, Kunshan
-   - **Description:** Offers a unique individual hotpot experience with many vegetarian options.
+   - **Description:** Offers individual hotpot experiences with many vegetarian options.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=蜀风小火锅+餐馆+昆山) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+蜀风小火锅) | 
+     [Google](https://www.google.com/search?q=昆山+蜀风小火锅)
 
-2. [Xibei / 西贝](https://amap.com/search?query=西贝+餐馆+昆山)
-   - **Location:** Unit 403, Building 3, No. 1128, Renmin South Road, Kunshan
-   - **Description:** North-western Chinese cuisine with vegetarian-friendly dishes like Liangpi (cold skin noodles).
+2. **Xibei / 西贝**
+   - **Location:** Unit 403, Building 3, 1128 Renmin South Road, Kunshan
+   - **Description:** North-western Chinese cuisine featuring vegetarian-friendly dishes like Liangpi (cold skin noodles).
+   - **Links:** 
+     [Amap](https://amap.com/search?query=西贝+餐馆+昆山) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+西贝) | 
+     [Google](https://www.google.com/search?q=昆山+西贝)
 
-3. [Kuafu Fried Skewers / 夸父炸串](https://amap.com/search?query=夸父炸串+餐馆+昆山)
+3. **Kuafu Fried Skewers / 夸父炸串**
    - **Location:** Multiple locations across Kunshan
-   - **Description:** Specializes in fried skewers with vegetarian options like tofu and vegetables.
+   - **Description:** Specializes in fried skewers, including vegetarian options like tofu and vegetables.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=夸父炸串+餐馆+昆山) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+夸父炸串) | 
+     [Google](https://www.google.com/search?q=昆山+夸父炸串)
 
-4. [Yanhuo Makes Skewers / 烟火成串](https://amap.com/search?query=烟火成串+餐馆+昆山)
+4. **Yanhuo Makes Skewers / 烟火成串**
    - **Location:** Multiple locations across Kunshan
-   - **Description:** Known for BBQ skewers, with several vegetarian options available.
+   - **Description:** Known for BBQ skewers, offering several vegetarian options.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=烟火成串+餐馆+昆山) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+烟火成串) | 
+     [Google](https://www.google.com/search?q=昆山+烟火成串)
 
-5. [Dreamherb / 梦田花园](https://amap.com/search?query=梦田花园+餐馆+昆山)
-   - **Location:** No. 179-3, Huanghe North Road, Kunshan
+5. **Dreamherb / 梦田花园**
+   - **Location:** 179-3 Huanghe North Road, Kunshan
    - **Description:** Offers Taiwan-style set meals with vegetarian options.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=梦田花园+餐馆+昆山) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+梦田花园) | 
+     [Google](https://www.google.com/search?q=昆山+梦田花园)
 
-6. [Yidiantian Urban Farm / 益点田城市农场](https://amap.com/search?query=益点田城市农场+餐馆+昆山)
+6. **Yidiantian Urban Farm / 益点田城市农场**
    - **Location:** Southeast corner of Xiaolin West Road and Yuanshi Road, Kunshan
    - **Description:** Focuses on healthy, organic meals with several vegetarian choices.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=益点田城市农场+餐馆+昆山) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+益点田城市农场) | 
+     [Google](https://www.google.com/search?q=昆山+益点田城市农场)
 
 ### Shanghai / 上海
 
 #### Vegan Restaurants
 
-1. [No Need to Wait For Light Vegetarian Food / 轻蔬不用等](https://amap.com/search?query=轻蔬不用等+餐馆+上海)
-   - **Location:** No. 458, Jiangsu Road, Changning District, Shanghai
-   - **Description:** Fully vegan, offering light and healthy dishes with an emphasis on quick and convenient service.
+1. **No Need to Wait For Light Vegetarian Food / 轻蔬不用等**
+   - **Location:** 458 Jiangsu Road, Changning District, Shanghai
+   - **Description:** Fully vegan restaurant offering light, healthy dishes with quick and convenient service.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=轻蔬不用等+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+轻蔬不用等) | 
+     [Google](https://www.google.com/search?q=上海+轻蔬不用等)
 
-2. [Fortunate Vegan Cafe / 幸福咖啡店](https://amap.com/search?query=幸福咖啡店+餐馆+上海)
-   - **Location:** 8/F, Ferguson Lane, No. 378, Wukang Road, Xuhui District, Shanghai
+2. **Fortunate Vegan Cafe / 幸福咖啡店**
+   - **Location:** 8/F, Ferguson Lane, 378 Wukang Road, Xuhui District, Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=幸福咖啡店+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店) | 
+     [Google](https://www.google.com/search?q=上海+幸福咖啡店)
 
-3. [Vegegood / 素来很好](https://amap.com/search?query=素来很好+餐馆+上海)
-   - **Location:** No. 411, Madang Road, Huangpu District, Shanghai
+3. **Vegegood / 素来很好**
+   - **Location:** 411 Madang Road, Huangpu District, Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=素来很好+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+素来很好) | 
+     [Google](https://www.google.com/search?q=上海+素来很好)
 
-4. [Pure Vegan / 茹](https://amap.com/search?query=茹+餐馆+上海)
-   - **Location:** L4-03, Retail Area, Bohua Plaza, Building 2, No. 388, Shanhaiguan Road, Jing'an District, Shanghai
+4. **Pure Vegan / 茹**
+   - **Location:** L4-03, Retail Area, Bohua Plaza, Building 2, 388 Shanhaiguan Road, Jing'an District, Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=茹+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+茹) | 
+     [Google](https://www.google.com/search?q=上海+茹)
 
-5. [Ruo Wu / 若无](https://amap.com/search?query=若无+餐馆+上海)
-   - **Location:** Kangding Building, No. 464, Xikang Road, Jing'an District, Shanghai
+5. **Ruo Wu / 若无**
+   - **Location:** Kangding Building, 464 Xikang Road, Jing'an District, Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=若无+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+若无) | 
+     [Google](https://www.google.com/search?q=上海+若无)
 
-6. [Carrot & Cleaver / 蔬蔬食验室](https://amap.com/search?query=蔬蔬食验室+餐馆+上海)
-   - **Location:** Room 105, Floor F1, Shanghai Centre, No. 1376, Nanjing West Road, Jing'an District, Shanghai
+6. **Carrot & Cleaver / 蔬蔬食验室**
+   - **Location:** Room 105, Floor F1, Shanghai Centre, 1376 Nanjing West Road, Jing'an District, Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=蔬蔬食验室+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+蔬蔬食验室) | 
+     [Google](https://www.google.com/search?q=上海+蔬蔬食验室)
 
 #### Vegetarian Restaurants
 
-1. [A Bowl of Yangchun Noodles / 一碗阳春](https://amap.com/search?query=一碗阳春+餐馆+上海)
+1. **A Bowl of Yangchun Noodles / 一碗阳春**
    - **Locations:**
-       - **Xuhui District:** No. 362-1, Tianlin East Road (near Qinzhou Road), Shanghai
-       - **Yangpu District:** No. 12, Guoji Road, Wujiaochang (130 meters walk from Exit 2 of Jiangwan Stadium Subway Station), Shanghai
+     - Xuhui District: 362-1 Tianlin East Road (near Qinzhou Road), Shanghai
+     - Yangpu District: 12 Guoji Road, Wujiaochang (130 meters from Exit 2 of Jiangwan Stadium Subway Station), Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=一碗阳春+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+一碗阳春) | 
+     [Google](https://www.google.com/search?q=上海+一碗阳春)
 
-2. [Yan Gege Vegetarian Hotpot / 焱格格素食料理火锅](https://amap.com/search?query=焱格格素食料理火锅+餐馆+上海)
-   - **Location:** Floor A4-1, Xiuyuan District, No. 800, Changde Road, Jing'an District, Shanghai
+2. **Yan Gege Vegetarian Hotpot / 焱格格素食料理火锅**
+   - **Location:** Floor A4-1, Xiuyuan District, 800 Changde Road, Jing'an District, Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=焱格格素食料理火锅+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+焱格格素食料理火锅) | 
+     [Google](https://www.google.com/search?q=上海+焱格格素食料理火锅)
 
-3. [Jade Buddha Temple Restaurant / 玉佛寺素斋店](https://amap.com/search?query=玉佛寺素斋店+餐馆+上海)
-   - **Location:** No. 6, Lane 1268, North Shaanxi Road, Putuo District, Shanghai
+3. **Jade Buddha Temple Restaurant / 玉佛寺素斋店**
+   - **Location:** 6 Lane 1268, North Shaanxi Road, Putuo District, Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=玉佛寺素斋店+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+玉佛寺素斋店) | 
+     [Google](https://www.google.com/search?q=上海+玉佛寺素斋店)
 
-4. [Ci Guang Temple Restaurant / 慈光素食部](https://amap.com/search?query=慈光素食部+餐馆+上海)
-   - **Location:** No. 271, Ji'an Road, Huangpu District, Shanghai (220 meters walk from Exit 4 of Laoximen Subway Station)
-   - **Description:** Vegetarian restaurant on the second floor. Take-away vegetarian dim sum on the first.
+4. **Ci Guang Temple Restaurant / 慈光素食部**
+   - **Location:** 271 Ji'an Road, Huangpu District, Shanghai (220 meters from Exit 4 of Laoximen Subway Station)
+   - **Description:** Vegetarian restaurant on the second floor. Take-away vegetarian dim sum available on the first floor.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=慈光素食部+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+慈光素食部) | 
+     [Google](https://www.google.com/search?q=上海+慈光素食部)
 
-5. [Chun Feng Song Yue Lou / 春风松月楼](https://amap.com/search?query=春风松月楼+餐馆+上海)
+5. **Chun Feng Song Yue Lou / 春风松月楼**
    - **Locations:**
-       - **Jing'an District:** F1 Floor, Jiuguang Department Store, No. 1618, Nanjing West Road, Shanghai
-       - **Huangpu District:** No. 23, Bailing Road (400 meters walk from Exit 7 of Yuyuan Subway Station), Shanghai
+     - Jing'an District: F1 Floor, Jiuguang Department Store, 1618 Nanjing West Road, Shanghai
+     - Huangpu District: 23 Bailing Road (400 meters from Exit 7 of Yuyuan Subway Station), Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=春风松月楼+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+春风松月楼) | 
+     [Google](https://www.google.com/search?q=上海+春风松月楼)
 
-6. [Su Xin Su Shi / 愫心素食](https://amap.com/search?query=愫心素食+餐馆+上海)
-   - **Location:** No. 1585, Huashan Road, Changning District, Huashan Garden (near the motor vehicle exit), Shanghai
+6. **Su Xin Su Shi / 愫心素食**
+   - **Location:** 1585 Huashan Road, Changning District, Huashan Garden (near the motor vehicle exit), Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=愫心素食+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+愫心素食) | 
+     [Google](https://www.google.com/search?q=上海+愫心素食)
 
-7. [Jujube Tree / 枣子树 (Vegetarian Lifestyle)](https://amap.com/search?query=枣子树+餐馆+上海)
+7. **Jujube Tree / 枣子树 (Vegetarian Lifestyle)**
    - **Locations:**
-       - **Jing'an District:** No. 258, Fengxian Road (near Jiangning Road), Shanghai
-       - **Huangpu District:** L3 Floor, K11 Shopping Art Center, No. 300, Huaihai Middle Road, Shanghai
-       - **Baoshan District:** 1st Floor, Building 6, No. 320, Jiqun Road, Shanghai
+     - Jing'an District: 258 Fengxian Road (near Jiangning Road), Shanghai
+     - Huangpu District: L3 Floor, K11 Shopping Art Center, 300 Huaihai Middle Road, Shanghai
+     - Baoshan District: 1st Floor, Building 6, 320 Jiqun Road, Shanghai
    - **Description:** Famous for its plant-based meat-alternative dishes.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=枣子树+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+枣子树) | 
+     [Google](https://www.google.com/search?q=上海+枣子树)
 
 #### Vegetarian-Friendly Restaurants
 
-1. [Ganesha / 咖乃芗](https://amap.com/search?query=咖乃芗+餐馆+上海)
-   - **Location:** No. 458, Jiangsu Road, Changning District, Shanghai
+1. **Ganesha / 咖乃芗**
+   - **Location:** 458 Jiangsu Road, Changning District, Shanghai
    - **Description:** An Indian restaurant offering a wide range of vegetarian options.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=咖乃芗+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+咖乃芗) | 
+     [Google](https://www.google.com/search?q=上海+咖乃芗)
 
-2. [Wagas](https://amap.com/search?query=Wagas+餐馆+上海)
-   - **Location:** No. 458, Jiangsu Road, Changning District, Shanghai (same location as Ganesha). Wagas has over 20 locations throughout Shanghai.
-   - **Description:** Offers vegetarian salads, with vegan options available upon request. They also feature seasonal vegan dishes.
+2. **Wagas**
+   - **Location:** Multiple locations throughout Shanghai, including 458 Jiangsu Road, Changning District (same location as Ganesha)
+   - **Description:** Offers vegetarian salads with vegan options available upon request. They also feature seasonal vegan dishes.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=Wagas+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+Wagas) | 
+     [Google](https://www.google.com/search?q=上海+Wagas)
 
-3. [Qingchun Perma / 庆春朴门](https://amap.com/search?query=庆春朴门+餐馆+上海)
+3. **Qingchun Perma / 庆春朴门**
    - **Location:** Shop WL401, 1-9 North District, Lane 500, Dongyu Road, Taikoo Li, Qiantan, Pudong New Area, Shanghai
+   - **Links:** 
+     [Amap](https://amap.com/search?query=庆春朴门+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门) | 
+     [Google](https://www.google.com/search?q=上海+庆春朴门)
 
-4. [Green Friday](https://amap.com/search?query=Green+Friday+餐馆+上海)
+4. **Green Friday**
    - **Locations:**
-       - **Pudong New Area:** 5F Sanlin Impression Plaza, No. 188, Yixing Road, Shanghai
-       - **Pudong New Area:** No. 1559, Pudong Avenue, Binjiang Guanghe New Building (opposite to KFC on the first floor of the shopping mall), Shanghai
+     - Pudong New Area: 5F Sanlin Impression Plaza, 188 Yixing Road, Shanghai
+     - Pudong New Area: 1559 Pudong Avenue, Binjiang Guanghe New Building (opposite KFC on the first floor of the shopping mall), Shanghai
    - **Description:** A fusion restaurant offering Western-style vegetarian dishes, including plant-based meat burgers.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=Green+Friday+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+Green+Friday) | 
+     [Google](https://www.google.com/search?q=上海+Green+Friday)
 
-### Suzhou/苏州
+### Suzhou / 苏州
 
-- [Lotus Veg Cafe / 水中莲](https://amap.com/search?query=水中莲+餐馆+苏州)
-- [Sumanxiang / 素满香](https://amap.com/search?query=素满香+餐馆+苏州)
+1. **Lotus Veg Cafe / 水中莲**
+   - **Locations:**
+     - Wuzhong District: 2nd Floor, South Building, Suyue Plaza, 119 Suzhou Avenue West, Suzhou
+     - Gusu District: 529 Jingde Road, Suzhou
+   - **Links:** 
+     [Amap](https://amap.com/search?query=水中莲+餐馆+苏州) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=苏州+水中莲) | 
+     [Google](https://www.google.com/search?q=苏州+水中莲)
 
-### Chengdu/成都
-
-#### Vegetarian Restaurants
-
-- [Handou's Kitchen / 憨豆厨房](https://amap.com/search?query=憨豆厨房+餐馆+成都)
-- [Jujube Tree / 枣子树](https://amap.com/search?query=枣子树+餐馆+成都)
-
+2. **Sumanxiang / 素满香**
+   - **Location:** Multiple locations across Suzhou
+   - **Links:** 
+     [Amap](https://amap.com/search?query=素满香+餐馆+苏州) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=苏州+素满香) | 
+     [Google](https://www.google.com/search?q=苏州+素满香)
 ## By Restaurant Type
 
 ### Noodle Restaurants
