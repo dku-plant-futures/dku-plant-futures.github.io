@@ -116,7 +116,7 @@ I hope you’ll join us on our next adventure!
 </center>
 <center>
 <img src="/images/2024/fortunate-vegan-cafe/13.jpg" width="450" />
-<p>Fried vegetarian sushi roll</p>
+<p>Fried vegan sushi roll</p>
 </center>
 <center>
 <img src="/images/2024/fortunate-vegan-cafe/14.jpg" width="450" />
