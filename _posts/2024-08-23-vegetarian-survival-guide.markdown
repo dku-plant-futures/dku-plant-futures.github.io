@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vegetarian Survival Guide at Duke Kunshan University (2024-2025)"
+title:  "🧭 Vegetarian Survival Guide at Duke Kunshan University (2024-2025)"
 subtitle: September 2023 Version
 date:   2024-08-23 11:59
 categories: guide
