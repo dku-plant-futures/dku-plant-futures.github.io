@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "😋 A Day of Gourmet Vegan Food in Shanghai"
-date:   2024-08-28 21:00
+date:   2024-08-28 20:00
 categories: events
 ---
 
