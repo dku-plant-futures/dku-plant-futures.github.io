@@ -264,6 +264,14 @@ By Location
      [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+枣子树) | 
      [Google](https://www.google.com/search?q=上海+枣子树)
 
+8. **Gongdelin / 功德林**
+   - **Locations:** Huangpu District: 445 Nanjing Xi Lu, Shanghai
+   - **Description:** Famous for its long history. Very popular among locals.
+   - **Links:** 
+     [Amap](https://amap.com/search?query=功德林+餐馆+上海) | 
+     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+功德林) | 
+     [Google](https://www.google.com/search?q=上海+功德林)
+
 #### Vegetarian-Friendly Restaurants
 
 1. **Ganesha / 咖乃芗**
