@@ -2,7 +2,7 @@
 layout: post
 title:  "📚 Meatless Monday Lunch + Book Club (Fall 2024)"
 date:   2024-08-22 16:44
-categories: event
+categories: events
 ---
 
 <center>

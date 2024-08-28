@@ -2,7 +2,7 @@
 layout: post
 title:  "📚 Book Club: How Not to Die (Intro)"
 date:   2024-08-28 17:19
-categories: event
+categories: events
 ---
 
 We had our first a meatless Monday lunch + Book Club this Monday.

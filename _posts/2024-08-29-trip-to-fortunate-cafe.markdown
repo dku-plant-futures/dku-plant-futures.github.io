@@ -2,7 +2,7 @@
 layout: post
 title:  "😋 A Day of Gourmet Vegan Food in Shanghai"
 date:   2024-08-29 08:00
-categories: event
+categories: events
 ---
 
 Last Sunday (August 28), I (your humble club advisor) and some members of Plant Futures DKU took a trip to Shanghai for a music and vegan afternoon buffet event at [Fortunate Cafe]({% post_url 2024-08-23-vegetarian-survival-guide %}#vegan-restaurants). Despite the intense heat (this summer has been :hot_face:), and Shanghai being a bit far, we enjoyed some amazing food and had a fantastic time.
