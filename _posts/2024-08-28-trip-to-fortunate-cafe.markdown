@@ -120,19 +120,19 @@ I hope you’ll join us on our next adventure!
 </center>
 <center>
 <img src="/images/2024/fortunate-vegan-cafe/14.jpg" width="450" />
-<p>Vegetarian meat cake</p>
+<p>Vegan meat cake</p>
 </center>
 <center>
 <img src="/images/2024/fortunate-vegan-cafe/15.jpg" width="450" />
-<p>Vegetarian :fish: balls</p>
+<p>Vegan :fish: balls</p>
 </center>
 <center>
 <img src="/images/2024/fortunate-vegan-cafe/16.jpg" width="450" />
-<p>Vegetarian beef</p>
+<p>Vegan beef</p>
 </center>
 <center>
 <img src="/images/2024/fortunate-vegan-cafe/17.jpg" width="450" />
-<p>Vegetarian BBQ ribs</p>
+<p>Vegan BBQ ribs</p>
 </center>
 <center>
 <img src="/images/2024/fortunate-vegan-cafe/18.jpg" width="450" />
