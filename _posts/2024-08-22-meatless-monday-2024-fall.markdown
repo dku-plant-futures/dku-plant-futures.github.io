@@ -2,11 +2,11 @@
 layout: post
 title:  "Meatless Monday Lunch + Book Club (Fall 2024)"
 date:   2024-08-22 16:44
-categories: events
+categories: event
 ---
 
 <center>
-    <img src="/images/2024/Meatless-Monday-2024-Fall-v2.png" width="500" alt="Poster of Meatless Monday" />
+    <img src="/images/2024/how-not-to-die/meatless-monday-2024-fall-v2.png" width="500" alt="Poster of Meatless Monday" />
 </center>
 
 🌿 This semester join us for a special Meatless Monday Lunch + Book Club at DKU! 
