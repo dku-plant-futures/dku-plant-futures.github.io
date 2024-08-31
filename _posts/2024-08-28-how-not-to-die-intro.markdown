@@ -37,6 +37,8 @@ width="350">
 - Has written numerous 📚 on 🌱-based diets, health, and medicine.
 - Passionate advocate for healthy living.
 
+---
+
 # 🏆 Trivia
 
 **Which of the following statements are true?**
@@ -47,6 +49,8 @@ width="350">
 - A 🌱-based diet is always healthier than any other.
 
 **Answer correctly and get a treat!**
+
+---
 
 # Dying from Old Age
 
