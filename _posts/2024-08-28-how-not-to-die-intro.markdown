@@ -9,7 +9,7 @@ We had our first a meatless Monday lunch + Book Club this Monday.
 Here is a summary of the introduction part of the book.
 Hope you will learn something about healthy diet!
 
-## How Not to Die
+# How Not to Die
 
 - Focuses on the impact of nutrition on preventing and reversing chronic diseases.
 - Provides evidence-based dietary advice supported by scientific research.
@@ -21,23 +21,23 @@ width="350">
 <p>How Not to Die Book Cover</p>
 </center>
 
-## Evidence-Based Diet
+# Evidence-Based Diet
 
 > In this book, I don't advocate for a vegetarian diet or a vegan diet. I advocate for an **evidence-based diet**, and the best available balance of science suggests that the more whole plant foods we eat, the better...
 
-## Michael Greger, M.D.
+# Michael Greger, M.D.
 
 - 🩺 ✏️ and internationally recognized 🗣 on public health issues.
 - Founder of [nutritionfacts.org](https://nutritionfacts.org).
 - Known for advocating a plant-based diet as a preventive measure against chronic diseases.
 
-## Gene Stone
+# Gene Stone
 
 - Acclaimed ✏️ and 📰 with expertise in health and wellness.
 - Has written numerous 📚 on 🌱-based diets, health, and medicine.
 - Passionate advocate for healthy living.
 
-## 🏆 Trivia
+# 🏆 Trivia
 
 **Which of the following statements are true?**
 - There is no such thing as dying from 👴 age.
@@ -48,7 +48,7 @@ width="350">
 
 **Answer correctly and get a treat!**
 
-## Dying from Old Age
+# Dying from Old Age
 
 **Statement:** There is no such thing as dying from 👴 age.
 **Answer:** ☑️
@@ -56,7 +56,7 @@ width="350">
 - A study of over 42,000 consecutive autopsies found that centenarians succumbed to diseases in 100% of cases.
 - People don't die as a consequence of aging itself, but from diseases, most commonly ❤️ attacks.
 
-## Nutrition Education in Medical Schools
+# Nutrition Education in Medical Schools
 
 **Statement:** Most 🩺 schools offer extensive courses in nutrition.
 **Answer:** ❌
@@ -64,7 +64,7 @@ width="350">
 - According to the most recent national survey, only 25% of 🩺 schools offer a single course in nutrition.
 - This is down from 37% thirty years ago.
 
-## Genetic Influence on Major Diseases
+# Genetic Influence on Major Diseases
 
 **Statement:** Our 🧬 accounts for 80-90% of our risk for major diseases.
 **Answer:** ❌
@@ -73,7 +73,7 @@ width="350">
 - Rates of diseases like ❤️ disease and major cancers differ up to a hundredfold among various populations globally.
 - When people ✈️ from low- to high-risk countries, their disease rates change to match the new environment.
 
-## Reversibility of Heart Disease
+# Reversibility of Heart Disease
 
 **Statement:** Heart disease is irreversible.
 **Answer:** ❌
@@ -82,7 +82,7 @@ width="350">
 - A whole-food, 🌱-based diet, along with other lifestyle changes, has been shown to halt and even reverse the progression of ❤️ disease.
 - This method gave Dr. Greger's grandma 31 more years to live.
 
-## Plant-Based Diet and Health
+# Plant-Based Diet and Health
 
 **Statement:** A 🌱-based diet is always healthier than any other diet.
 **Answer:** ❌
