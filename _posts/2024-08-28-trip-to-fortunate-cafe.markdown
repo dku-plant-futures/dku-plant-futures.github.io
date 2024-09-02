@@ -5,12 +5,12 @@ date:   2024-08-28 20:00
 categories: events
 ---
 
-Last Sunday (August 25), I (your humble club advisor) and some members of Plant Futures DKU took a trip to Shanghai for a music and vegan afternoon buffet event at [Fortunate Cafe]({% post_url 2024-08-23-vegetarian-survival-guide %}#vegan-restaurants). Despite the intense heat (this summer has been :hot_face:), and Shanghai being a bit far, we enjoyed some amazing food and had a fantastic time.
-
 <center>
 <img src="/images/2024/fortunate-vegan-cafe/01.jpg" width="95%" alt="Fortunate Cafe" />
 <p>The brave souls who ventured to Shanghai for food</p>
 </center>
+
+Last Sunday (August 25), I (your humble club advisor) and some members of Plant Futures DKU took a trip to Shanghai for a music and vegan afternoon buffet event at [Fortunate Cafe]({% post_url 2024-08-23-vegetarian-survival-guide %}#vegan-restaurants). Despite the intense heat (this summer has been :hot_face:), and Shanghai being a bit far, we enjoyed some amazing food and had a fantastic time.
 
 ## Lunch at GongDeLin
 

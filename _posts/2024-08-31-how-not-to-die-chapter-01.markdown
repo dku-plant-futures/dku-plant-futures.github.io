@@ -31,7 +31,7 @@ Join us next Monday, September 2, 2024, as we dive into Chapter 1 of *How Not to
 
 ---
 
-# 📖 Chapter 1 Summary
+# 📖 How Not to Die --- Chapter 1 Summary
 
 This chapter takes on heart disease, the top killer in America, claiming nearly 400,000 lives each year. 😢 But here’s the good news: Dr. Michael Greger reveals that heart disease is mostly preventable—and even reversible—when you eat the right foods! 🥦🍎
 
