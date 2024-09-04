@@ -38,4 +38,4 @@ selection if you choose to go later.
 
 During this trip, we also invited university canteen manager and two chefs to come and try
 the vegetarian food. Hopefully they will get some inspirations about how to improve the
-vegetarian options ad our canteen. :crossed_fingers:
+vegetarian options at our canteen. :crossed_fingers:
