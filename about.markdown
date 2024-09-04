@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Plant Futures DKU: Nature's Little Helpers](/images/animals-marching.webp)
+
 ## Table of Contents
 
 * TOC
