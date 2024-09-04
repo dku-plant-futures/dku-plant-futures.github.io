@@ -28,7 +28,7 @@ or leave comment at the end of this post.
 ### The Menus
 
 At the entrance of the University Community Center,
-you will find a QR code that links to the weekly menus:
+you will find a QR codes that links to the weekly menus:
 
 * [Specialty Counter Menu](https://h5.fenliu.cn/showonly/M666G_dA2PEfh)
 * [Chinese and Western Cuisine Menu](https://h5.fenliu.cn/showonly/M666G_xWcjiiU)
