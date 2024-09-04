@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+## Table of Contents
+
+* TOC
+{:toc}
+
 ## The Club
 
 This is the website for Plant Futures Club at Duke Kunshan University.
@@ -15,13 +20,24 @@ We also help to run the community garden at DKU.
 
 ## Our Team
 
+### Keyi Shi
+
+<p align="center">
+<img src="/images/people/keyi-shi.jpg" width="350" alt="Keyi Shi" />
+</p>
+
+**Keyi Shi** is a Master student of Environmental Policy, class of 2024. She co-founded Plant
+Futures at DKU in 2023 with the passion of promoting plant-based diets and making the
+dining environment more sustainable on campus. She also does research on behavioural change
+related to food consumption and hopes to influence more people around.
+
 ### Helene Gu
 
 <p align="center">
 <img src="/images/people/helene-gu.jpg" width="350" alt="Helene Gu" />
 </p>
 
-Helene Gu has been co-president of Plant Futures for 1+ year, focusing on research &
+**Helene Gu** has been co-president of Plant Futures for 1+ year, focusing on research &
 educational events for the club. With environmental justice as a core value, she believes
 a lower carbon diet is most achievable as a plant-based one. She is currently attempting
 veganism.
