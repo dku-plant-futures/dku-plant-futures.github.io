@@ -6,7 +6,7 @@ categories: events
 ---
 
 <center>
-<img 
+<img
     src="/images/2024/how-not-to-die/how-not-to-die-from-heart-disease.jpg"
         alt="How Not to Die from Heart Disease"
         width="500" />
@@ -19,12 +19,12 @@ Join us next Monday, September 2, 2024, as we dive into Chapter 1 of *How Not to
 
 ## 🏆 Trivia Time!
 
-**Which of these statements are true?**  
+**Which of these statements are true?**
 
-1. 💔 Heart disease is the leading cause of death in America.  
-2. 🧸 Atherosclerosis starts in childhood.  
-3. 💊 Statin drugs are completely safe with no side effects.  
-4. 🥦 A plant-based diet can reverse heart disease.  
+1. 💔 Heart disease is the leading cause of death in America.
+2. 🧸 Atherosclerosis starts in childhood.
+3. 💊 Statin drugs are completely safe with no side effects.
+4. 🥦 A plant-based diet can reverse heart disease.
 5. 🍟 A single fast-food meal has no immediate impact on artery function.
 
 **Answer correctly and win a treat!** 🍫
@@ -49,30 +49,30 @@ The chapter wraps up by exposing how food industry lobbying can mess with our di
 
 ### 🍏 America's Top Killer
 
-**Statement:** Heart disease is the leading cause of death in America.  
-**Answer:** ☑️ **Correct!**  
+**Statement:** Heart disease is the leading cause of death in America.
+**Answer:** ☑️ **Correct!**
 **Explanation:** Heart disease claims nearly 400,000 lives in America every year—that's about one person every 83 seconds! 😲
 
 ### 🚸 Early Onset of Atherosclerosis
 
-**Statement:** Atherosclerosis starts in childhood.  
-**Answer:** ☑️ **You got it!**  
+**Statement:** Atherosclerosis starts in childhood.
+**Answer:** ☑️ **You got it!**
 **Explanation:** Atherosclerosis, which is plaque buildup in the arteries, can start as young as ten! 🧒 High cholesterol is linked to this even in kids.
 
 ### ⚠️ Safety of Statin Drugs
 
-**Statement:** Statin drugs are completely safe with no side effects.  
-**Answer:** ❌ **Nope!**  
+**Statement:** Statin drugs are completely safe with no side effects.
+**Answer:** ❌ **Nope!**
 **Explanation:** Statins can have some nasty side effects, like muscle damage, memory problems, and a higher risk of diabetes. 🚫
 
 ### 🌱 Reversing Heart Disease
 
-**Statement:** A plant-based diet can reverse heart disease.  
-**Answer:** ☑️ **Yes, indeed!**  
+**Statement:** A plant-based diet can reverse heart disease.
+**Answer:** ☑️ **Yes, indeed!**
 **Explanation:** Doctors have shown that plant-based diets can actually reverse heart disease! 🌿 They lower cholesterol as effectively as statins but without all the scary side effects.
 
 ### 🍔 Immediate Effects of Fast Food
 
-**Statement:** A single fast-food meal has no immediate impact on artery function.  
-**Answer:** ❌ **Wrong!**  
+**Statement:** A single fast-food meal has no immediate impact on artery function.
+**Answer:** ❌ **Wrong!**
 **Explanation:** Just one fast-food meal can stiffen your arteries for hours, making them less flexible and causing inflammation. 😱

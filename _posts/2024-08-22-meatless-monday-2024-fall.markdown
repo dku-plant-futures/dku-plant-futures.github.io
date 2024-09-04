@@ -6,7 +6,8 @@ categories: events
 ---
 
 <center>
-    <img src="/images/2024/how-not-to-die/meatless-monday-2024-fall-v2.png" width="500" alt="Poster of Meatless Monday" />
+    <img src="/images/2024/how-not-to-die/meatless-monday-2024-fall-v2.png" 
+    width="500" alt="Poster of Meatless Monday" />
 </center>
 
 🌿 This semester join us for a special Meatless Monday Lunch + Book Club at DKU! 

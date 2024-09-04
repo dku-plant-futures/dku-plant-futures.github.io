@@ -7,7 +7,7 @@ categories: events
 
 <center>
 <img src="/images/2024/how-not-to-die/how-not-to-die.jpg" alt="How Not to Die Book Cover"
-width="350">
+width="500">
 <p>How Not to Die Book Cover</p>
 </center>
 

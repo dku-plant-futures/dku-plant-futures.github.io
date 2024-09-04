@@ -5,6 +5,14 @@ date:   2024-09-07 20:00
 categories: events
 ---
 
+<center>
+<img
+    src="/images/2024/how-not-to-die/how-not-to-die-from-lung-disease.webp"
+        alt="How Not to Die from Lung Disease"
+        width="500" />
+<p>Nourish Your Lungs With a Plant-based Diet</p>
+</center>
+
 This chapter dives deep into the preventable causes of lung diseases, emphasizing the
 power of lifestyle changes—especially diet—to protect and heal our lungs. 
 

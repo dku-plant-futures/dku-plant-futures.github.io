@@ -6,7 +6,7 @@ categories: events
 ---
 
 <center>
-<img src="/images/2024/fortunate-vegan-cafe/01.jpg" width="95%" alt="Fortunate Cafe" />
+<img src="/images/2024/fortunate-vegan-cafe/01.jpg" width="100%" alt="Fortunate Cafe" />
 <p>The brave souls who ventured to Shanghai for food</p>
 </center>
 
