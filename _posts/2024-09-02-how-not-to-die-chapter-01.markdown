@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Book Club: How Not to Die From Heart Disease (Chapter 1)"
+title:  "📚 Book Club: How Not to Die From Heart Disease (Chapter 1 of How Not to Die)"
 date:   2024-08-31 20:00
 categories: events
 ---
