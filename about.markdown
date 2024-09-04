@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# The Club
+## The Club
 
 This is the website for Plant Futures Club at Duke Kunshan University.
 
@@ -13,7 +13,28 @@ promotion of plant-based products, such as a mostly vegetarian diet.
 
 We also help to run the community garden at DKU.
 
-# Contact
+## Our Team
+
+### Helene Gu
+
+<p align="center">
+<img src="/images/people/helene-gu.jpg" width="350" alt="Helene Gu" />
+</p>
+
+Helene Gu has been co-president of Plant Futures for 1+ year, focusing on research &
+educational events for the club. With environmental justice as a core value, she believes
+a lower carbon diet is most achievable as a plant-based one. She is currently attempting
+veganism.
+
+### Xing Shi Cai
+
+<p align="center">
+<img src="/images/people/xing-shi-cai.jpg" width="350" alt="Xing Shi Cai" />
+</p>
+
+**Xing Shi Cai** is an Assistant Professor of Mathematics at Duke Kunshan University and the advisor for Plant Futures DKU. Passionate about promoting a plant-based diet to reduce animal suffering and combat climate change, he occasionally writes on these topics on his [website](https://newptcai.gitlab.io/).
+
+## Contact
 
 * :email: [Helene Gu (Co-President)](mailto:helene.gu@dukekunshan.edu.cn)
 * :email: [Ola Stryjska (Co-President)](mailto:aleksandra.stryjska@dukekunshan.edu.cn)
