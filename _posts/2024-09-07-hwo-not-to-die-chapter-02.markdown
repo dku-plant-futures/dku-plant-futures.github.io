@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📚 Book Club: How Not to Die from Lung Diseases (Chapter 2 of How Not to Die)"
-date:   2024-09-07 20:00
+date:   2024-09-06 20:00
 categories: events
 ---
 
