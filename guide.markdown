@@ -421,3 +421,10 @@ their plant-based products like smoked vegan sausages.
 For Western vegan options like vegan burgers, Beyond Meat burgers are available on JD.
 Additionally, the WeChat mini-app Butler & White and Epermarket offer a range of products,
 including vegan burgers, bread, and spreads.
+
+### Database
+
+We have created a Google Spreadsheet to collect information of online stores which
+sells vegetarian food in China.
+You can view it [here](https://docs.google.com/spreadsheets/d/1NYiFF9QnKlpXws6vpz6vn6wdMyJ7fxrI/edit?usp=sharing&ouid=109340830272930732309&rtpof=true&sd=true).
+The database will be update monthly.
