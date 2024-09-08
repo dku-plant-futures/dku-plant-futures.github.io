@@ -8,8 +8,8 @@ categories: events
 <center>
 <img
     src="/images/2024/how-not-to-die/how-not-to-die-from-lung-disease.webp"
-        alt="How Not to Die from Lung Disease"
-        width="500" />
+    alt="How Not to Die from Lung Disease"
+    width="500" />
 <p>Nourish Your Lungs With a Plant-based Diet</p>
 </center>
 
