@@ -426,5 +426,5 @@ including vegan burgers, bread, and spreads.
 
 We have created a Google Spreadsheet to collect information of online stores which
 sells vegetarian food in China.
-You can view it [here](https://docs.google.com/spreadsheets/d/1NYiFF9QnKlpXws6vpz6vn6wdMyJ7fxrI/edit?usp=sharing&ouid=109340830272930732309&rtpof=true&sd=true).
-The database will be update monthly.
+You can view it [here](https://docs.qq.com/sheet/DZFNyeGl4bWplSkxY).
+Feel free to add more shops if you know any.
