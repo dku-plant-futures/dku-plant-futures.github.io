@@ -13,6 +13,10 @@ categories: events
 <p>Preserve Your Brain with Nutrition and Lifestyle Changes</p>
 </center>
 
+📆 The book club happens at 12:00PM every Monday,
+during our regular [Meatless Monday Lunch]({% link _posts/2024-08-22-meatless-monday-2024-fall.markdown %}) for details.
+in front of the salad bar at Community Center.
+
 Chapter 3 focuses on the prevention of stroke, Alzheimer's, and other brain diseases
 through diet, lifestyle, and mindful choices. Dr. Greger emphasizes that what we eat can
 protect our brains from damage and decline.
