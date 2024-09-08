@@ -47,7 +47,11 @@ She is currently attempting veganism.
 
 ### Ola Stryjska (Co-President)
 
-[Ola Stryjska](mailto:aleksandra.stryjska@dukekunshan.edu.cn) is a senior student at DKU. She is passionate about sharing the vegetarian food culture from her homeland with the DKU community.
+[Ola Stryjska](mailto:aleksandra.stryjska@dukekunshan.edu.cn) is a senior student at DKU,
+passionate about sharing the vegetarian food culture from her home country with the DKU
+community. 
+Recently, she hosted a [tasting event]({% link _posts/2024-08-19-inka-tasting.markdown %})
+to introduce Inka, a popular coffee alternative from her homeland, to the DKU members.
 
 ### Marseille Williamson (Co-President)
 
@@ -55,11 +59,15 @@ She is currently attempting veganism.
 
 ### Coco Zhang
 
-Coco Zhang is new to DKU and has a keen interest in promoting sustainability through artistic poster design.
+Coco Zhang is new to DKU and has a keen interest in promoting sustainability through
+artistic poster design. Having experienced extreme heat caused by climate change, she is
+deeply motivated to advocate for environmental awareness and action.
 
 ### Maya Slack
 
-Maya Slack is a senior double-majoring in Biology and Environmental Sciences and Policy. She is passionate about raising awareness of the close connection between our bodily health and the health of our environment.
+Maya Slack is a senior double-majoring in Biology and Environmental Sciences and Policy.
+She is passionate about raising awareness of the close connection between our bodily
+health and the health of our environment.
 
 ### Xing Shi Cai (Advisor)
 

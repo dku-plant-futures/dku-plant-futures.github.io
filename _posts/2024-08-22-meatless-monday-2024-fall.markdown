@@ -12,7 +12,7 @@ categories: events
 
 🌿 This semester join us for a special Meatless Monday Lunch + Book Club at DKU! 
 
-📚Starting on August 26, dive into a plant-based feast and a life-changing discussion. Do
+📚 Starting on August 26, dive into a plant-based feast and a life-changing discussion. Do
 you want to live forever? Explore chapters from [How Not to Die: Discover the Foods
 Scientifically Proven to Prevent and Reverse Disease](https://www.goodreads.com/book/show/25663961-how-not-to-die) by Michael Greger, MD, and
 uncover the secrets of longevity through nutrition. 🥗
