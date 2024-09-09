@@ -76,9 +76,12 @@ health and the health of our environment.
 </p>
 
 [Xing Shi Cai](mailto:xingshi.cai@dukekunshan.edu.cn) is an Assistant Professor of
-Mathematics at Duke Kunshan University and the advisor for Plant Futures DKU. Passionate
-about promoting a plant-based diet to reduce animal suffering and combat climate change,
-he occasionally writes on these topics on his [website](https://newptcai.gitlab.io/).
+Mathematics at Duke Kunshan University and the advisor for the Plant Futures DKU club. He
+is passionate about promoting a plant-based diet as a means to reduce animal suffering and
+combat climate change. He occasionally writes on these topics on his [personal
+website](https://newptcai.gitlab.io/). As the club advisor, he organizes Meatless Monday
+Lunches at DKU's canteen, arranges visits to vegetarian restaurants in Kunshan and the
+surrounding areas, and hosts documentary screenings and lectures on environmental issues.
 
 ## Contact
 
