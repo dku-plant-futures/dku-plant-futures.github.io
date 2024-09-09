@@ -13,9 +13,9 @@ categories: events
 <p>Nourish Your Lungs With a Plant-based Diet</p>
 </center>
 
-📆 The book club happens at 12:00PM every Monday,
-during our regular [Meatless Monday Lunch]({% link _posts/2024-08-22-meatless-monday-2024-fall.markdown %}) for details.
-in front of the salad bar at Community Center.
+📆 The book club meets every Monday at 12:00 PM during our regular
+[Meatless Monday Lunch]({% link _posts/2024-08-22-meatless-monday-2024-fall.markdown %}),
+near the stairs on the 2nd floor of CCT.
 
 This chapter dives deep into the preventable causes of lung diseases, emphasizing the
 power of lifestyle changes—especially diet—to protect and heal our lungs. 

@@ -5,6 +5,8 @@ date:   2024-08-22 16:44
 categories: events
 ---
 
+:zap: We have moved the meeting location to the area near the stairs on the 2nd floor of CCT. (2024-09-09)
+
 <center>
     <img src="/images/2024/how-not-to-die/meatless-monday-2024-fall-v2.png" 
     width="500" alt="Poster of Meatless Monday" />
@@ -18,7 +20,7 @@ Scientifically Proven to Prevent and Reverse Disease](https://www.goodreads.com/
 uncover the secrets of longevity through nutrition. 🥗
 
 * 🕛 When: Every Monday, starting August 26, 12:00 PM
-* 📍 Where: CCT 2nd Floor, Salad Bar
+* 📍 Where: CCT 2nd Floor~~, Salad Bar~~ (We moved to close to the stairs!)
 
 Challenge your palate and your perspectives! Open to all—whether you're a plant-based
 enthusiast or just curious. 📖💚
