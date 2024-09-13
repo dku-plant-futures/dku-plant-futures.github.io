@@ -29,8 +29,8 @@ or leave a comment at the end of this post.
 
 ### :open_book: The Menus
 
-At the entrance of the University Community Center,
-you will find QR codes that link to the weekly menus:
+The following QR codes will take you to the weekly menus at the University Canteen.
+You can also just click this [link](https://pan.baidu.com/s/1t9rQ0vOu6uPb8Ci7ftHb0A?pwd=3j8v).
 
 <center>
     <img src="/images/canteen/qr-code-for-menu-2024.jpg" sytle="max-width: 250px" />
