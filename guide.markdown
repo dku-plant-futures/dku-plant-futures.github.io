@@ -8,12 +8,14 @@ permalink: /guide/
     <img src="/images/2024/vegetarian-survival-guide-at-dku.webp" width="500" alt="Vegetarian Survival Guide" />
 </center>
 
-## Table of Contents
+## :book: Table of Contents
 
 * TOC
 {:toc}
 
-## Introduction
+## :seedling: Introduction
+
+*Last updated: 2024-09-13*
 
 This guide is provided by the Plant-Futures DKU (Duke Kunshan University) Club as a
 resource for individuals who are vegetarians, vegans, or those interested in incorporating
@@ -21,20 +23,19 @@ more plant-based foods into their diet.
 
 If you have any suggestions or would like to report a closure of a restaurant,
 please email us at [xingshi.cai@dukekunshan.edu.cn](mailto:xingshi.cai@dukekunshan.edu.cn)
-or leave comment at the end of this post.
+or leave a comment at the end of this post.
 
 ## :school: Eating at University Community Center
 
 ### :open_book: The Menus
 
 At the entrance of the University Community Center,
-you will find a QR codes that links to the weekly menus:
+you will find QR codes that link to the weekly menus:
 
 <center>
-    <img src="/images/canteen/qr-code-for-menu-2024.jpg" width="350" />
+    <img src="/images/canteen/qr-code-for-menu-2024.jpg" sytle="max-width: 250px" />
     <p>QR code for University Canteen Menu</p>
 </center>
-
 
 ### :rice: Third Floor (Chinese Food)
 
@@ -44,21 +45,20 @@ sections.
 
 ### :green_salad: Second Floor
 
-Now there is a salad bar on the second floor from which you can choose vegetarian
-ingredients.
-Note that among the three sauces provided, only the oil and vinegar dressing (油醋汁) is vegan.
+There is now a salad bar on the second floor from which you can choose vegetarian
+ingredients. Note that among the three sauces provided, only the oil and vinegar dressing (油醋汁) is vegan.
 
-At the Teppanyaki section, occasionally your can find fried tofu.
+At the Teppanyaki section, you can occasionally find fried tofu.
 Check the [menu](#the-menus) for more details.
 
 ### :sandwich: First/Ground Floor
 
-From Aug 26, 2024, hotpot with tomato-base vegetarian soup is available on the first floor.
+From Aug 26, 2024, hotpot with tomato-based *vegan* soup is available on the first floor.
 
-Baguette bread available on this floor is diary-free and egg-free, while the
+Baguette bread available on this floor is dairy-free and egg-free, while the
 bagel bread contains egg. The vegetarian sandwich may include cheese and
-diary-based sauce, but a vegetables-only version can be requested. Oat
-diary is available as a substitute for diary in coffee, at an additional
+dairy-based sauce, but a vegetables-only version can be requested. Oat
+milk is available as a substitute for dairy in coffee, at an additional
 cost of 2 yuan.
 
 The salad section now also sells fruit and vegetable cups.
@@ -78,15 +78,15 @@ important to note that the broth is fish-based.
 Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dried-tofu
 (豆腐干) may be found on the shelves. (Note that they are not always available.)
 
-## :chopsticks: Restaurants at Kunshan / 昆山
+## :chopsticks: Restaurants in Kunshan / 昆山
 
-### :egg: Vegetarian Restaurants
+### :broccoli: Vegetarian Restaurants
 
-1. **Zizai Pavilion Plant Cuisine / 自在阁植物料理**
+1. **Zizai Pavilion Plant Cuisine (自在阁植物料理)**
    - **Location:** 28 Ma'anshan East Road, Kunshan
    - **Description:** This vegetarian buffet offers a wide variety of dishes with a unique
-     pay-as-you-wish dinner option. It’s a popular spot among locals, so be sure to arrive
-     before 11:30 am to ensure there’s plenty of food left. As of now, the cost is 38 yuan
+     pay-as-you-wish dinner option. It's a popular spot among locals, so be sure to arrive
+     before 11:30 am to ensure there's plenty of food left. As of now, the cost is 38 yuan
      per person, but you can purchase a bundle of 10 coupons at a discounted rate of 28
      yuan each. If you're celebrating a special occasion, the restaurant also offers a
      special menu for groups of ten in a private dining room.
@@ -95,235 +95,234 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
      Soda, water, and soup are included in the buffet, but coffee is sold separately at a
      relatively high price.
    - **Links:** 
-     [Amap](https://amap.com/search?query=自在阁植物料理+餐馆+昆山) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+自在阁植物料理) | 
-     [Google](https://www.google.com/search?q=昆山+自在阁植物料理)
+     :world_map: [Amap](https://amap.com/search?query=自在阁植物料理+餐馆+昆山) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+自在阁植物料理) | 
+     :mag: [Google](https://www.google.com/search?q=昆山+自在阁植物料理)
 
-1. **Natural Vegetarian Buffet Restaurant / 自然风蔬食自助餐厅**
+2. **Natural Vegetarian Buffet Restaurant (自然风蔬食自助餐厅)**
    - **Location:** 356 Huanghe North Road, Kunshan (opposite the Post Office)
    - **Description:** An affordable self-serve vegetarian buffet known for its variety of vegan options.
    - **Links:** 
-     [Amap](https://amap.com/search?query=自然风蔬食自助餐厅+餐馆+昆山) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+自然风蔬食自助餐厅) | 
-     [Google](https://www.google.com/search?q=昆山+自然风蔬食自助餐厅)
+     :world_map: [Amap](https://amap.com/search?query=自然风蔬食自助餐厅+餐馆+昆山) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+自然风蔬食自助餐厅) | 
+     :mag: [Google](https://www.google.com/search?q=昆山+自然风蔬食自助餐厅)
 
 ### :stew: Vegetarian-Friendly Restaurants
 
-1. **Shufeng Small Hotpot / 蜀风小火锅**
+1. **Shufeng Small Hotpot (蜀风小火锅)**
    - **Location:** 1st Floor Food Court, Da Run Fa, 46 Baimajing Road, Chao Hua City Plaza, Kunshan
    - **Description:** Offers individual hotpot experiences with many vegetarian options.
    - **Links:** 
-     [Amap](https://amap.com/search?query=蜀风小火锅+餐馆+昆山) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+蜀风小火锅) | 
-     [Google](https://www.google.com/search?q=昆山+蜀风小火锅)
+     :world_map: [Amap](https://amap.com/search?query=蜀风小火锅+餐馆+昆山) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+蜀风小火锅) | 
+     :mag: [Google](https://www.google.com/search?q=昆山+蜀风小火锅)
 
-1. **Xibei / 西贝**
+2. **Xibei (西贝)**
    - **Location:** Unit 403, Building 3, 1128 Renmin South Road, Kunshan
    - **Description:** North-western Chinese cuisine featuring vegetarian-friendly dishes like Liangpi (cold skin noodles).
    - **Links:** 
-     [Amap](https://amap.com/search?query=西贝+餐馆+昆山) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+西贝) | 
-     [Google](https://www.google.com/search?q=昆山+西贝)
+     :world_map: [Amap](https://amap.com/search?query=西贝+餐馆+昆山) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+西贝) | 
+     :mag: [Google](https://www.google.com/search?q=昆山+西贝)
 
-1. **Kuafu Fried Skewers / 夸父炸串**
+3. **Kuafu Fried Skewers (夸父炸串)**
    - **Location:** Multiple locations across Kunshan
    - **Description:** Specializes in fried skewers, including vegetarian options like tofu and vegetables.
    - **Links:** 
-     [Amap](https://amap.com/search?query=夸父炸串+餐馆+昆山) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+夸父炸串) | 
-     [Google](https://www.google.com/search?q=昆山+夸父炸串)
+     :world_map: [Amap](https://amap.com/search?query=夸父炸串+餐馆+昆山) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+夸父炸串) | 
+     :mag: [Google](https://www.google.com/search?q=昆山+夸父炸串)
 
-1. **Yanhuo Makes Skewers / 烟火成串**
+4. **Yanhuo Makes Skewers (烟火成串)**
    - **Location:** Multiple locations across Kunshan
    - **Description:** Known for BBQ skewers, offering several vegetarian options.
    - **Links:** 
-     [Amap](https://amap.com/search?query=烟火成串+餐馆+昆山) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+烟火成串) | 
-     [Google](https://www.google.com/search?q=昆山+烟火成串)
+     :world_map: [Amap](https://amap.com/search?query=烟火成串+餐馆+昆山) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+烟火成串) | 
+     :mag: [Google](https://www.google.com/search?q=昆山+烟火成串)
 
-1. **Dreamherb / 梦田花园**
+5. **Dreamherb (梦田花园)**
    - **Location:** 179-3 Huanghe North Road, Kunshan
    - **Description:** Offers Taiwan-style set meals with vegetarian options.
    - **Links:** 
-     [Amap](https://amap.com/search?query=梦田花园+餐馆+昆山) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+梦田花园) | 
-     [Google](https://www.google.com/search?q=昆山+梦田花园)
+     :world_map: [Amap](https://amap.com/search?query=梦田花园+餐馆+昆山) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+梦田花园) | 
+     :mag: [Google](https://www.google.com/search?q=昆山+梦田花园)
 
-1. **Yidiantian Urban Farm / 益点田城市农场**
+6. **Yidiantian Urban Farm (益点田城市农场)**
    - **Location:** Southeast corner of Xiaolin West Road and Yuanshi Road, Kunshan
    - **Description:** Focuses on healthy, organic meals with several vegetarian choices.
    - **Links:** 
-     [Amap](https://amap.com/search?query=益点田城市农场+餐馆+昆山) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+益点田城市农场) | 
-     [Google](https://www.google.com/search?q=昆山+益点田城市农场)
+     :world_map: [Amap](https://amap.com/search?query=益点田城市农场+餐馆+昆山) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+益点田城市农场) | 
+     :mag: [Google](https://www.google.com/search?q=昆山+益点田城市农场)
 
 ## :chopsticks: Restaurants in Shanghai / 上海
 
-### :seedling: Vegan Restaurants
+### :carrot: Vegan Restaurants
 
-1. **No Need to Wait For Light Vegetarian Food / 轻蔬不用等**
+1. **No Need to Wait For Light Vegetarian Food (轻蔬不用等)**
    - **Location:** 458 Jiangsu Road, Changning District, Shanghai
    - **Description:** Fully vegan restaurant offering light, healthy dishes with quick and convenient service.
    - **Links:** 
-     [Amap](https://amap.com/search?query=轻蔬不用等+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+轻蔬不用等) | 
-     [Google](https://www.google.com/search?q=上海+轻蔬不用等)
+     :world_map: [Amap](https://amap.com/search?query=轻蔬不用等+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+轻蔬不用等) | 
+     :mag: [Google](https://www.google.com/search?q=上海+轻蔬不用等)
 
-1. **Fortunate Vegan Cafe / 幸福咖啡店**
+2. **Fortunate Vegan Cafe (幸福咖啡店)**
    - **Location:** 8/F, Ferguson Lane, 378 Wukang Road, Xuhui District, Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=幸福咖啡店+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店) | 
-     [Google](https://www.google.com/search?q=上海+幸福咖啡店)
+     :world_map: [Amap](https://amap.com/search?query=幸福咖啡店+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店) | 
+     :mag: [Google](https://www.google.com/search?q=上海+幸福咖啡店)
 
-1. **Vegegood / 素来很好**
+3. **Vegegood (素来很好)**
    - **Location:** 411 Madang Road, Huangpu District, Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=素来很好+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+素来很好) | 
-     [Google](https://www.google.com/search?q=上海+素来很好)
+     :world_map: [Amap](https://amap.com/search?query=素来很好+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+素来很好) | 
+     :mag: [Google](https://www.google.com/search?q=上海+素来很好)
 
-1. **Pure Vegan / 茹**
+4. **Pure Vegan (茹)**
    - **Location:** L4-03, Retail Area, Bohua Plaza, Building 2, 388 Shanhaiguan Road, Jing'an District, Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=茹+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+茹) | 
-     [Google](https://www.google.com/search?q=上海+茹)
+     :world_map: [Amap](https://amap.com/search?query=茹+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+茹) | 
+     :mag: [Google](https://www.google.com/search?q=上海+茹)
 
-1. **Ruo Wu / 若无**
+5. **Ruo Wu (若无)**
    - **Location:** Kangding Building, 464 Xikang Road, Jing'an District, Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=若无+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+若无) | 
-     [Google](https://www.google.com/search?q=上海+若无)
+     :world_map: [Amap](https://amap.com/search?query=若无+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+若无) | 
+     :mag: [Google](https://www.google.com/search?q=上海+若无)
 
-1. **Carrot & Cleaver / 蔬蔬食验室**
+6. **Carrot & Cleaver (蔬蔬食验室)**
    - **Location:** Room 105, Floor F1, Shanghai Centre, 1376 Nanjing West Road, Jing'an District, Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=蔬蔬食验室+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+蔬蔬食验室) | 
-     [Google](https://www.google.com/search?q=上海+蔬蔬食验室)
+     :world_map: [Amap](https://amap.com/search?query=蔬蔬食验室+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+蔬蔬食验室) | 
+     :mag: [Google](https://www.google.com/search?q=上海+蔬蔬食验室)
 
-1. **Yan Gege Vegetarian Hotpot / 焱格格素食料理火锅**
+7. **Yan Gege Vegetarian Hotpot (焱格格素食料理火锅)**
    - **Location:** Floor A4-1, Xiuyuan District, 800 Changde Road, Jing'an District, Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=焱格格素食料理火锅+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+焱格格素食料理火锅) | 
-     [Google](https://www.google.com/search?q=上海+焱格格素食料理火锅)
+     :world_map: [Amap](https://amap.com/search?query=焱格格素食料理火锅+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+焱格格素食料理火锅) | 
+     :mag: [Google](https://www.google.com/search?q=上海+焱格格素食料理火锅)
 
-1. **Qingchun Perma / 庆春朴门**
+8. **Qingchun Perma (庆春朴门)**
    - **Location:** Shop WL401, 1-9 North District, Lane 500, Dongyu Road, Taikoo Li, Qiantan, Pudong New Area, Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=庆春朴门+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门) | 
-     [Google](https://www.google.com/search?q=上海+庆春朴门)
+     :world_map: [Amap](https://amap.com/search?query=庆春朴门+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门) | :mag: [Google](https://www.google.com/search?q=上海+庆春朴门)
 
-### :egg: Vegetarian Restaurants
+### :broccoli: Vegetarian Restaurants
 
-1. **A Bowl of Yangchun Noodles / 一碗阳春**
+1. **A Bowl of Yangchun Noodles (一碗阳春)**
    - **Locations:**
      - Xuhui District: 362-1 Tianlin East Road (near Qinzhou Road), Shanghai
      - Yangpu District: 12 Guoji Road, Wujiaochang (130 meters from Exit 2 of Jiangwan Stadium Subway Station), Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=一碗阳春+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+一碗阳春) | 
-     [Google](https://www.google.com/search?q=上海+一碗阳春)
+     :world_map: [Amap](https://amap.com/search?query=一碗阳春+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+一碗阳春) | 
+     :mag: [Google](https://www.google.com/search?q=上海+一碗阳春)
 
-1. **Jade Buddha Temple Restaurant / 玉佛寺素斋店**
+2. **Jade Buddha Temple Restaurant (玉佛寺素斋店)**
    - **Location:** 6 Lane 1268, North Shaanxi Road, Putuo District, Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=玉佛寺素斋店+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+玉佛寺素斋店) | 
-     [Google](https://www.google.com/search?q=上海+玉佛寺素斋店)
+     :world_map: [Amap](https://amap.com/search?query=玉佛寺素斋店+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+玉佛寺素斋店) | 
+     :mag: [Google](https://www.google.com/search?q=上海+玉佛寺素斋店)
 
-1. **Ci Guang Temple Restaurant / 慈光素食部**
+3. **Ci Guang Temple Restaurant (慈光素食部)**
    - **Location:** 271 Ji'an Road, Huangpu District, Shanghai (220 meters from Exit 4 of Laoximen Subway Station)
    - **Description:** Vegetarian restaurant on the second floor. Take-away vegetarian dim sum available on the first floor.
    - **Links:** 
-     [Amap](https://amap.com/search?query=慈光素食部+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+慈光素食部) | 
-     [Google](https://www.google.com/search?q=上海+慈光素食部)
+     :world_map: [Amap](https://amap.com/search?query=慈光素食部+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+慈光素食部) | 
+     :mag: [Google](https://www.google.com/search?q=上海+慈光素食部)
 
-1. **Chun Feng Song Yue Lou / 春风松月楼**
+4. **Chun Feng Song Yue Lou (春风松月楼)**
    - **Locations:**
      - Jing'an District: F1 Floor, Jiuguang Department Store, 1618 Nanjing West Road, Shanghai
      - Huangpu District: 23 Bailing Road (400 meters from Exit 7 of Yuyuan Subway Station), Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=春风松月楼+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+春风松月楼) | 
-     [Google](https://www.google.com/search?q=上海+春风松月楼)
+     :world_map: [Amap](https://amap.com/search?query=春风松月楼+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+春风松月楼) | 
+     :mag: [Google](https://www.google.com/search?q=上海+春风松月楼)
 
-1. **Su Xin Su Shi / 愫心素食**
+5. **Su Xin Su Shi (愫心素食)**
    - **Location:** 1585 Huashan Road, Changning District, Huashan Garden (near the motor vehicle exit), Shanghai
    - **Links:** 
-     [Amap](https://amap.com/search?query=愫心素食+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+愫心素食) | 
-     [Google](https://www.google.com/search?q=上海+愫心素食)
+     :world_map: [Amap](https://amap.com/search?query=愫心素食+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+愫心素食) | 
+     :mag: [Google](https://www.google.com/search?q=上海+愫心素食)
 
-1. **Jujube Tree / 枣子树 (Vegetarian Lifestyle)**
+6. **Jujube Tree (枣子树) (Vegetarian Lifestyle)**
    - **Locations:**
      - Jing'an District: 258 Fengxian Road (near Jiangning Road), Shanghai
      - Huangpu District: L3 Floor, K11 Shopping Art Center, 300 Huaihai Middle Road, Shanghai
      - Baoshan District: 1st Floor, Building 6, 320 Jiqun Road, Shanghai
    - **Description:** Famous for its plant-based meat-alternative dishes.
    - **Links:** 
-     [Amap](https://amap.com/search?query=枣子树+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+枣子树) | 
-     [Google](https://www.google.com/search?q=上海+枣子树)
+     :world_map: [Amap](https://amap.com/search?query=枣子树+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+枣子树) | 
+     :mag: [Google](https://www.google.com/search?q=上海+枣子树)
 
-1. **Gongdelin / 功德林**
-   - **Locations:** Huangpu District: 445 Nanjing Xi Lu, Shanghai
+7. **Gongdelin (功德林)**
+   - **Location:** Huangpu District: 445 Nanjing Xi Lu, Shanghai
    - **Description:** Famous for its long history. Very popular among locals.
    - **Links:** 
-     [Amap](https://amap.com/search?query=功德林+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+功德林) | 
-     [Google](https://www.google.com/search?q=上海+功德林)
+     :world_map: [Amap](https://amap.com/search?query=功德林+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+功德林) | 
+     :mag: [Google](https://www.google.com/search?q=上海+功德林)
 
 ### :stew: Vegetarian-Friendly Restaurants
 
-1. **Ganesha / 咖乃芗**
+1. **Ganesha (咖乃芗)**
    - **Location:** 458 Jiangsu Road, Changning District, Shanghai
    - **Description:** An Indian restaurant offering a wide range of vegetarian options.
    - **Links:** 
-     [Amap](https://amap.com/search?query=咖乃芗+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+咖乃芗) | 
-     [Google](https://www.google.com/search?q=上海+咖乃芗)
+     :world_map: [Amap](https://amap.com/search?query=咖乃芗+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+咖乃芗) | 
+     :mag: [Google](https://www.google.com/search?q=上海+咖乃芗)
 
-1. **Wagas**
+2. **Wagas**
    - **Location:** Multiple locations throughout Shanghai, including 458 Jiangsu Road, Changning District (same location as Ganesha)
    - **Description:** Offers vegetarian salads with vegan options available upon request. They also feature seasonal vegan dishes.
    - **Links:** 
-     [Amap](https://amap.com/search?query=Wagas+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+Wagas) | 
-     [Google](https://www.google.com/search?q=上海+Wagas)
+     :world_map: [Amap](https://amap.com/search?query=Wagas+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+Wagas) | 
+     :mag: [Google](https://www.google.com/search?q=上海+Wagas)
 
-1. **Green Friday**
+3. **Green Friday**
    - **Locations:**
      - Pudong New Area: 5F Sanlin Impression Plaza, 188 Yixing Road, Shanghai
      - Pudong New Area: 1559 Pudong Avenue, Binjiang Guanghe New Building (opposite KFC on the first floor of the shopping mall), Shanghai
    - **Description:** A fusion restaurant offering Western-style vegetarian dishes, including plant-based meat burgers.
    - **Links:** 
-     [Amap](https://amap.com/search?query=Green+Friday+餐馆+上海) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+Green+Friday) | 
-     [Google](https://www.google.com/search?q=上海+Green+Friday)
+     :world_map: [Amap](https://amap.com/search?query=Green+Friday+餐馆+上海) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+Green+Friday) | 
+     :mag: [Google](https://www.google.com/search?q=上海+Green+Friday)
 
 ## :chopsticks: Restaurants in Suzhou / 苏州
 
-1. **Lotus Veg Cafe / 水中莲**
+1. **Lotus Veg Cafe (水中莲)**
    - **Locations:**
      - Wuzhong District: 2nd Floor, South Building, Suyue Plaza, 119 Suzhou Avenue West, Suzhou
      - Gusu District: 529 Jingde Road, Suzhou
    - **Links:** 
-     [Amap](https://amap.com/search?query=水中莲+餐馆+苏州) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=苏州+水中莲) | 
-     [Google](https://www.google.com/search?q=苏州+水中莲)
+     :world_map: [Amap](https://amap.com/search?query=水中莲+餐馆+苏州) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=苏州+水中莲) | 
+     :mag: [Google](https://www.google.com/search?q=苏州+水中莲)
 
-1. **Sumanxiang / 素满香**
+2. **Sumanxiang (素满香)**
    - **Location:** Multiple locations across Suzhou
    - **Links:** 
-     [Amap](https://amap.com/search?query=素满香+餐馆+苏州) | 
-     [HappyCow](https://www.happycow.net/searchmap?s=1&location=苏州+素满香) | 
-     [Google](https://www.google.com/search?q=苏州+素满香)
+     :world_map: [Amap](https://amap.com/search?query=素满香+餐馆+苏州) | 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=苏州+素满香) | 
+     :mag: [Google](https://www.google.com/search?q=苏州+素满香)
 
 ## :bulb: Tips for Eating at Restaurants
 
@@ -346,7 +345,7 @@ While the broth is often beef-based, mushroom-based alternatives are available, 
 is also the option to use pure water. The dish offers a range of vegan-friendly
 ingredients, including several types of tofu and vegetables.
 But you need to make sure that the soup is also vegetarian or vegan.
-Some popular chains like 海底捞 do have such options.
+Some popular chains like Haidilao (海底捞) do have such options.
 
 ### :goat: North-Western Restaurants
 
@@ -356,13 +355,13 @@ commonly found in north-western style restaurants like Xibei (西贝). The dish 
 vegan and is served with cucumber and purple cabbage shreds, along with condiments like
 chili oil, vinegar, and soy sauce.
 
-### :rice_ball: Breakfast Restaurants
+### :croissant: Breakfast Restaurants
 
 Baozi (包子), steamed buns with various fillings, are a common breakfast option in China.
 While many fillings are meat-based, vegan options like vegetable and mushroom fillings are
 available.
 
-### :dumpling:  Dumpling Restaurants
+### :dumpling: Dumpling Restaurants
 
 Dumplings are made from dough, typically wheat-based, and filled with combinations of
 meat, vegetables, and sometimes egg. They can be boiled, steamed, or fried. Vegetarian
@@ -375,34 +374,35 @@ Skewers in China are enjoyed grilled, fried, or boiled in spicy sauce. Each skew
 contains a single type of ingredient, allowing for easy customization for a vegan meal.
 Notable fast-food skewer places include Kuafu Fried Skewers (夸父炸串) for fried options
 and Yanhuo Makes Skewers (烟火成串) for BBQ skewers.
+Note that vegetarian and non-vegetarian skewers are usually fried together.
 
-### :fried_egg: Other Restaurants 
+### :rice_ball: Other Restaurants 
 
 Standard restaurants often offer a variety of vegan dishes, including:
 
-1. **Mapo Tofu (素麻婆豆腐)**: A spicy and savoury tofu dish, traditionally made with
+1. **Mapo Tofu (素麻婆豆腐)**: A spicy and savory tofu dish, traditionally made with
    ground pork, but can be prepared without meat for a vegan version.
-1. **Three Treasures of the Earth (地三鲜)**: A hearty stir-fry featuring eggplant,
-   potatoes, and green peppers, often in a savoury sauce.
-1. **Dry Fried Beans (干煸四季豆)**: Crispy green beans stir-fried with garlic and spices,
+2. **Three Treasures of the Earth (地三鲜)**: A hearty stir-fry featuring eggplant,
+   potatoes, and green peppers, often in a savory sauce.
+3. **Dry Fried Beans (干煸四季豆)**: Crispy green beans stir-fried with garlic and spices,
    offering a satisfying crunch.
-1. **Garlic Broccoli (蒜蓉西蓝花)**: A simple yet flavorful dish of broccoli sauteed with
+4. **Garlic Broccoli (蒜蓉西蓝花)**: A simple yet flavorful dish of broccoli sautéed with
    garlic, highlighting the freshness of the vegetable.
-1. **Sweet and Sour Cabbage (酸甜洋白菜)**: A tangy and sweet cabbage dish, balancing
+5. **Sweet and Sour Cabbage (酸甜洋白菜)**: A tangy and sweet cabbage dish, balancing
    flavors for a delightful side.
-1. **Sauteed Bok Choy (清炒小白菜)**: A light and healthy stir-fry of tender bok choy,
+6. **Sautéed Bok Choy (清炒小白菜)**: A light and healthy stir-fry of tender bok choy,
    seasoned simply to let the vegetable shine.
-1. **Chinese Scallion Pancakes (葱油饼)**: Crispy, flaky pancakes infused with the mild
+7. **Chinese Scallion Pancakes (葱油饼)**: Crispy, flaky pancakes infused with the mild
    spice of scallions, perfect as a snack or side dish. Note that these sold in grocery
-   store often contains lard.
-1. **Shredded Potato Stir-Fry (土豆丝)**: Thinly shredded potatoes stir-fried to a tender
+   stores often contain lard.
+8. **Shredded Potato Stir-Fry (土豆丝)**: Thinly shredded potatoes stir-fried to a tender
    crisp, often seasoned with vinegar and chili for a tangy kick.
-1. **Braised Tofu (红烧豆腐)**: Tofu braised in a rich, savoury sauce, often with mushrooms
+9. **Braised Tofu (红烧豆腐)**: Tofu braised in a rich, savory sauce, often with mushrooms
    and other vegetables.
 10. **Eggplant in Garlic Sauce (鱼香茄子)**: Soft, tender eggplant cooked in a fragrant
     garlic sauce, typically sweet and slightly spicy.
 
-## :shopping_cart:  Order Food Online
+## :shopping_cart: Order Food Online
 
 For those interested in more unique vegan products, online platforms like Taobao or JD
 offer a wide range. One recommended brand is "Whole Perfect Food" (齐善食品), known for
@@ -412,7 +412,7 @@ For Western vegan options like vegan burgers, Beyond Meat burgers are available 
 Additionally, the WeChat mini-app Butler & White and Epermarket offer a range of products,
 including vegan burgers, bread, and spreads.
 
-We have created a Google Spreadsheet to collect information of online stores which
-sells vegetarian food in China.
+We have created a Excel sheet to collect information on online stores which
+sell vegetarian food in China.
 You can view it [here](https://docs.qq.com/sheet/DZFNyeGl4bWplSkxY).
 Feel free to add more shops if you know any.
