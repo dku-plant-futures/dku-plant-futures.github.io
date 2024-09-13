@@ -15,7 +15,7 @@ permalink: /guide/
 
 ## Introduction
 
-This document is provided by the DKU (Duke Kunshan University) Plant-Futures Club as a
+This guide is provided by the Plant-Futures DKU (Duke Kunshan University) Club as a
 resource for individuals who are vegetarians, vegans, or those interested in incorporating
 more plant-based foods into their diet. 
 
@@ -23,7 +23,7 @@ If you have any suggestions or would like to report a closure of a restaurant,
 please email us at [xingshi.cai@dukekunshan.edu.cn](mailto:xingshi.cai@dukekunshan.edu.cn)
 or leave comment at the end of this post.
 
-## Eating at University Community Center
+## :school: Eating at University Community Center
 
 ### :open_book: The Menus
 
@@ -36,13 +36,13 @@ you will find a QR codes that links to the weekly menus:
 </center>
 
 
-### :3: Third Floor (Chinese Food)
+### :rice: Third Floor (Chinese Food)
 
 The canteen management is committed to offering vegetarian options with proteins for both
 lunch and dinner. These options are available in both the Weigh-and-Pay and A-la-carte
 sections.
 
-### :2: Second Floor
+### :green_salad: Second Floor
 
 Now there is a salad bar on the second floor from which you can choose vegetarian
 ingredients.
@@ -67,7 +67,7 @@ You can request vegetarian noodles with the option to add a Tofu (素鸡) toppin
 However, the broth usually poured on the noodles is not vegetarian.
 You should ask for pure water instead of the broth.
 
-### FamilyMart
+### :convenience_store: FamilyMart
 
 In the baozi/steamed bun (包子) section, two vegetarian options are available: one with
 cabbage and mushroom fillings and another with sweet taro filling.
@@ -78,13 +78,9 @@ important to note that the broth is fish-based.
 Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dried-tofu
 (豆腐干) may be found on the shelves. (Note that they are not always available.)
 
-## Eating at Restaurants
+## :chopsticks: Restaurants at Kunshan / 昆山
 
-### By Location
-
-#### Kunshan / 昆山
-
-##### Vegetarian Restaurants
+### :egg: Vegetarian Restaurants
 
 1. **Zizai Pavilion Plant Cuisine / 自在阁植物料理**
    - **Location:** 28 Ma'anshan East Road, Kunshan
@@ -111,7 +107,7 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
      [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+自然风蔬食自助餐厅) | 
      [Google](https://www.google.com/search?q=昆山+自然风蔬食自助餐厅)
 
-##### Vegetarian-Friendly Restaurants
+### :stew: Vegetarian-Friendly Restaurants
 
 1. **Shufeng Small Hotpot / 蜀风小火锅**
    - **Location:** 1st Floor Food Court, Da Run Fa, 46 Baimajing Road, Chao Hua City Plaza, Kunshan
@@ -161,9 +157,9 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
      [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+益点田城市农场) | 
      [Google](https://www.google.com/search?q=昆山+益点田城市农场)
 
-#### Shanghai / 上海
+## :chopsticks: Restaurants in Shanghai / 上海
 
-##### Vegan Restaurants
+### :seedling: Vegan Restaurants
 
 1. **No Need to Wait For Light Vegetarian Food / 轻蔬不用等**
    - **Location:** 458 Jiangsu Road, Changning District, Shanghai
@@ -222,7 +218,7 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
      [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门) | 
      [Google](https://www.google.com/search?q=上海+庆春朴门)
 
-##### Vegetarian Restaurants
+### :egg: Vegetarian Restaurants
 
 1. **A Bowl of Yangchun Noodles / 一碗阳春**
    - **Locations:**
@@ -283,7 +279,7 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
      [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+功德林) | 
      [Google](https://www.google.com/search?q=上海+功德林)
 
-##### Vegetarian-Friendly Restaurants
+### :stew: Vegetarian-Friendly Restaurants
 
 1. **Ganesha / 咖乃芗**
    - **Location:** 458 Jiangsu Road, Changning District, Shanghai
@@ -311,7 +307,7 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
      [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+Green+Friday) | 
      [Google](https://www.google.com/search?q=上海+Green+Friday)
 
-#### Suzhou / 苏州
+## :chopsticks: Restaurants in Suzhou / 苏州
 
 1. **Lotus Veg Cafe / 水中莲**
    - **Locations:**
@@ -328,9 +324,10 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
      [Amap](https://amap.com/search?query=素满香+餐馆+苏州) | 
      [HappyCow](https://www.happycow.net/searchmap?s=1&location=苏州+素满香) | 
      [Google](https://www.google.com/search?q=苏州+素满香)
-### By Restaurant Type
 
-#### Noodle Restaurants
+## :bulb: Tips for Eating at Restaurants
+
+### :ramen: Noodle Restaurants
 
 Noodle shops can serve as a convenient option for vegans. The noodles are cooked in plain
 water, making them inherently vegan. While most toppings may not be vegan-friendly,
@@ -340,7 +337,7 @@ of veggie noodles from the staff, who are usually willing to accommodate. For th
 traveling, noodle shops offer a flexible dining choice that can be easily customized to
 fit vegan dietary needs.
 
-#### Hotpot Restaurants
+### :fondue: Hotpot Restaurants
 
 Hotpot (火锅) is a traditional Chinese dish that has gained international popularity,
 including in Canada and Europe. Originating from Sichuan province, it involves a simmering
@@ -348,8 +345,10 @@ pot of broth on a stove, into which ingredients are placed for cooking before co
 While the broth is often beef-based, mushroom-based alternatives are available, and there
 is also the option to use pure water. The dish offers a range of vegan-friendly
 ingredients, including several types of tofu and vegetables.
+But you need to make sure that the soup is also vegetarian or vegan.
+Some popular chains like 海底捞 do have such options.
 
-#### North-Western Restaurants
+### :goat: North-Western Restaurants
 
 Liangpi (凉皮) is a Chinese dish featuring cold skin noodles made from either wheat or
 rice flour. Originating from north-western China, it has become popular nationwide and is
@@ -357,27 +356,27 @@ commonly found in north-western style restaurants like Xibei (西贝). The dish 
 vegan and is served with cucumber and purple cabbage shreds, along with condiments like
 chili oil, vinegar, and soy sauce.
 
-#### Breakfast Restaurants
+### :rice_ball: Breakfast Restaurants
 
 Baozi (包子), steamed buns with various fillings, are a common breakfast option in China.
 While many fillings are meat-based, vegan options like vegetable and mushroom fillings are
 available.
 
-#### Dumpling Restaurants
+### :dumpling:  Dumpling Restaurants
 
 Dumplings are made from dough, typically wheat-based, and filled with combinations of
 meat, vegetables, and sometimes egg. They can be boiled, steamed, or fried. Vegetarian
 options are common, but those on a strict vegan diet should be cautious as vegetarian
 dumplings often contain egg.
 
-#### Skewer Restaurants 
+### :oden: Skewer Restaurants 
 
 Skewers in China are enjoyed grilled, fried, or boiled in spicy sauce. Each skewer usually
 contains a single type of ingredient, allowing for easy customization for a vegan meal.
 Notable fast-food skewer places include Kuafu Fried Skewers (夸父炸串) for fried options
 and Yanhuo Makes Skewers (烟火成串) for BBQ skewers.
 
-#### Other Restaurants 
+### :fried_egg: Other Restaurants 
 
 Standard restaurants often offer a variety of vegan dishes, including:
 
@@ -403,21 +402,15 @@ Standard restaurants often offer a variety of vegan dishes, including:
 10. **Eggplant in Garlic Sauce (鱼香茄子)**: Soft, tender eggplant cooked in a fragrant
     garlic sauce, typically sweet and slightly spicy.
 
-## Order Vegetarian Food Online
-
-### Specialized Vegan Options
+## :shopping_cart:  Order Food Online
 
 For those interested in more unique vegan products, online platforms like Taobao or JD
 offer a wide range. One recommended brand is "Whole Perfect Food" (齐善食品), known for
 their plant-based products like smoked vegan sausages.
 
-### Western-Style Vegan Food
-
 For Western vegan options like vegan burgers, Beyond Meat burgers are available on JD.
 Additionally, the WeChat mini-app Butler & White and Epermarket offer a range of products,
 including vegan burgers, bread, and spreads.
-
-### Database
 
 We have created a Google Spreadsheet to collect information of online stores which
 sells vegetarian food in China.
