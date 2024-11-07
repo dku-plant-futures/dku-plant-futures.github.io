@@ -53,7 +53,8 @@ Check the [menu](#the-menus) for more details.
 
 ### :sandwich: First/Ground Floor
 
-From Aug 26, 2024, hotpot with tomato-based *vegan* soup is available on the first floor.
+Currently you can order Vegetarian Noddles (素浇面)
+Please remember to tell the staff that you want noodle with *vegan* soup.
 
 Baguette bread available on this floor is dairy-free and egg-free, while the
 bagel bread contains egg. The vegetarian sandwich may include cheese and
