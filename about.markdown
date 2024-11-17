@@ -20,6 +20,20 @@ promotion of plant-based products, such as a mostly vegetarian diet.
 
 We also help to run the community garden at DKU.
 
+
+## Our Slogan
+
+<center>
+    <img src="/images/animals-with-slogan.webp" width="100%" alt="DKU Plant Futures Club Logo" />
+    <p>Our Slogan: Less Meat, Less Heat, More Life.</p>
+</center>
+
+## Our Logo
+
+<center>
+    <img src="/images/logo.png" width="250" alt="DKU Plant Futures Club Logo" />
+</center>
+
 ## Our Team
 
 ### Keyi Shi (Ex-Co-President)
