@@ -42,6 +42,7 @@ social = true
 ShowShareButtons = true
 ShareButtons = ["reddit", "facebook", "whatsapp", "telegram"]
 displayFullLangName = true
+comments = true
 
 [params.homeInfoParams]
 Title = 'Blog Posts'
