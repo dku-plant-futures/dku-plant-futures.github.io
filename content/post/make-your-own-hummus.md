@@ -1,5 +1,7 @@
 ---
-categories: events
+tags:
+- event
+- workshop
 date: "2024-10-28T00:00:00Z"
 title: "😋 Hummus-Making Workshop Recap"
 ---

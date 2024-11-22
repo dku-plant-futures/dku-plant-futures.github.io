@@ -1,5 +1,7 @@
 ---
-categories: events
+tags:
+- event
+- film-watch
 date: "2024-09-11T00:00:00Z"
 title: "\U0001F39E️ Documentary Screening: Should I Eat Meat (Part 1)"
 ---

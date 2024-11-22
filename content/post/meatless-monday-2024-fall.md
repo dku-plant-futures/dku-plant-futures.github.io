@@ -1,5 +1,7 @@
 ---
-categories: events
+tags:
+- event
+- meatless-monday
 date: "2024-08-22T00:00:00Z"
 title: "📚 Meatless Monday Lunch + Book Club (Fall 2024)"
 ---

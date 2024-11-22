@@ -1,7 +1,9 @@
 ---
-categories: events
+tags:
+- event
+- trip
 date: "2024-09-01T00:00:00Z"
-title: "\U0001F60B A Trip to Ziranfeng/自然风 Vegetarian Buffet"
+title: "😋 A Trip to Ziranfeng/自然风 Vegetarian Buffet"
 ---
 
 {{<

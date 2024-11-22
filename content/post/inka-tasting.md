@@ -1,5 +1,7 @@
 ---
-categories: events
+tags:
+- event
+- food-tasting
 date: "2024-08-19T00:00:00Z"
 title: ☕ Polish Coffee Alternative Toasting
 ---

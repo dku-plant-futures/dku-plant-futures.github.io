@@ -1,5 +1,7 @@
 ---
-categories: events
+tags:
+- event
+- film-watch
 date: "2024-09-12T00:00:00Z"
 title: "🎞️ Recap of Our Documentary Watch Party: Should I Eat Meat?"
 ---

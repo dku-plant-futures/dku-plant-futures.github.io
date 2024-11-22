@@ -1,5 +1,7 @@
 ---
-categories: events
+tags:
+- event
+- book-club
 date: "2024-09-02T00:00:00Z"
 title: "📚 Book Club: How Not to Die From Heart Disease (Chapter 1 of How
   Not to Die)"

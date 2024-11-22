@@ -1,5 +1,6 @@
 ---
-categories: announcement
+tags: 
+- announcement
 date: "2024-08-22T00:00:00Z"
 title: "📣 Club Board Recruitment (2024-2025)"
 ---

@@ -1,5 +1,7 @@
 ---
-categories: events
+tags:
+- event
+- book-club
 date: "2024-09-07T00:00:00Z"
 title: "📚 Book Club: How Not to Die from Lung Diseases (Chapter 2 of How
   Not to Die)"
