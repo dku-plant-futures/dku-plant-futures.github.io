@@ -49,7 +49,7 @@ There is now a salad bar on the second floor from which you can choose vegetaria
 ingredients. Note that among the three sauces provided, only the oil and vinegar dressing (油醋汁) is vegan.
 
 At the Teppanyaki section, you can occasionally find fried tofu.
-Check the [menu](#the-menus) for more details.
+Check the [menu](#open_book-the-menus) for more details.
 
 ### :sandwich: First/Ground Floor
 
@@ -85,16 +85,9 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
 
 1. **Zizai Pavilion Plant Cuisine (自在阁植物料理)**
    - **Location:** 28 Ma'anshan East Road, Kunshan
-   - **Description:** This vegetarian buffet offers a wide variety of dishes with a unique
-     pay-as-you-wish dinner option. It's a popular spot among locals, so be sure to arrive
-     before 11:30 am to ensure there's plenty of food left. As of now, the cost is 38 yuan
-     per person, but you can purchase a bundle of 10 coupons at a discounted rate of 28
-     yuan each. If you're celebrating a special occasion, the restaurant also offers a
-     special menu for groups of ten in a private dining room.
-     They offer a variety of traditional Chinese dishes, including cold salads,
-     stir-fries, steamed root vegetables, stews, traditional cakes, noodles, and hot pots.
-     Soda, water, and soup are included in the buffet, but coffee is sold separately at a
-     relatively high price.
+   - **Description:** This vegetarian buffet offers a variety of traditional
+        Chinese dishes for 38 yuan per person or 28 yuan with a coupon bundle. Arrive
+        early to ensure availability. Private dining for groups is available.
    - **Links:** 
      :world_map: [Amap](https://amap.com/search?query=自在阁植物料理+餐馆+昆山) 
      :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=昆山+自在阁植物料理)  
@@ -304,57 +297,45 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
      :world_map: [Amap](https://amap.com/search?query=素满香+餐馆+苏州) 
      :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=苏州+素满香)  
 
-## :bulb: Tips for Eating at Restaurants
-
 ### :ramen: Noodle Restaurants
 
-Noodle shops can serve as a convenient option for vegans. The noodles are cooked in plain
-water, making them inherently vegan. While most toppings may not be vegan-friendly,
-alternatives such as Veggie Chicken (素鸡) or firm-textured tofu are often available. If
-vegan options are not explicitly mentioned on the menu, it is advisable to request a bowl
-of veggie noodles from the staff, who are usually willing to accommodate. For those
-traveling, noodle shops offer a flexible dining choice that can be easily customized to
-fit vegan dietary needs.
+Noodle shops are a convenient vegan option, as noodles are cooked in plain
+water. While most toppings may not be vegan, alternatives like Veggie Chicken
+(素鸡) or tofu are often available. If vegan options aren't listed, request
+veggie noodles—staff are usually accommodating. Noodle shops offer flexibility,
+especially for travelers.
 
 ### :fondue: Hotpot Restaurants
 
-Hotpot (火锅) is a traditional Chinese dish that has gained international popularity,
-including in Canada and Europe. Originating from Sichuan province, it involves a simmering
-pot of broth on a stove, into which ingredients are placed for cooking before consumption.
-While the broth is often beef-based, mushroom-based alternatives are available, and there
-is also the option to use pure water. The dish offers a range of vegan-friendly
-ingredients, including several types of tofu and vegetables.
-But you need to make sure that the soup is also vegetarian or vegan.
-Some popular chains like Haidilao (海底捞) do have such options.
+Hotpot (火锅), originating from Sichuan, involves cooking ingredients in a
+simmering broth. While broths are often beef-based, mushroom or water-based
+options exist, making it vegan-friendly when paired with tofu and vegetables.
+Chains like Haidilao (海底捞) offer vegan options, but always confirm the
+broth's ingredients.
 
 ### :goat: North-Western Restaurants
 
-Liangpi (凉皮) is a Chinese dish featuring cold skin noodles made from either wheat or
-rice flour. Originating from north-western China, it has become popular nationwide and is
-commonly found in north-western style restaurants like Xibei (西贝). The dish is usually
-vegan and is served with cucumber and purple cabbage shreds, along with condiments like
-chili oil, vinegar, and soy sauce.
+Liangpi (凉皮), cold noodles made from wheat or rice flour, is a vegan dish from
+north-western China. It’s served with cucumber, purple cabbage, chili oil,
+vinegar, and soy sauce, commonly found in restaurants like Xibei (西贝).
 
 ### :croissant: Breakfast Restaurants
 
-Baozi (包子), steamed buns with various fillings, are a common breakfast option in China.
-While many fillings are meat-based, vegan options like vegetable and mushroom fillings are
-available.
+Baozi (包子), steamed buns, are a breakfast staple. While many fillings are
+meat-based, vegan options like vegetable and mushroom are available.
 
 ### :dumpling: Dumpling Restaurants
 
-Dumplings are made from dough, typically wheat-based, and filled with combinations of
-meat, vegetables, and sometimes egg. They can be boiled, steamed, or fried. Vegetarian
-options are common, but those on a strict vegan diet should be cautious as vegetarian
-dumplings often contain egg.
+Dumplings, made from wheat-based dough, are filled with meat, vegetables, or egg
+and can be boiled, steamed, or fried. Vegetarian options are common, but vegans
+should check for egg in fillings.
 
 ### :oden: Skewer Restaurants 
 
-Skewers in China are enjoyed grilled, fried, or boiled in spicy sauce. Each skewer usually
-contains a single type of ingredient, allowing for easy customization for a vegan meal.
-Notable fast-food skewer places include Kuafu Fried Skewers (夸父炸串) for fried options
-and Yanhuo Makes Skewers (烟火成串) for BBQ skewers.
-Note that vegetarian and non-vegetarian skewers are usually fried together.
+Skewers, whether grilled, fried, or boiled, are often customizable for vegans.
+Popular places like Kuafu Fried Skewers (夸父炸串) and Yanhuo Makes Skewers
+(烟火成串) offer options, but note that vegetarian and non-vegetarian skewers
+are often cooked together.
 
 ### :rice_ball: Other Restaurants 
 
@@ -386,7 +367,7 @@ Standard restaurants often offer a variety of vegan dishes, including:
 
 For those interested in more unique vegan products, online platforms like Taobao or JD
 offer a wide range. One recommended brand is "Whole Perfect Food" (齐善食品), known for
-their plant-based products like smoked vegan sausages.
+their plant-based protein products like smoked vegan sausages.
 
 For Western vegan options like vegan burgers, Beyond Meat burgers are available on JD.
 Additionally, the WeChat mini-app Butler & White and Epermarket offer a range of products,

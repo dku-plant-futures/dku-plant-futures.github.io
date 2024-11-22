@@ -33,7 +33,7 @@ displayFullLangName = true
 
 [params.homeInfoParams]
 Title = 'Blog Posts'
-Content = 'Events recap and announcements'
+Content = 'What we have done and will do ---'
 
 [[params.profileMode.buttons]]
 name = "Blog"

@@ -3,8 +3,6 @@ title: About
 ShowToc: true
 ---
 
-![Plant Futures DKU: Nature's Little Helpers](/images/animals-marching.webp)
-
 ## The Club
 
 This is the website for Plant Futures Club at Duke Kunshan University.
@@ -25,6 +23,8 @@ We also help to run the community garden at DKU.
 {{< 
     figure 
     src="animals-with-slogan.webp" width="100%"
+    alt="Our Slogan"
+    caption="Our Slogan: Less Meat, Less Heat, More Life."
 >}}
 
 ## Our Logo
@@ -32,6 +32,8 @@ We also help to run the community garden at DKU.
 {{< 
     figure 
     src="/images/logo.png" class="small" alt="DKU Plant Futures Club Logo"
+    alt="Our Logo: A green leaf and a person forming the P in PF alongside a blue F, representing growth and sustainability."
+    caption="Our Logo: Do you see where is the P and F? 🙂"
 >}}
 
 ## Our Team
@@ -41,6 +43,7 @@ We also help to run the community garden at DKU.
 {{< 
     figure 
     src="/images/people/keyi-shi.jpg" class="small" alt="Keyi Shi"
+    caption="Keyi Shi"
 >}}
 
 Keyi Shi is a Master student of Environmental Policy, class of 2024. She co-founded Plant
@@ -53,6 +56,7 @@ related to food consumption and hopes to influence more people around.
 {{< 
     figure 
     src="/images/people/helene-gu.jpg" class="small" alt="Helene Gu" 
+    caption="Helene Gu"
 >}}
 
 [Helene Gu](mailto:helene.gu@dukekunshan.edu.cn) has been co-president of Plant Futures for 1+ year,
@@ -90,6 +94,7 @@ health and the health of our environment.
 {{< 
     figure 
     src="/images/people/xing-shi-cai.jpg" class="small" alt="Xing Shi Cai"
+    caption="Xing Shi Cai"
 >}}
 
 [Xing Shi Cai](mailto:xingshi.cai@dukekunshan.edu.cn) is an Assistant Professor of
