@@ -29,6 +29,12 @@ name = "Tags"
 url = "/tags"
 weight = 15
 
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search"
+weight = 20
+
 [params]
 author = 'Plant Futures DKU'
 description = "This is the website for Plant Futures DKU Club."
