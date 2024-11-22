@@ -4,6 +4,11 @@ date: "2024-08-19T00:00:00Z"
 title: ☕ Polish Coffee Alternative Toasting
 ---
 
+{{<
+    figure src="/images/2024/inka-tasting.jpg"
+    title="Poster of Inka Tasting"
+>}}
+
 <center>
     <img src="/images/2024/inka-tasting-event.jpg" 
     width="100%" alt="Poster of Inka Tasting" />

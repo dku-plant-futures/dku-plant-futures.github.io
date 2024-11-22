@@ -1,14 +1,16 @@
 ---
 categories: events
 date: "2024-08-26T00:00:00Z"
-title: "\U0001F4DA Book Club: How Not to Die (Intro)"
+title: "📚 Book Club: How Not to Die (Intro)"
 ---
 
-<center>
-<img src="/images/2024/how-not-to-die/how-not-to-die.jpg" alt="How Not to Die Book Cover"
-width="500">
-<p>How Not to Die Book Cover</p>
-</center>
+{{< 
+    figure 
+    src="/images/2024/how-not-to-die/how-not-to-die.jpg"
+    title="How Not to Die Book Cover"
+    alt="How Not to Die Book Cover"
+    class="medium"
+>}}
 
 ## 🎉 First Meeting for our Book Club
 

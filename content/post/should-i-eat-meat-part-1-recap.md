@@ -1,14 +1,15 @@
 ---
 categories: events
 date: "2024-09-12T00:00:00Z"
-title: "\U0001F33F Recap of Our Documentary Watch Party: Should I Eat Meat?"
+title: "🎞️ Recap of Our Documentary Watch Party: Should I Eat Meat?"
 ---
 
-<center>
-    <img src="/images/2024/should-i-eat-meat/michael-mosley.jpg"
-    width="500" alt="Michael Mosley (1957-2024)" />
-    <p>Michael Mosley (1957-2024). Photo by: <a href="https://www.youtube.com/@SBSOnDemand">SBS On Demand</a>.</p>
-</center>
+{{< 
+    figure src="/images/2024/should-i-eat-meat/michael-mosley.jpg"
+    caption="Michael Mosley (1957-2024). Photo by: [SBS On Demand](https://www.youtube.com/@SBSOnDemand)"
+    alt="Michael Mosley (1957-2024)"
+    class="small" 
+>}}
 
 # Plant Futures Screens "Should I Eat Meat?" Documentary
 

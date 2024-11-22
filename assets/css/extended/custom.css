@@ -16,6 +16,14 @@
   max-width: 300px;
 }
 
+.post-content .medium img {
+  max-width: 500px;
+}
+
+.post-content .large img {
+  width: 100%;
+}
+
 .post-content img.heading {
   float: right;
   margin: 10px 0 10px 15px;

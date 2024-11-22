@@ -1,17 +1,11 @@
 ---
 categories: events
 date: "2024-09-02T00:00:00Z"
-title: "\U0001F4DA Book Club: How Not to Die From Heart Disease (Chapter 1 of How
+title: "📚 Book Club: How Not to Die From Heart Disease (Chapter 1 of How
   Not to Die)"
 ---
 
-<center>
-<img
-    src="/images/2024/how-not-to-die/how-not-to-die-from-heart-disease.jpg"
-        alt="How Not to Die from Heart Disease"
-        width="500" />
-<p>Nourish Your Heart With a Plant-based Diet</p>
-</center>
+{{< figure src="/images/2024/how-not-to-die/how-not-to-die-from-heart-disease.jpg" title="Nourish Your Heart With a Plant-based Diet" alt="How Not to Die from Heart Disease" class="medium" >}}
 
 ## 🎉 Our Book Club is Back!
 

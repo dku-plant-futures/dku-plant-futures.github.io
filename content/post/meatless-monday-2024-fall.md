@@ -1,15 +1,18 @@
 ---
 categories: events
 date: "2024-08-22T00:00:00Z"
-title: "\U0001F4DA Meatless Monday Lunch + Book Club (Fall 2024)"
+title: "📚 Meatless Monday Lunch + Book Club (Fall 2024)"
 ---
 
 :zap: We have moved the meeting location to the area near the stairs on the 2nd floor of CCT. (2024-09-09)
 
-<center>
-    <img src="/images/2024/how-not-to-die/meatless-monday-2024-fall-v2.png" 
-    width="500" alt="Poster of Meatless Monday" />
-</center>
+{{< 
+    figure 
+    src="/images/2024/how-not-to-die/meatless-monday-2024-fall-v2.png"
+    title=""
+    alt="Poster of Meatless Monday"
+    class="medium"
+>}}
 
 🌿 This semester join us for a special Meatless Monday Lunch + Book Club at DKU! 
 

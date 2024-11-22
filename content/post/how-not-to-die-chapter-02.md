@@ -1,20 +1,14 @@
 ---
 categories: events
 date: "2024-09-07T00:00:00Z"
-title: "\U0001F4DA Book Club: How Not to Die from Lung Diseases (Chapter 2 of How
+title: "📚 Book Club: How Not to Die from Lung Diseases (Chapter 2 of How
   Not to Die)"
 ---
 
-<center>
-<img
-    src="/images/2024/how-not-to-die/how-not-to-die-from-lung-disease.webp"
-    alt="How Not to Die from Lung Disease"
-    width="500" />
-<p>Nourish Your Lungs With a Plant-based Diet</p>
-</center>
+{{< figure src="/images/2024/how-not-to-die/how-not-to-die-from-lung-disease.webp" title="Nourish Your Lungs With a Plant-based Diet" alt="How Not to Die from Lung Disease" class="medium" >}}
 
 📆 The book club meets every Monday at 12:00 PM during our regular
-[Meatless Monday Lunch]({% link _posts/2024-08-22-meatless-monday-2024-fall.markdown %}),
+[Meatless Monday Lunch]({{< ref meatless-monday-2024-fall >}}),
 near the stairs on the 2nd floor of CCT.
 
 This chapter dives deep into the preventable causes of lung diseases, emphasizing the
