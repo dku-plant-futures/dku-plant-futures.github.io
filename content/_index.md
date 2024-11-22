@@ -9,7 +9,12 @@ title: "Plant Futures DKU"
 >}}
 
 🤗  Welcome to the website of DKU Plant Futures Club!
+
 Here you can ---
-- 🥗 Find a [Vegetarian Survival Guide at DKU](/guide/).  
-- 🌟 Meet our [awesome Executive Board](/about/).
-- 🎉 Discover the cool events we’ve organized and will organize.
+- 🥗 Find a [Vegetarian Survival Guide at DKU](/guide/)
+- 🌟 Meet our [awesome Executive Board](/about/)
+- 🎉 Scroll down to discover the cool events we’ve organized
+
+💡 Tips ---
+- 🏷️ Bookmark this page to access it at any time
+- 📤 Short URL for the website: [https://tinyurl.com/pfdku](https://tinyurl.com/pfdku)
