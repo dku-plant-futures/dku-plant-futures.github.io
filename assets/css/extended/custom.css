@@ -1,0 +1,55 @@
+.post-content img {
+  display: block;
+  margin: auto;
+  width: 70%;
+  padding: 5px;
+  -webkit-box-shadow: 5px 5px 15px 0 rgba(0,0,0,0.75);
+  -moz-box-shadow: 5px 5px 15px 0 rgba(0,0,0,0.75);
+  box-shadow: 5px 5px 15px 0 rgba(0,0,0,0.75);
+}
+
+.post-content .portrait img {
+  width: 50%;
+}
+
+.post-content .small img {
+  max-width: 300px;
+}
+
+.post-content img.heading {
+  float: right;
+  margin: 10px 0 10px 15px;
+  padding: 5px;
+  max-width: 200px;
+}
+
+@media (max-width: 768px) {
+  .post-content img.heading {
+    float: none;
+    margin: auto;
+    padding: 5px;
+    width: 80%;
+    max-width: 80%;
+  }
+}
+
+.post-content figcaption {
+    text-align: center;
+}
+
+.entry-cover img {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+.first-entry {
+  min-height: 0;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+
+.first-entry .entry-footer {
+  font-size: 14px;
+  height: 20;
+}
