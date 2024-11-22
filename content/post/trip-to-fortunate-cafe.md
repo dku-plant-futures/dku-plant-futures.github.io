@@ -7,7 +7,7 @@ title: "😋 A Day of Gourmet Vegan Food in Shanghai"
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/01.jpg"
     alt="Fortunate Cafe"
-    title="The brave souls who ventured to Shanghai for food"
+    caption="The brave souls who ventured to Shanghai for food"
     class="large"
 >}}
 
@@ -35,7 +35,7 @@ where mobile phone ordering has become the norm.
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/02.jpg"
     alt="GongDeLin Menu"
-    title="The menu of GongDeLin"
+    caption="The menu of GongDeLin"
     class="medium"
 >}}
 
@@ -53,13 +53,13 @@ It even came in a bowl shaped like a :crab:!
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/03.jpg"
     alt="Vegetarian Duck and Green Bamboo Shoots"
-    title="Vegetarian Duck and Green Bamboo Shoots"
+    caption="Vegetarian Duck and Green Bamboo Shoots"
     class="medium"
 >}}
 
 {{< 
     figure src="/images/2024/fortunate-vegan-cafe/04.jpg"
-    title="The Nest"
+    caption="The Nest"
     alt="The Nest Dish"
     class="medium"
 >}}
@@ -77,7 +77,7 @@ When we arrived at Fortunate Cafe, we were surprised to find it perched on the t
 
 {{< 
     figure src="/images/2024/fortunate-vegan-cafe/05.jpg"
-    title="The Window of Fortunate Cafe"
+    caption="The Window of Fortunate Cafe"
     alt="The Window of Fortunate Cafe"
     class="medium"
 >}}
@@ -86,7 +86,7 @@ I was amused to find a large placard featuring a joyful :dog: with the word "Joy
 
 {{< 
     figure src="/images/2024/fortunate-vegan-cafe/06.jpg"
-    title="A joyful :dog:"
+    caption="A joyful :dog:"
     alt="A joyful dog"
     class="medium"
 >}}
@@ -95,7 +95,7 @@ Joy, or happiness, turned out to be the main theme of the music performance that
 
 {{< 
     figure src="/images/2024/fortunate-vegan-cafe/07.jpg"
-    title="The cafe's employees performing a dance"
+    caption="The cafe's employees performing a dance"
     alt="The cafe"
     class="medium"
 >}}
@@ -106,7 +106,7 @@ When I first arrived, I noticed a curious clock on the wall. Instead of numbers,
 
 {{< 
     figure src="/images/2024/fortunate-vegan-cafe/08.jpg"
-    title="The Happy Clock"
+    caption="The Happy Clock"
     alt="The Happy Clock"
     class="medium"
 >}}
@@ -121,81 +121,81 @@ I hope you’ll join us on our next adventure!
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/09.jpg"
-    title="Food and Drinks at the buffet"
+    caption="Food and Drinks at the buffet"
     alt="Food and Drinks at the buffet"
     class="medium"
 >}}
 
 {{< 
     figure src="/images/2024/fortunate-vegan-cafe/10.jpg"
-    title="My favorite: Potato pancake"
+    caption="My favorite: Potato pancake"
     alt="Potato pancake"
     class="medium"
 >}}
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/11.jpg"
-    title="Spring roll"
+    caption="Spring roll"
     alt="Spring roll"
     class="medium"
 >}}
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/13.jpg"
-    title="Fried vegan sushi roll"
+    caption="Fried vegan sushi roll"
     alt="Fried vegan sushi roll"
     class="medium"
 >}}
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/14.jpg"
-    title="Vegan meat cake"
+    caption="Vegan meat cake"
     alt="Vegan meat cake"
     class="medium"
 >}}
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/15.jpg"
-    title="Vegan 🐟 balls"
+    caption="Vegan 🐟 balls"
     alt="Vegan 🐟 balls"
     class="medium"
 >}}
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/16.jpg"
-    title="Vegan beef"
+    caption="Vegan beef"
     alt="Vegan beef"
     class="medium"
 >}}
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/17.jpg"
-    title="Vegan BBQ ribs"
+    caption="Vegan BBQ ribs"
     alt="Vegan BBQ ribs"
     class="medium"
 >}}
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/18.jpg"
-    title="Non-alcohol 🍸"
+    caption="Non-alcohol 🍸"
     alt="Non-alcohol 🍸"
     class="medium"
 >}}
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/19.jpg"
-    title="Vegan cakes"
+    caption="Vegan cakes"
     class="medium"
 >}}
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/20.jpg"
-    title="Vegan cakes"
+    caption="Vegan cakes"
     class="medium"
 >}}
 
 {{<
     figure src="/images/2024/fortunate-vegan-cafe/21.jpg"
-    title="Vegan cakes"
+    caption="Vegan cakes"
     class="medium"
 >}}

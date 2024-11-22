@@ -6,7 +6,7 @@ title: "\U0001F60B A Trip to Ziranfeng/自然风 Vegetarian Buffet"
 
 {{<
     figure src="/images/2024/ziranfeng/ziranfeng-2.jpg"
-    title="Club Members who visited Ziranfeng"
+    caption="Club Members who visited Ziranfeng"
     alt="Visiting Ziranfeng"
     class="large"
 >}}
@@ -28,7 +28,7 @@ For just 28 yuan per meal (or even less with coupons), it was easy to see why th
 
 {{<
     figure src="/images/2024/ziranfeng/ziranfeng-1.jpg"
-    title="Food at Ziranfeng"
+    caption="Food at Ziranfeng"
     alt="Food at Ziranfeng"
     class="medium"
 >}}

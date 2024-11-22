@@ -6,7 +6,7 @@ title: "😋 Hummus-Making Workshop Recap"
 
 {{< 
     figure src="/images/2024/hummus-making/hummus-01.jpg"
-    title="Event Poster"
+    caption="Event Poster"
     alt="Event Poster"
     class="medium" 
 >}}
@@ -23,7 +23,7 @@ Here are some highlights from the event:
 {{< 
     figure 
     src="/images/2024/hummus-making/hummus-02.jpg"
-    title=""
+    caption=""
     alt="Event Photo"
     class="medium"
 >}}
@@ -31,7 +31,7 @@ Here are some highlights from the event:
 {{< 
     figure 
     src="/images/2024/hummus-making/hummus-03.jpg"
-    title=""
+    caption=""
     alt="Event Photo"
     class="medium"
 >}}
@@ -39,7 +39,7 @@ Here are some highlights from the event:
 {{< 
     figure 
     src="/images/2024/hummus-making/hummus-04.jpg"
-    title=""
+    caption=""
     alt="Event Photo"
     class="medium"
 >}}
@@ -47,7 +47,7 @@ Here are some highlights from the event:
 {{< 
     figure 
     src="/images/2024/hummus-making/hummus-05.jpg"
-    title=""
+    caption=""
     alt="Event Photo"
     class="medium"
 >}}

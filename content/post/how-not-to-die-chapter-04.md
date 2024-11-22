@@ -5,7 +5,7 @@ title: "📚 Book Club: How Not to Die from Digestive Cancers (Chapter 4 of
   How Not to Die)"
 ---
 
-{{< figure src="/images/2024/how-not-to-die/how-not-to-die-from-digestive-cancers.webp" title="Prevent Digestive Cancers with Nutrition and Lifestyle Changes" alt="How Not to Die from Digestive Cancers" class="medium" >}}
+{{< figure src="/images/2024/how-not-to-die/how-not-to-die-from-digestive-cancers.webp" caption="Prevent Digestive Cancers with Nutrition and Lifestyle Changes" alt="How Not to Die from Digestive Cancers" class="medium" >}}
 
 📆 The book club meets every Monday at 12:00 PM during our regular
 [Meatless Monday Lunch]({{< ref meatless-monday-2024-fall >}}),

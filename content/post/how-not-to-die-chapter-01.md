@@ -5,7 +5,7 @@ title: "📚 Book Club: How Not to Die From Heart Disease (Chapter 1 of How
   Not to Die)"
 ---
 
-{{< figure src="/images/2024/how-not-to-die/how-not-to-die-from-heart-disease.jpg" title="Nourish Your Heart With a Plant-based Diet" alt="How Not to Die from Heart Disease" class="medium" >}}
+{{< figure src="/images/2024/how-not-to-die/how-not-to-die-from-heart-disease.jpg" caption="Nourish Your Heart With a Plant-based Diet" alt="How Not to Die from Heart Disease" class="medium" >}}
 
 ## 🎉 Our Book Club is Back!
 

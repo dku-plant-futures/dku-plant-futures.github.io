@@ -5,7 +5,7 @@ title: "📚 Book Club: How Not to Die from Lung Diseases (Chapter 2 of How
   Not to Die)"
 ---
 
-{{< figure src="/images/2024/how-not-to-die/how-not-to-die-from-lung-disease.webp" title="Nourish Your Lungs With a Plant-based Diet" alt="How Not to Die from Lung Disease" class="medium" >}}
+{{< figure src="/images/2024/how-not-to-die/how-not-to-die-from-lung-disease.webp" caption="Nourish Your Lungs With a Plant-based Diet" alt="How Not to Die from Lung Disease" class="medium" >}}
 
 📆 The book club meets every Monday at 12:00 PM during our regular
 [Meatless Monday Lunch]({{< ref meatless-monday-2024-fall >}}),

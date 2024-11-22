@@ -7,7 +7,7 @@ title: "📚 Book Club: How Not to Die (Intro)"
 {{< 
     figure 
     src="/images/2024/how-not-to-die/how-not-to-die.jpg"
-    title="How Not to Die Book Cover"
+    caption="How Not to Die Book Cover"
     alt="How Not to Die Book Cover"
     class="medium"
 >}}

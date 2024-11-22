@@ -9,7 +9,7 @@ title: "📚 Meatless Monday Lunch + Book Club (Fall 2024)"
 {{< 
     figure 
     src="/images/2024/how-not-to-die/meatless-monday-2024-fall-v2.png"
-    title=""
+    caption=""
     alt="Poster of Meatless Monday"
     class="medium"
 >}}

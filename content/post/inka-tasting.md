@@ -5,14 +5,9 @@ title: ☕ Polish Coffee Alternative Toasting
 ---
 
 {{<
-    figure src="/images/2024/inka-tasting.jpg"
-    title="Poster of Inka Tasting"
+    figure src="/images/2024/inka-tasting-event.jpg"
+    caption="Poster of Inka Tasting"
 >}}
-
-<center>
-    <img src="/images/2024/inka-tasting-event.jpg" 
-    width="100%" alt="Poster of Inka Tasting" />
-</center>
 
 _Inka_ is a beloved Polish beverage with a history dating back to 1971. It was created as
 a natural, caffeine-free alternative to coffee, made from a blend of roasted rye, barley,
