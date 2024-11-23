@@ -6,6 +6,12 @@ title: "🗞️ Newsletter -- Free Meal, New Website and Election"
 ShowToc: true
 ---
 
+{{<
+    figure src="./bunny-read-newsletter-01.webp"
+    alt="Bunny reading a PFDKU newsletter"
+    class="small"
+>}}
+
 Welcome to the very first newsletter for Plant Futures DKU!
 I (your club advisor) plan to send this out about once per month.
 
