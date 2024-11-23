@@ -4,36 +4,7 @@ ShowToc: true
 date: 2024-11-23
 ---
 
-## The Club
-
-This is the website for Plant Futures Club at Duke Kunshan University.
-
-Our mission is to fight against climate change and advocate for animal rights via
-promotion of plant-based products, such as a mostly vegetarian diet.
-
-We also help to run the community garden at DKU.
-
-
-## Contact
-
-You can reach out to the Executive Board via our emails ---
-
-* :email: [Executive Board](mailto:4c1abb1e.ProdDuke.onmicrosoft.com@amer.teams.ms)
-* :email: [Xing Shi Cai (Advisor)](mailto:xingshi.cai@dukekunshan.edu.cn)
-* :email: [Marielle Williamson (Co-President)](mailto:marielle.williamson@dukekunshan.edu.cn)
-
-## Keep in Touch
-
-To get news about the club, you can --
-
-- 📷 Follow us on [Instagram](https://www.instagram.com/plantfuturesdku/)
-- 💬 Join club group chat at [Microsoft Teams](https://teams.microsoft.com/l/team/19%3As6SZBTPi7s1f4rHlBfk9aozuwQEAwzQO-yboEB1bxwM1%40thread.tacv2/conversations?groupId=855d3ffe-800c-46a5-a8b4-ec2e656d031f&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c)
-- 🏷️ Bookmark the [home page]({{< ref "/" >}})
-- 📤 Remember the short URL  [https://tinyurl.com/pfdku](https://tinyurl.com/pfdku)
-- 🗞️ Subscribe to our [RSS feed](/index.xml)
-- 🗣️ Post at our [forum](https://github.com/dku-plant-futures/dku-plant-futures.github.io/discussions)
-
-## Our Slogan
+## About US
 
 {{< 
     figure 
@@ -42,8 +13,6 @@ To get news about the club, you can --
     caption="Our Slogan: Less Meat, Less Heat, More Life."
 >}}
 
-## Our Logo
-
 {{< 
     figure 
     src="/images/logo.png" class="small" alt="DKU Plant Futures Club Logo"
@@ -51,7 +20,14 @@ To get news about the club, you can --
     caption="Our Logo: Do you see where is the P and F? 🙂"
 >}}
 
-## Our Team
+Plant Futures DKU is a student club at Duke Kunshan University.
+
+Our mission is to fight against climate change and advocate for animal rights via
+promotion of plant-based products, such as a mostly vegetarian diet.
+
+We also help to run the community garden at DKU.
+
+## Executive Board
 
 ### Keyi Shi (Ex-Co-President)
 
@@ -120,3 +96,25 @@ topics on his [personal website](https://newptcai.gitlab.io/). As the club advis
 organizes Meatless Monday Lunches at DKU's canteen, arranges visits to vegetarian
 restaurants in Kunshan and the surrounding areas, and hosts documentary screenings and
 lectures on environmental issues.
+
+## Contact
+
+You can reach out to the Executive Board via our emails ---
+
+- :email: [Executive Board](mailto:4c1abb1e.ProdDuke.onmicrosoft.com@amer.teams.ms)
+- :email: [Xing Shi Cai (Advisor)](mailto:xingshi.cai@dukekunshan.edu.cn)
+- :email: [Marielle Williamson (Co-President)](mailto:marielle.williamson@dukekunshan.edu.cn)
+
+## Keep in Touch
+
+There are many ways to get news about the club, pick one you like the most ---
+
+- 🏷️ Bookmark our [Homepage]({{< ref "/" >}})
+- 📤 Remember our short URL https://tinyurl.com/pfdku
+- 🗞️ Subscribe to our [RSS feed](/index.xml)
+- 📷 Follow us on [Instagram](https://www.instagram.com/plantfuturesdku/)
+- 🦋 Follow us on [BlueSky](https://bsky.app/profile/plantfuturesdku.bsky.social)
+- 🐘 Follow us on [Mastodon](https://mastodon.world/@plantfuturesdku)
+- 💬 Join our [Group Chat/Microsoft Teams](https://teams.microsoft.com/l/team/19%3As6SZBTPi7s1f4rHlBfk9aozuwQEAwzQO-yboEB1bxwM1%40thread.tacv2/conversations?groupId=855d3ffe-800c-46a5-a8b4-ec2e656d031f&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c)
+- 🗣️ Join our [Forum/GitHub Discussions](https://github.com/dku-plant-futures/dku-plant-futures.github.io/discussions)
+
