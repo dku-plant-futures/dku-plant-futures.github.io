@@ -3,8 +3,11 @@ theme = 'PaperMod'
 title = 'DKU Plant Futures'
 
 enableEmoji = true
+
 defaultContentLanguage = 'en'
+
 disqusShortname = 'dku-plant-futures'
+
 timeZone = 'Asia/Shanghai'
 
 [taxonomies]
