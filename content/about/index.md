@@ -31,6 +31,7 @@ To get news about the club, you can --
 - 🏷️ Bookmark the [home page]({{< ref "/" >}})
 - 📤 Remember the short URL  [https://tinyurl.com/pfdku](https://tinyurl.com/pfdku)
 - 🗞️ Subscribe to our [RSS feed](/index.xml)
+- 🗣️ Post at our [forum](https://github.com/dku-plant-futures/dku-plant-futures.github.io/discussions)
 
 ## Our Slogan
 
