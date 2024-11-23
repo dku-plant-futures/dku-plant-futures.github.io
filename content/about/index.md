@@ -1,6 +1,7 @@
 ---
-title: About
+title: About Plant Futures DKU
 ShowToc: true
+date: 2024-11-23
 ---
 
 ## The Club
@@ -15,8 +16,21 @@ We also help to run the community garden at DKU.
 
 ## Contact
 
+You can reach out to the Executive Board via our emails ---
+
 * :email: [Executive Board](mailto:4c1abb1e.ProdDuke.onmicrosoft.com@amer.teams.ms)
-* :speech_balloon: [Microsoft Teams](https://teams.microsoft.com/l/team/19%3As6SZBTPi7s1f4rHlBfk9aozuwQEAwzQO-yboEB1bxwM1%40thread.tacv2/conversations?groupId=855d3ffe-800c-46a5-a8b4-ec2e656d031f&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c)
+* :email: [Xing Shi Cai (Advisor)](mailto:xingshi.cai@dukekunshan.edu.cn)
+* :email: [Marielle Williamson (Co-President)](mailto:marielle.williamson@dukekunshan.edu.cn)
+
+## Keep in Touch
+
+To get news about the club, you can --
+
+- 📷 Follow us on [Instagram](https://www.instagram.com/plantfuturesdku/)
+- 💬 Join club group chat at [Microsoft Teams](https://teams.microsoft.com/l/team/19%3As6SZBTPi7s1f4rHlBfk9aozuwQEAwzQO-yboEB1bxwM1%40thread.tacv2/conversations?groupId=855d3ffe-800c-46a5-a8b4-ec2e656d031f&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c)
+- 🏷️ Bookmark the [home page]({{< ref "/" >}})
+- 📤 Remember the short URL  [https://tinyurl.com/pfdku](https://tinyurl.com/pfdku)
+- 🗞️ Subscribe to our [RSS feed](/index.xml)
 
 ## Our Slogan
 

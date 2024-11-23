@@ -1,6 +1,7 @@
 ---
-title: Guide
+title: Vegetarian Survival Guide at DKU
 ShowToc: true
+date: 2024-11-23
 ---
 
 {{< 
@@ -12,8 +13,6 @@ ShowToc: true
 ## :book: Table of Contents
 
 ## :seedling: Introduction
-
-*Last updated: 2024-09-13*
 
 This guide is provided by the Plant-Futures DKU (Duke Kunshan University) Club as a
 resource for individuals who are vegetarians, vegans, or those interested in incorporating
