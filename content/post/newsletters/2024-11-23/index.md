@@ -7,7 +7,7 @@ ShowToc: true
 ---
 
 {{<
-    figure src="./bunny-read-newsletter-01.webp"
+    figure src="bunny-read-newsletter-01.webp"
     alt="Bunny reading a PFDKU newsletter"
     class="small"
 >}}
