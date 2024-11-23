@@ -1,8 +1,8 @@
 ---
 tags:
 - newsletter
-date: "2024-11-22"
-title: "🗞️ PFDKU naugural Newsletter -- New Website, Free Meal and More Proteins, Election"
+date: "2024-11-23"
+title: "🗞️ Newsletter -- Free Meal, New Website and Election"
 ShowToc: true
 ---
 
@@ -13,7 +13,7 @@ If you've been ignoring all the WeChat messages (who hasn't?), here's a recap of
 
 ---
 
-## 🌱 Free Meal and More Proteins
+## 🌱 Canteen
 
 *(Keep reading if you're interested in a free meal. 😉)*
 
