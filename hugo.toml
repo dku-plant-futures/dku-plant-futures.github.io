@@ -87,6 +87,10 @@ name = "mastodon"
 url = "https://mastodon.world/@plantfuturesdku"
 
 [[params.socialIcons]]
+name = "reddit"
+url = "https://www.reddit.com/user/PlantFutureDKU/"
+
+[[params.socialIcons]]
 name = "rss"
 
 [params.editPost]
