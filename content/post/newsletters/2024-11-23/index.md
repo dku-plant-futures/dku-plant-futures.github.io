@@ -33,13 +33,16 @@ the usual concerns:
 - 📄 Inaccurate menus
 - 🌱 Lack of plant-based protein
 
-(Helene Gu also had a separate meeting with the canteen management.)
-
 It seems persistent complaints do work!  The canteen has asked for our help to
 review menu translations. If you volunteer, you'll earn a **FREE MEAL** at the
 canteen!  Reach out to [us]({{< ref "/about" >}}#contact) if you're interested.
 
 You'll also notice more plant-based protein options available at the Western food section on the 2nd floor.
+
+[Helene Gu]({{< ref "/about">}}#helene-gu-co-president)
+also had a separate meeting with the canteen management regard CO2 footprint
+labelling at the canteen.
+We will update you on the progress of next time.
 
 Feel free to [share your feedback]({{< ref "/about" >}}#contact) about the canteen—we'll make sure your concerns are heard!
 

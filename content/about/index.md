@@ -102,8 +102,9 @@ lectures on environmental issues.
 You can reach out to the Executive Board via our emails ---
 
 - :email: [Executive Board](mailto:4c1abb1e.ProdDuke.onmicrosoft.com@amer.teams.ms)
-- :email: [Xing Shi Cai (Advisor)](mailto:xingshi.cai@dukekunshan.edu.cn)
 - :email: [Marielle Williamson (Co-President)](mailto:marielle.williamson@dukekunshan.edu.cn)
+- :email: [Helene Gu (Co-President)](mailto:helene.gu@dukekunshan.edu.cn)
+- :email: [Xing Shi Cai (Advisor)](mailto:xingshi.cai@dukekunshan.edu.cn)
 
 ## Keep in Touch
 
