@@ -58,7 +58,7 @@ social = true
 ShowShareButtons = true
 ShareButtons = ["reddit", "facebook", "whatsapp", "telegram"]
 displayFullLangName = true
-comments = true
+comments = false
 ShowReadingTime = true
 ShowPostNavLinks = true
 
