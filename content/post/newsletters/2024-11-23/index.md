@@ -26,7 +26,7 @@ If you've been ignoring all the WeChat messages (who hasn't?), here's a recap of
 *(Keep reading if you're interested in a free meal. 😉)*
 
 The Food Committee held its monthly meeting with the canteen management on
-Friday, Nov. 15. Yours truly (Cai) and Marseille Williamson attended and raised
+Friday, Nov. 15. [Yours truly]({{< ref "/about">}}#xing-shi-cai-advisor) and [Marseille Williamson]({{< ref "/about">}}#marseille-williamson-co-president) attended and raised
 the usual concerns:
 
 - 🏷️ Incorrect food labeling
