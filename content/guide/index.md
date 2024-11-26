@@ -19,8 +19,7 @@ resource for individuals who are vegetarians, vegans, or those interested in inc
 more plant-based foods into their diet. 
 
 If you have any suggestions or would like to report a closure of a restaurant,
-please email us at [xingshi.cai@dukekunshan.edu.cn](mailto:xingshi.cai@dukekunshan.edu.cn)
-or leave a comment at the end of this post.
+please email us at [xingshi.cai@dukekunshan.edu.cn](mailto:xingshi.cai@dukekunshan.edu.cn).
 
 ## :school: Eating at University Community Center
 
@@ -200,6 +199,7 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
    - **Location:** Shop WL401, 1-9 North District, Lane 500, Dongyu Road, Taikoo Li, Qiantan, Pudong New Area, Shanghai
    - **Links:** 
      :world_map: [Amap](https://amap.com/search?query=庆春朴门+餐馆+上海) 
+     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门)  
 
 ### :broccoli: Vegetarian Restaurants
 
