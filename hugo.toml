@@ -130,6 +130,10 @@ name = "instagram"
 url = "https://www.instagram.com/plantfuturesdku/"
 
 [[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/plant-future-dku-95782333a/"
+
+[[params.socialIcons]]
 name = "bluesky"
 url = "https://bsky.app/profile/plantfuturesdku.bsky.social"
 
