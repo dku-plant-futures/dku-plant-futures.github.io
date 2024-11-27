@@ -54,7 +54,7 @@ weight = 30
 [languages]
 
 [languages.zh]
-title = '昆杜植物未来'
+title = '昆杜植物未来社'
 weight = 1
 
 [languages.zh.menu]
@@ -95,8 +95,8 @@ url = "https://teams.microsoft.com/l/team/19%3As6SZBTPi7s1f4rHlBfk9aozuwQEAwzQO-
 weight = 30
 
 [languages.zh.params]
-author = '昆杜植物未来'
-description = "昆山杜克大学植物未来俱乐部网站"
+author = '昆杜植物未来社'
+description = "昆山杜克大学植物未来社"
 
 [languages.zh.params.homeInfoParams]
 Title = '博客文章'
