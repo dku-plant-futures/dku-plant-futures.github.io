@@ -125,61 +125,62 @@ date: 2024-11-23
    - **链接：**
      :world_map: [高德地图](https://amap.com/search?query=烟火成串+餐馆+昆山)
 
----
-
 ## :chopsticks: 上海的餐厅推荐
 
 ### :carrot: 纯素餐厅
 
-1. **轻蔬不用等**
+1. **度粒 (Duli)**
+   - **地址：** 上海市静安区延平路227号
+   - **简介：** 一家提供川菜风味融合菜的纯素餐厅，环境雅致又不失休闲。
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=度粒+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+度粒)
+
+2. **轻蔬不用等 (No Need to Wait For Light Vegetarian Food)**
    - **地址：** 上海市长宁区江苏路458号
-   - **简介：** 提供健康、轻食的全素餐厅，服务快捷便利。
-   - **链接：**
-     :world_map: [高德地图](https://amap.com/search?query=轻蔬不用等+餐馆+上海)
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+轻蔬不用等)
+   - **简介：** 一家全素餐厅，提供轻盈健康的菜肴，并注重快捷便利的服务。
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=轻蔬不用等+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+轻蔬不用等)
 
-2. **幸福咖啡店**
-   - **地址：** 上海市徐汇区武康路378号8楼（武康庭）
-   - **链接：**
-     :world_map: [高德地图](https://amap.com/search?query=幸福咖啡店+餐馆+上海)
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)
-
-3. **素来很好**
+3. **素来很好 (Vegegood)**
    - **地址：** 上海市黄浦区马当路411号
-   - **链接：**
-     :world_map: [高德地图](https://amap.com/search?query=素来很好+餐馆+上海)
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+素来很好)
+   - **简介：** 一家小餐馆，提供多样化选择，包括中式菜肴、意大利面和汉堡。
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=素来很好+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+素来很好)
 
-4. **茹（Pure Vegan）**
-   - **地址：** 上海市静安区山海关路388号波华广场2号楼零售区L4-03
-   - **链接：**
-     :world_map: [高德地图](https://amap.com/search?query=茹+餐馆+上海)
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+茹)
+4. **茹 (Ru Pure Vegan)**
+   - **地址：** 上海市静安区山海关路388号2号楼博华广场L4-03
+   - **简介：** 一家纯素餐厅，提供创意融合菜，并设有宽敞明亮的露台。
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=茹+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+茹)
 
-5. **若无**
-   - **地址：** 上海市静安区西康路464号康定大厦
-   - **链接：**
-     :world_map: [高德地图](https://amap.com/search?query=若无+餐馆+上海)
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+若无)
+5. **若无 (Ruo Wu)**
+   - **地址：** 上海市静安区西康路464号康定大楼
+   - **简介：** 一家提供多种植物基菜肴的纯素餐厅，环境温馨。
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=若无+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+若无)
 
-6. **蔬蔬食验室**
+6. **蔬蔬食验室 (Carrot & Cleaver)**
    - **地址：** 上海市静安区南京西路1376号上海商城F1楼105室
-   - **链接：**
-     :world_map: [高德地图](https://amap.com/search?query=蔬蔬食验室+餐馆+上海)
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+蔬蔬食验室)
+   - **简介：** 一家现代风格的纯素餐厅，提供多种植物基餐点。
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=蔬蔬食验室+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+蔬蔬食验室)
 
-7. **焱格格素食料理火锅**
-   - **地址：** 上海市静安区常德路800号秀园A4-1楼
-   - **链接：**
-     :world_map: [高德地图](https://amap.com/search?query=焱格格素食料理火锅+餐馆+上海)
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+焱格格素食料理火锅)
+7. **焱格格素食料理火锅 (Yan Gege Vegetarian Hotpot)**
+   - **地址：** 上海市静安区常德路800号绣源区A4-1层
+   - **简介：** 一家纯素火锅店，提供多种植物基食材，自助形式。
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=焱格格素食料理火锅+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+焱格格素食料理火锅)
 
-8. **庆春朴门**
-   - **地址：** 上海市浦东新区前滩太古里东育路500弄1-9号北区WL401铺
-   - **链接：**
-     :world_map: [高德地图](https://amap.com/search?query=庆春朴门+餐馆+上海)
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门)
-   -
+8. **庆春朴门 (Qingchun Perma)**
+   - **地址：** 上海市浦东新区前滩太古里东育路500弄北区1-9号WL401室
+   - **简介：** 一家纯素餐厅，提供优质中餐，包括饺子、汤、咖喱和米饭等菜肴。
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=庆春朴门+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门)
+
+### :coffee: 纯素咖啡
+
+1. **幸福咖啡店 (Fortunate Café)**
+   - **地址：** 上海市徐汇区武康路378号8楼，福开森路
+   - **简介：** 一家纯素咖啡店，提供多种植物基餐点、甜点和饮品。不定期组织自助餐。
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)
+
+2. **绿洲 (Goodness Café)**  
+   - **地址：** 松江区莘松路1288弄绿洲香岛517栋101室  
+   - **简介：** 一家纯素咖啡店，提供各类烘焙食品及亚洲风味餐点，如寿司、豆花、米线和荞麦凉面。  
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)
+
 ### :broccoli: 素食餐厅
 
 1. **一碗阳春**

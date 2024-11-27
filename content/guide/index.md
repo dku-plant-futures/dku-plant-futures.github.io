@@ -148,54 +148,57 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
 
 ### :carrot: Vegan Restaurants
 
-1. **No Need to Wait For Light Vegetarian Food (轻蔬不用等)**
-   - **Location:** 458 Jiangsu Road, Changning District, Shanghai
-   - **Description:** Fully vegan restaurant offering light, healthy dishes with quick and convenient service.
-   - **Links:** 
-     :world_map: [Amap](https://amap.com/search?query=轻蔬不用等+餐馆+上海) 
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+轻蔬不用等)  
+1. **Duli (度粒)**  
+   - **Location:** 227 Yanping Road, Jing'an District, Shanghai  
+   - **Description:** A vegan restaurant offering Sichuan-inspired fusion cuisine in a sophisticated yet casual setting.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=度粒+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+度粒)  
 
-2. **Fortunate Vegan Cafe (幸福咖啡店)**
-   - **Location:** 8/F, Ferguson Lane, 378 Wukang Road, Xuhui District, Shanghai
-   - **Links:** 
-     :world_map: [Amap](https://amap.com/search?query=幸福咖啡店+餐馆+上海) 
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)  
+2. **No Need to Wait For Light Vegetarian Food (轻蔬不用等)**  
+   - **Location:** 458 Jiangsu Road, Changning District, Shanghai  
+   - **Description:** A fully vegan restaurant offering light, healthy dishes with quick and convenient service.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=轻蔬不用等+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+轻蔬不用等)  
 
-3. **Vegegood (素来很好)**
-   - **Location:** 411 Madang Road, Huangpu District, Shanghai
-   - **Links:** 
-     :world_map: [Amap](https://amap.com/search?query=素来很好+餐馆+上海) 
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+素来很好)  
+3. **Vegegood (素来很好)**  
+   - **Location:** 411 Madang Road, Huangpu District, Shanghai  
+   - **Description:** A small eatery with an eclectic selection that includes Chinese dishes as well as pasta and burgers.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=素来很好+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+素来很好)  
 
-4. **Pure Vegan (茹)**
-   - **Location:** L4-03, Retail Area, Bohua Plaza, Building 2, 388 Shanhaiguan Road, Jing'an District, Shanghai
-   - **Links:** 
-     :world_map: [Amap](https://amap.com/search?query=茹+餐馆+上海) 
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+茹)  
+4. **Ru Pure Vegan (茹)**  
+   - **Location:** L4-03, Retail Area, Bohua Plaza, Building 2, 388 Shanhaiguan Road, Jing'an District, Shanghai  
+   - **Description:** A pure vegan restaurant with creative fusion dishes and a spacious, bright terrace.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=茹+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+茹)  
 
-5. **Ruo Wu (若无)**
-   - **Location:** Kangding Building, 464 Xikang Road, Jing'an District, Shanghai
-   - **Links:** 
-     :world_map: [Amap](https://amap.com/search?query=若无+餐馆+上海) 
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+若无)  
+5. **Ruo Wu (若无)**  
+   - **Location:** Kangding Building, 464 Xikang Road, Jing'an District, Shanghai  
+   - **Description:** A vegan restaurant offering a variety of plant-based dishes in a cozy setting.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=若无+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+若无)  
 
-6. **Carrot & Cleaver (蔬蔬食验室)**
-   - **Location:** Room 105, Floor F1, Shanghai Centre, 1376 Nanjing West Road, Jing'an District, Shanghai
-   - **Links:** 
-     :world_map: [Amap](https://amap.com/search?query=蔬蔬食验室+餐馆+上海) 
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+蔬蔬食验室)  
+6. **Carrot & Cleaver (蔬蔬食验室)**  
+   - **Location:** Room 105, Floor F1, Shanghai Centre, 1376 Nanjing West Road, Jing'an District, Shanghai  
+   - **Description:** A vegan restaurant offering a variety of plant-based dishes in a modern setting.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=蔬蔬食验室+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+蔬蔬食验室)  
 
-7. **Yan Gege Vegetarian Hotpot (焱格格素食料理火锅)**
-   - **Location:** Floor A4-1, Xiuyuan District, 800 Changde Road, Jing'an District, Shanghai
-   - **Links:** 
-     :world_map: [Amap](https://amap.com/search?query=焱格格素食料理火锅+餐馆+上海) 
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+焱格格素食料理火锅)  
+7. **Yan Gege Vegetarian Hotpot (焱格格素食料理火锅)**  
+   - **Location:** Floor A4-1, Xiuyuan District, 800 Changde Road, Jing'an District, Shanghai  
+   - **Description:** A vegan hot pot restaurant offering a variety of plant-based ingredients in a buffet setting.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=焱格格素食料理火锅+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+焱格格素食料理火锅)  
 
-8. **Qingchun Perma (庆春朴门)**
-   - **Location:** Shop WL401, 1-9 North District, Lane 500, Dongyu Road, Taikoo Li, Qiantan, Pudong New Area, Shanghai
-   - **Links:** 
-     :world_map: [Amap](https://amap.com/search?query=庆春朴门+餐馆+上海) 
-     :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门)  
+8. **Qing Chun Perma (庆春朴门)**  
+   - **Location:** Shop WL401, 1-9 North District, Lane 500, Dongyu Road, Taikoo Li, Qiantan, Pudong New Area, Shanghai  
+   - **Description:** A vegan restaurant serving high-quality Chinese food, including dumplings, soups, curries, and rice dishes.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=庆春朴门+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门)  
+
+### :coffee: Vegan Cafes
+
+1. **Fortunate Vegan Café (幸福咖啡店)**  
+   - **Location:** 8/F, Ferguson Lane, 378 Wukang Road, Xuhui District, Shanghai  
+   - **Description:** A vegan bakery and coffee café offering a variety of plant-based meals, desserts, and beverages.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)  
+
+2. **Goodness Café (绿洲)**  
+   - **Address:** Room 101, Building 517, Green Oasis Xiangdao, Lane 1288, Xin Song Road, Songjiang District, Shanghai  
+   - **Description:** A fully vegan café offering a mix of bakery items and Asian dishes, such as sushi, tofu pudding, rice noodles, and chilled buckwheat noodles.  
+   - **Links:**  :world_map: [Gaode Map](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)
 
 ### :broccoli: Vegetarian Restaurants
 
