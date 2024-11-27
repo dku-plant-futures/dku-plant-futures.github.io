@@ -62,10 +62,6 @@ cost of 2 yuan.
 
 The salad section now also sells fruit and vegetable cups.
 
-You can request vegetarian noodles with the option to add a Tofu (素鸡) topping.
-However, the broth usually poured on the noodles is not vegetarian.
-You should ask for pure water instead of the broth.
-
 ### :convenience_store: FamilyMart
 
 In the baozi/steamed bun (包子) section, two vegetarian options are available: one with
