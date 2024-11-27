@@ -10,8 +10,6 @@ date: 2024-11-23
     alt="Vegetarian Survival Guide" 
 >}}
 
-## :book: Table of Contents
-
 ## :seedling: Introduction
 
 This guide is provided by the Plant-Futures DKU (Duke Kunshan University) Club as a
@@ -20,6 +18,8 @@ more plant-based foods into their diet.
 
 If you have any suggestions or would like to report a closure of a restaurant,
 please email us at [xingshi.cai@dukekunshan.edu.cn](mailto:xingshi.cai@dukekunshan.edu.cn).
+
+---
 
 ## :school: Eating at University Community Center
 
@@ -72,6 +72,8 @@ important to note that the broth is fish-based.
 
 Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dried-tofu
 (豆腐干) may be found on the shelves. (Note that they are not always available.)
+
+---
 
 ## :chopsticks: Restaurants in Kunshan / 昆山
 
@@ -144,6 +146,8 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
    - **Links:** 
      :world_map: [Amap](https://amap.com/search?query=烟火成串+餐馆+昆山) 
 
+---
+
 ## :chopsticks: Restaurants in Shanghai / 上海
 
 ### :carrot: Vegan Restaurants
@@ -188,17 +192,22 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
    - **Description:** A vegan restaurant serving high-quality Chinese food, including dumplings, soups, curries, and rice dishes.  
    - **Links:**  :world_map: [Amap](https://amap.com/search?query=庆春朴门+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门)  
 
-### :coffee: Vegan Cafes
+### :croissant: Vegan Baking
 
-1. **Fortunate Vegan Café (幸福咖啡店)**  
-   - **Location:** 8/F, Ferguson Lane, 378 Wukang Road, Xuhui District, Shanghai  
-   - **Description:** A vegan bakery and coffee café offering a variety of plant-based meals, desserts, and beverages.  
-   - **Links:**  :world_map: [Amap](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)  
+1. **Fortunate Café (幸福咖啡店)**  
+   - **Address:** 8th Floor, 378 Wukang Road, Xuhui District, Shanghai (near Fuxing Road)  
+   - **Description:** A vegan café offering a variety of plant-based meals, desserts, and drinks. Occasionally hosts buffet events.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)
 
 2. **Goodness Café (绿洲)**  
-   - **Address:** Room 101, Building 517, Green Oasis Xiangdao, Lane 1288, Xin Song Road, Songjiang District, Shanghai  
-   - **Description:** A fully vegan café offering a mix of bakery items and Asian dishes, such as sushi, tofu pudding, rice noodles, and chilled buckwheat noodles.  
-   - **Links:**  :world_map: [Gaode Map](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)
+   - **Address:** Unit 101, Building 517, Green Oasis Xiangdao, 1288 Xinsong Road, Songjiang District, Shanghai  
+   - **Description:** A vegan café serving a range of baked goods and Asian-inspired dishes such as sushi, tofu pudding, rice noodles, and soba salad.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)
+
+3. **Goodwill Bakery (香岛烘焙)**  
+   - **Address:** 95-96, Lane 1, Xuejiaqiao Road, Songjiang District, Shanghai  
+   - **Description:** Offers a variety of vegan baked goods and pizzas.  
+   - **Links:**  :world_map: [Amap](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)  
 
 ### :broccoli: Vegetarian Restaurants
 
@@ -279,6 +288,8 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
      :world_map: [Amap](https://amap.com/search?query=Green+Friday+餐馆+上海) 
      :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+Green+Friday)  
 
+---
+
 ## :chopsticks: Restaurants in Suzhou / 苏州
 
 1. **Lotus Veg Cafe (水中莲)**
@@ -294,6 +305,10 @@ Additionally, plant-based protein snacks labelled as veggie meat (素肉) or dri
    - **Links:** 
      :world_map: [Amap](https://amap.com/search?query=素满香+餐馆+苏州) 
      :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=苏州+素满香)  
+
+---
+
+## :chopsticks: Tips for Eating at Restaurants in General
 
 ### :ramen: Noodle Restaurants
 
@@ -360,6 +375,8 @@ Standard restaurants often offer a variety of vegan dishes, including:
    and other vegetables.
 10. **Eggplant in Garlic Sauce (鱼香茄子)**: Soft, tender eggplant cooked in a fragrant
     garlic sauce, typically sweet and slightly spicy.
+
+---
 
 ## :shopping_cart: Order Food Online
 

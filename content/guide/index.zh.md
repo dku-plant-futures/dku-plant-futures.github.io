@@ -10,13 +10,13 @@ date: 2024-11-23
     alt="昆山杜克大学的素食指南"
 >}}
 
-## :book: 目录
-
 ## :seedling: 简介
 
 此指南由昆山杜克大学植物未来社撰写，为素食者、纯素食者以及想要增加植物性食物摄入的人士提供资源。
 
 如果您有任何建议，或需要报告餐厅关闭信息，请发送邮件至 [xingshi.cai@dukekunshan.edu.cn](mailto:xingshi.cai@dukekunshan.edu.cn)。
+
+---
 
 ## :school: 在大学社区中心就餐
 
@@ -56,6 +56,8 @@ date: 2024-11-23
 关东煮（关东煮）中提供素食串，但需要注意其汤底为鱼汤。
 
 此外，货架上可能有标记为素肉（素肉）或豆腐干（豆腐干）的植物蛋白零食。（注意并非随时都有售。）
+
+---
 
 ## :chopsticks: 昆山餐厅推荐
 
@@ -125,6 +127,8 @@ date: 2024-11-23
    - **链接：**
      :world_map: [高德地图](https://amap.com/search?query=烟火成串+餐馆+昆山)
 
+---
+
 ## :chopsticks: 上海的餐厅推荐
 
 ### :carrot: 纯素餐厅
@@ -169,7 +173,7 @@ date: 2024-11-23
    - **简介：** 一家纯素餐厅，提供优质中餐，包括饺子、汤、咖喱和米饭等菜肴。
    - **链接：**  :world_map: [高德地图](https://amap.com/search?query=庆春朴门+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+庆春朴门)
 
-### :coffee: 纯素咖啡
+### :croissant: 纯素烘焙
 
 1. **幸福咖啡店 (Fortunate Café)**
    - **地址：** 上海市徐汇区武康路378号8楼，福开森路
@@ -177,8 +181,13 @@ date: 2024-11-23
    - **链接：**  :world_map: [高德地图](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)
 
 2. **绿洲 (Goodness Café)**  
-   - **地址：** 松江区莘松路1288弄绿洲香岛517栋101室  
+   - **地址：** 上海市松江区莘松路1288弄绿洲香岛517栋101室  
    - **简介：** 一家纯素咖啡店，提供各类烘焙食品及亚洲风味餐点，如寿司、豆花、米线和荞麦凉面。  
+   - **链接：**  :world_map: [高德地图](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)
+
+3. **香岛烘焙 (Goodwill Bakery)**  
+   - **地址：** 上海松江区雪家桥路1弄95-96号
+   - **简介：** 提供各类纯素烘焙食品及比萨饼
    - **链接：**  :world_map: [高德地图](https://amap.com/search?query=幸福咖啡店+餐馆+上海)  :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+幸福咖啡店)
 
 ### :broccoli: 素食餐厅
@@ -260,6 +269,8 @@ date: 2024-11-23
      :world_map: [高德地图](https://amap.com/search?query=Green+Friday+餐馆+上海)
      :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=上海+Green+Friday)
 
+---
+
 ## :chopsticks: 苏州的餐厅推荐
 
 1. **水中莲 (Lotus Veg Cafe)**
@@ -275,6 +286,10 @@ date: 2024-11-23
    - **链接:**
      :world_map: [高德地图](https://amap.com/search?query=素满香+餐馆+苏州)
      :cow: [HappyCow](https://www.happycow.net/searchmap?s=1&location=苏州+素满香)
+
+---     
+
+## :chopsticks: 在一般餐厅就餐的诀窍
 
 ### :ramen: 面馆
 
@@ -314,6 +329,8 @@ date: 2024-11-23
 8. **土豆丝**: 切细的土豆丝炒制得脆嫩，常加入醋和辣椒调味。
 9. **红烧豆腐**: 豆腐在浓郁的酱汁中红烧，通常搭配香菇和其他蔬菜。
 10. **鱼香茄子**: 茄子软嫩入味，配以甜辣的蒜香酱。
+
+---
 
 ## :shopping_cart: 在线订购食品
 
