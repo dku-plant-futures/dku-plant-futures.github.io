@@ -3,7 +3,7 @@ tags:
 - recipe
 title: "Thanksgiving Vegan Recipes"
 ShowToc: true
-pulished: 2024-11-26
+date: 2024-11-26
 images:
 - vegetarian-tart.jpg
 ---

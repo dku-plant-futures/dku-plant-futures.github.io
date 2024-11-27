@@ -3,7 +3,7 @@ tags:
 - 菜谱
 title: "感恩节纯素食谱分享"
 ShowToc: true
-pulished: 2024-11-26
+date: 2024-11-26
 images:
 - vegetarian-tart.jpg
 ---
