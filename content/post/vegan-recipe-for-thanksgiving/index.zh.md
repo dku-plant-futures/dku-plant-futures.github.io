@@ -9,7 +9,7 @@ images:
 ---
 
 几周前，我们受邀为今年的感恩节向食堂推荐一些纯素食谱。
-[Marseille Williamson]({{< ref "/about">}}#marseille-williamson-co-president) 分享了一些不错的食谱，我将它们翻译成中文并转发给了食堂。
+[Marseille Williamson]({{< ref "/about">}}#marielle-williamson联合主席) 分享了一些不错的食谱，我将它们翻译成中文并转发给了食堂。
 虽然最终没有收到回复，但这些食谱还是值得一试。
 我在这里分享翻译后的版本，原版英文链接也附在下方，供大家参考。
 
