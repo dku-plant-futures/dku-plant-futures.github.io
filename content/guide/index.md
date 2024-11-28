@@ -392,3 +392,14 @@ We have created a Excel sheet to collect information on online stores which
 sell vegetarian food in China.
 You can view it [here](https://docs.qq.com/sheet/DZFNyeGl4bWplSkxY).
 Feel free to add more shops if you know any.
+
+---
+
+## :weight_lifting: Nutrition Guide
+
+Here are answers to common questions about a vegan or vegetarian diet:
+
+- [Can vegetarians get enough Iron?](https://nutritionfacts.org/topics/iron/) Yes, they can!
+- [Can vegetarians get enough Vitamin B12?](https://nutritionfacts.org/topics/vitamin-b12/) Yes, they can!
+- [Can vegetarians get enough protein?](https://nutritionfacts.org/topics/protein/) Yes, they can!
+- [Are plant-based proteins sufficient?](https://nutritionfacts.org/video/do-vegetarians-get-enough-protein/) Yes, they are!

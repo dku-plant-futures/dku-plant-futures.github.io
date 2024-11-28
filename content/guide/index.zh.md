@@ -340,3 +340,12 @@ date: 2024-11-23
 
 我们已创建了一个 Excel 表格，用于收集在中国销售素食产品的网店信息。
 你可以点击[这里](https://docs.qq.com/sheet/DZFNyeGl4bWplSkxY)查看。如果你知道更多店铺，欢迎补充。
+
+## :weight_lifting: 营养指南
+
+以下是关于素食或纯植物饮食的一些常见问题的答案：
+
+- [素食者能摄取足够的铁吗？](https://nutritionfacts.org/topics/iron/) 当然可以！
+- [素食者能摄取足够的维生素B12吗？](https://nutritionfacts.org/topics/vitamin-b12/) 当然可以！
+- [素食者能摄取足够的蛋白质吗？](https://nutritionfacts.org/topics/protein/) 当然可以！
+- [植物性蛋白足够吗？](https://nutritionfacts.org/video/do-vegetarians-get-enough-protein/) 当然足够！
