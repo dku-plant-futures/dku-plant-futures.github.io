@@ -2,7 +2,7 @@
 tags:
 - 书摘
 - 环保主义
-title: "📚 书摘 --- 我们能够阻止人类史上第一次生态浩劫"
+title: "📚 书摘 --- 乔治·蒙比奥特：我们能够阻止人类史上第一次生态浩劫"
 ShowToc: false
 date: 2024-11-27
 images:
@@ -12,8 +12,8 @@ images:
 ## 🙏 致谢
 
 *这篇文章由《卫报》专栏作家[乔治·蒙比奥特](https://www.monbiot.com/)撰写，
-收录在他关于环境问题的文章集[《这不能发生》](https://www.goodreads.com/book/show/55663836-this-can-t-be-happening)中。
-我们感谢蒙比奥特先生允许我们翻译并重新发布这篇文章。*
+收录在他关于环境问题的文集[《This Can't Be Happening》](https://www.goodreads.com/book/show/55663836-this-can-t-be-happening)中 。
+我们特别感谢蒙比奥特先生授权我们翻译并重新发布这篇文章。*
 
 {{< figure src="desolate-landscape-of-grazing-sheep.webp" alt="荒凉的牧羊场" >}}
 

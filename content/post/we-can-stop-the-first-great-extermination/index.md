@@ -15,7 +15,7 @@ This essay by [George Monbiot](https://www.monbiot.com/), a columnist for [The
 Guardian](https://www.theguardian.com/profile/georgemonbiot), is part of his
 book [This Can't Be Happening](https://www.goodreads.com/book/show/55663836-this-can-t-be-happening),
 a collection of his writings on environmental issues. We are grateful to Monbiot
-for allowing us to [translate](/zh/post/we-can-stop-the-first-great-extermination/)
+for allowing us to [translate it to Chinese]({{< ref path="/post/we-can-stop-the-first-great-extermination/" lang="zh">}})
 and republish his essay here.
 
 {{< figure src="desolate-landscape-of-grazing-sheep.webp" alt="Desolate landscape of grazing sheep" >}}

@@ -10,7 +10,7 @@ images:
 
 A few weeks ago, we were invited to suggest vegan recipes for this year's Thanksgiving menu for the cafeteria.
 [Marseille Williamson]({{< ref "/about">}}#marseille-williamson-co-president) shared some excellent recipes,
-which I translated into [Chinese](/zh/post/vegan-recipe-for-thanksgiving/) and sent to the cafeteria.
+which I translated into [Chinese]({{< ref path="/post/vegan-recipe-for-thanksgiving/" lang="zh">}}) and sent to the cafeteria.
 
 Although I didn't receive any response,
 the recipes are still worth trying.
