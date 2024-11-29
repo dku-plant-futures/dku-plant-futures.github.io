@@ -117,4 +117,3 @@ There are many ways to get news about the club, pick one you like the most ---
 - 🦋 Follow us on [BlueSky](https://bsky.app/profile/plantfuturesdku.bsky.social)
 - 🐘 Follow us on [Mastodon](https://mastodon.world/@plantfuturesdku)
 - 💬 Join our [Group Chat/Microsoft Teams](https://teams.microsoft.com/l/team/19%3As6SZBTPi7s1f4rHlBfk9aozuwQEAwzQO-yboEB1bxwM1%40thread.tacv2/conversations?groupId=855d3ffe-800c-46a5-a8b4-ec2e656d031f&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c)
-- 🗣️ Join our [Forum/GitHub Discussions](https://github.com/dku-plant-futures/dku-plant-futures.github.io/discussions)
