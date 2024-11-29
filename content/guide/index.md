@@ -2,6 +2,8 @@
 title: Vegetarian Survival Guide at DKU
 ShowToc: true
 date: 2024-11-23
+images:
+- vegetarian-survival-guide-at-dku.webp
 ---
 
 {{< 
