@@ -6,7 +6,7 @@ title: "📚 书摘 --- 乔治·蒙比奥特：我们能够阻止人类史上第
 ShowToc: false
 date: 2024-11-27
 images:
-- vegetarian-tart.jpg
+- desolate-landscape-of-grazing-sheep.webp
 ---
 
 ## 🙏 致谢
