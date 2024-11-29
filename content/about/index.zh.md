@@ -90,7 +90,6 @@ Maya Slack 是一名双主修生物学和环境科学与政策的高年级学生
 - 📤 记住我们的短网址 https://tinyurl.com/pfdku
 - 🗞️ 订阅我们的 [RSS feed](/index.xml)
 - 📷 关注我们的 [Instagram](https://www.instagram.com/plantfuturesdku/)
-- 💼 关注我们的 [Linkedin](https://www.instagram.com/plantfuturesdku/)
 - 🦋 关注我们的 [BlueSky](https://bsky.app/profile/plantfuturesdku.bsky.social)
 - 🐘 关注我们的 [Mastodon](https://mastodon.world/@plantfuturesdku)
 - 💬 加入我们的 [群聊/Microsoft Teams](https://teams.microsoft.com/l/team/19%3As6SZBTPi7s1f4rHlBfk9aozuwQEAwzQO-yboEB1bxwM1%40thread.tacv2/conversations?groupId=855d3ffe-800c-46a5-a8b4-ec2e656d031f&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c)
