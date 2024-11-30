@@ -2,7 +2,7 @@
 tags:
 - 书摘
 - 环保主义
-title: "📚 书摘 --- 乔治·蒙比奥特：我们能够阻止人类史上第一次生态浩劫"
+title: "📚 书摘 --- 乔治·蒙比奥特：不为人知的世界"
 ShowToc: false
 date: 2024-11-29
 images:
@@ -19,7 +19,7 @@ images:
 
 {{< figure src="moths-in-the-garden-at-night.webp" alt="夜间的花园里的飞蛾" >}}
 
-## 我们能够阻止人类史上第一次生态浩劫
+## 不为人知的世界
 
 乔治·蒙比奥（George Monbiot）  
 
