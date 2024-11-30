@@ -4,6 +4,8 @@ title = 'DKU Plant Futures'
 
 enableEmoji = true
 
+hasCJKLanguage = true
+
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
