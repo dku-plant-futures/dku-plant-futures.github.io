@@ -119,35 +119,35 @@ We've carefully selected photographs of what we think represent ‘normal' farms
 
 ### Farmed chickens
 
-We've genetically selected broiler chickens to grow very fast; they may reach the weight for slaughter in as little as five weeks.g This fast development causes fluid to build up in the abdomen, which compresses organs, causing pain and breathing difficulties. This build-up of fluid is known as *ascites*.g These chickens' large sizes also cause difficulty moving. Much like injured humans, chickens change the way they move in response to their weight and injury --- which then causes muscle and bone pain.
+We've genetically selected broiler chickens to grow very fast; they may reach the weight for slaughter in as little as five weeks. This fast development causes fluid to build up in the abdomen, which compresses organs, causing pain and breathing difficulties. This build-up of fluid is known as *ascites*.g These chickens' large sizes also cause difficulty moving. Much like injured humans, chickens change the way they move in response to their weight and injury --- which then causes muscle and bone pain.
 
-Their movement is also very restricted, and even on free-range farms each bird often has only around 0.1m² of space.g Long periods of standing and lying in waste causes painful lesions and chemical burns (specifically, 'hock burn' and 'footpad dermatitis').g Heat stress is common due to temperatures of 30 to 40°C in housing.
+Their movement is also very restricted, and even on free-range farms each bird often has only around 0.1m² of space. Long periods of standing and lying in waste causes painful lesions and chemical burns (specifically, 'hock burn' and 'footpad dermatitis').g Heat stress is common due to temperatures of 30 to 40°C in housing.
 
-Diseases are common. One of the most common is necrotic enteritis (a bacterial infection that destroys the small intestine over the course of about 3–4 days).g In developing countries, infectious diseases like *visceral gout* (kidney failure leading to poor appetite and uric acid build up on organs), *coccidiosis* (parasitic disease causing diarrhoea and vomiting), and *colibacillosis* (*E. coli* infection) are common.
+Diseases are common. One of the most common is necrotic enteritis (a bacterial infection that destroys the small intestine over the course of about 3–4 days). In developing countries, infectious diseases like *visceral gout* (kidney failure leading to poor appetite and uric acid build up on organs), *coccidiosis* (parasitic disease causing diarrhoea and vomiting), and *colibacillosis* (*E. coli* infection) are common.
 
 Breeder chickens can live for up to a year, but because they're still broiler chickens, they're bred to want to eat a lot. Feeding breeders isn't that helpful for farmers (in fact, it can lead to injury, health issues, and fewer chicks being born), so instead they are kept on the edge of starvation.g
 
 Before slaughter, chickens must be 'caught' and loaded into trucks for transport. This process involves humans or a machine picking up and loading chickens into crates. Often, this is done to half the flock, while the rest are left without food or water for days until they are also collected. This process is known as 'depopulation.'g
 
-In some systems, like those in Europe, 90% of chickens are stunned before slaughter,g mostly by having their heads dunked in water with an electric current. In other countries, like the US, there are no rules governing how chickens are killed. Many chickens experience severe pain when they are shackled upside down by their legs prior to stunning. Chickens then have their throats cut ('bleeding'), before being killed using hot water --- as a result, many chickens are boiled alive when the previous steps fail.
+In some systems, like those in Europe, 90% of chickens are stunned before slaughter, mostly by having their heads dunked in water with an electric current. In other countries, like the US, there are no rules governing how chickens are killed. Many chickens experience severe pain when they are shackled upside down by their legs prior to stunning. Chickens then have their throats cut ('bleeding'), before being killed using hot water --- as a result, many chickens are boiled alive when the previous steps fail.
 
-Caged laying hens tend to have around 0.07 m² of space, which prevents typical movement and behaviours, including standing, preening, turning, and wing flapping, and prevents them from engaging in natural behaviours like nesting or foraging.g Osteoporosis leads to frequent fractures of the keel bone (the part of the sternum where the wings attach). Withdrawal of food and exposure to 24-hour bright lights is sometimes used to induce shedding and regrowth of feathers (known as moulting) to increase egg production in countries outside of Europe. Egg peritonitis --- an infection caused by yolks remaining within their body cavity from eggs that break before they are laid --- is quite common, causes substantial pain, and is sometimes fatal.
+Caged laying hens tend to have around 0.07 m² of space, which prevents typical movement and behaviours, including standing, preening, turning, and wing flapping, and prevents them from engaging in natural behaviours like nesting or foraging. Osteoporosis leads to frequent fractures of the keel bone (the part of the sternum where the wings attach). Withdrawal of food and exposure to 24-hour bright lights is sometimes used to induce shedding and regrowth of feathers (known as moulting) to increase egg production in countries outside of Europe. Egg peritonitis --- an infection caused by yolks remaining within their body cavity from eggs that break before they are laid --- is quite common, causes substantial pain, and is sometimes fatal.
 
-The lives of cage-free hens are marginally better. They are usually kept in indoor aviaries, and free-range hens go outside less than consumers expect.g Cage-free hens have a little more space per bird, and are able to move around somewhat. Keel bone fractures are still common.
+The lives of cage-free hens are marginally better. They are usually kept in indoor aviaries, and free-range hens go outside less than consumers expect. Cage-free hens have a little more space per bird, and are able to move around somewhat. Keel bone fractures are still common.
 
-However, because of stress and the inability to socialise naturally with such a large flock, hens still end up wounding each other by pecking and sometimes even resort to cannibalism.g As a result, it's common to remove the tip of both caged and cage-free hens' beaks using a hot blade, without anaesthesia. Beaks are highly sensitive and used by birds to interact with the world, similar to how humans use their hands. Male chicks are killed by maceration. Egg-laying hens are depopulated and slaughtered when they are old enough that their productivity drops, with similar issues to the slaughter or broiler chickens.
+However, because of stress and the inability to socialise naturally with such a large flock, hens still end up wounding each other by pecking and sometimes even resort to cannibalism. As a result, it's common to remove the tip of both caged and cage-free hens' beaks using a hot blade, without anaesthesia. Beaks are highly sensitive and used by birds to interact with the world, similar to how humans use their hands. Male chicks are killed by maceration. Egg-laying hens are depopulated and slaughtered when they are old enough that their productivity drops, with similar issues to the slaughter or broiler chickens.
 
 Other birds (ducks, quail, turkeys, gueese, guinea fowls) are treated very similarly to chickens).
 
 ### Farmed pigs
 
-Most farmed pigs are kept indoors on high-density farms.g Heat stress is common, reaching temperatures of 30 to 40°C --- which is particularly bad as pigs do not sweat; instead they keep cool in the wild through wallowing and rooting.
+Most farmed pigs are kept indoors on high-density farms. Heat stress is common, reaching temperatures of 30 to 40°C --- which is particularly bad as pigs do not sweat; instead they keep cool in the wild through wallowing and rooting.
 
-Piglets go through the removal of parts of their canine teeth (known as tooth cutting)g and their tails (known as tail docking) without anaesthesia. Most male piglets are also castrated (other than in the UK and some EU countries) to prevent the strong odour and taste of meat associated with uncastrated pigs (known as 'boar taint').
+Piglets go through the removal of parts of their canine teeth (known as tooth cutting) and their tails (known as tail docking) without anaesthesia. Most male piglets are also castrated (other than in the UK and some EU countries) to prevent the strong odour and taste of meat associated with uncastrated pigs (known as 'boar taint').
 
 A small proportion of pigs are kept outdoors. However, these pigs usually have metal or wire rings inserted into their noses (nose ringing), which deliberately causes pain when pigs go to root in order to prevent the ground from being upturned.g
 
-The worst conditions are experienced by breeding sows. In countries other than Sweden and the UK, pregnant sows are kept in gestation crates --- small pens so narrow that they cannot move or even turn around.g And in countries other than Sweden, Norway, and Switzerland, farrowing crates are used after birth to prevent sows being able to move away from their piglets. Piglets are weaned at around 3–4 weeks, after which sows are inseminated again immediately, leaving them little time outside of these small pens.
+The worst conditions are experienced by breeding sows. In countries other than Sweden and the UK, pregnant sows are kept in gestation crates --- small pens so narrow that they cannot move or even turn around. And in countries other than Sweden, Norway, and Switzerland, farrowing crates are used after birth to prevent sows being able to move away from their piglets. Piglets are weaned at around 3–4 weeks, after which sows are inseminated again immediately, leaving them little time outside of these small pens.
 
 At slaughter, pigs undergo electric stunning, controlled atmosphere stunning (gassing with carbon dioxide), or are not stunned for shackling (i.e. live-shackle slaughter), after which the major arteries near the heart are severed.g
 
@@ -157,11 +157,11 @@ Generally, cattle are treated better than chickens and pigs, with 5–10 m² of 
 
 The main issues are:
 
-- Many dairy cows are kept in cubicle housing or tie-in stalls (where they are tethered to the stall by their neck) with limited access to pasture for half of the year.g Beef cattle are often 'feedlot-finished,' meaning they are kept indoors for 100 to 600 days to increase weight gain.
+- Many dairy cows are kept in cubicle housing or tie-in stalls (where they are tethered to the stall by their neck) with limited access to pasture for half of the year. Beef cattle are often 'feedlot-finished,' meaning they are kept indoors for 100 to 600 days to increase weight gain.
 - Calves have their early horns (known as "'buds'") removed by having their heads burned with a hot iron, or through chemical burns, often without anaesthesia. Older cattle sometimes go through a much more painful process where their grown horns are removed using tools like shears or saws.g
-- Lameness (damage or weakness to limbs) and mastitis (inflammation of the udder) are common causes of pain in dairy cows.g Indoor floors for beef cattle usually have gaps in them to allow excrement to fall through, but this makes injury much more common.
+- Lameness (damage or weakness to limbs) and mastitis (inflammation of the udder) are common causes of pain in dairy cows. Indoor floors for beef cattle usually have gaps in them to allow excrement to fall through, but this makes injury much more common.
 - Dairy cows are kept pregnant to ensure constant milk production. This creates an issue: dealing with the unwanted calves. All male calves and almost all female calves are separated from their mothers pretty much immediately --- both calves and mothers appear to cry for each other for days to weeks afterwards.g
-- Male calves from the dairy industry are often killed shortly after they're born.g This is because dairy cows and meat cows are different breeds bred for different traits. If they are kept for meat, it's usually veal. Veal calves are fed an iron-restricted diet to keep their flesh pale. Outside the EU, veal calves are usually raised in single-occupancy crates no bigger than the calves: these prevent almost all socialisation and movement for some or all of their (short) lives.
+- Male calves from the dairy industry are often killed shortly after they're born. This is because dairy cows and meat cows are different breeds bred for different traits. If they are kept for meat, it's usually veal. Veal calves are fed an iron-restricted diet to keep their flesh pale. Outside the EU, veal calves are usually raised in single-occupancy crates no bigger than the calves: these prevent almost all socialisation and movement for some or all of their (short) lives.
 - Transportation to the slaughterhouse is stressful, with cattle spending long periods in cramped conditions without food or water. Dairy cows that are no longer producing milk at a profitable rate usually have some kind of injury or disease, making it harder to deal with these sorts of conditions.g
 - At slaughter, the use of electric goads causes pain, and there are poor conditions in the resting areas at slaughterhouses. Cattle are usually stunned with a bolt gun or electric shock, which often fails, leaving cattle conscious when they are hung upside down by one leg while their throats are cut and their trachea removed. Throat-cutting sometimes intentionally occurs without stunning.g
 
@@ -182,17 +182,17 @@ The main issues are:
 
 ### Farmed fish
 
-We're more uncertain about what produces a poor welfare environment for fish, and there are so many different species of fish that it's difficult to say much about their welfare in general. For example, it seems like some fish *prefer* high stocking density environments. (There are a variety of reasons for this, including that high stocking density can prevent territorial and aggressive behaviour).g Other fish species seem to prefer more turbid (murky, dirty-looking) water to clean water.
+We're more uncertain about what produces a poor welfare environment for fish, and there are so many different species of fish that it's difficult to say much about their welfare in general. For example, it seems like some fish *prefer* high stocking density environments. (There are a variety of reasons for this, including that high stocking density can prevent territorial and aggressive behaviour). Other fish species seem to prefer more turbid (murky, dirty-looking) water to clean water.
 
-That said, there are almost no legal protections for fish welfare.g Somewhere between 15 billion and one trillion fish die in farms before reaching slaughter age, and that high pre-slaughter mortality rate is a bad sign for their general welfare.
+That said, there are almost no legal protections for fish welfare. Somewhere between 15 billion and one trillion fish die in farms before reaching slaughter age, and that high pre-slaughter mortality rate is a bad sign for their general welfare.
 
 Common issues in fish farms include:
 
 - Poor water quality, including insufficient dissolved oxygen; inappropriate temperature, pH, and salinity; and build ups of ammonia and nitrates from wasteg
-- Disease and parasites,g such as sea lice
-- Other stressors related to the harsh environment --- like withdrawal of feed --- which lead to injury (e.g. fin erosion),g and cannibalism
+- Disease and parasites, such as sea lice
+- Other stressors related to the harsh environment --- like withdrawal of feed --- which lead to injury (e.g. fin erosion), and cannibalism
 
-Since fish are smaller than most land-based farm animals, more fish are killed for the same amount of food. What's more, unlike herbivorous land-based farm animals, predatory fish such as tuna and salmon (and the lesser-known mandarin fish)g must be fed other fish, which are often still alive, increasing the welfare concerns per animal sold.
+Since fish are smaller than most land-based farm animals, more fish are killed for the same amount of food. What's more, unlike herbivorous land-based farm animals, predatory fish such as tuna and salmon (and the lesser-known mandarin fish) must be fed other fish, which are often still alive, increasing the welfare concerns per animal sold.
 
 Many issues occur at slaughter. Common slaughter methods include:g
 
@@ -235,7 +235,7 @@ purging (starvation before transport to ensure there's no undigested food left
 inside when they're eaten), live transport, and slaughter by boiling alive.g
 
 The main welfare concerns for insects (including black soldier flies, mealworms,
-and crickets) include: high stocking densities,g disease and
+and crickets) include: high stocking densities, disease and
 parasites, cannibalism, injury, handling stress (such as vibrations that may be
 perceived as predatory attack, or exposing light-averse insects to bright
 lights), withdrawal of food before slaughter or from adults (in particular,
