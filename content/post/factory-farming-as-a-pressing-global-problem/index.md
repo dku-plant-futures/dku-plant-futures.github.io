@@ -137,7 +137,7 @@ The lives of cage-free hens are marginally better. They are usually kept in indo
 
 However, because of stress and the inability to socialise naturally with such a large flock, hens still end up wounding each other by pecking and sometimes even resort to cannibalism. As a result, it's common to remove the tip of both caged and cage-free hens' beaks using a hot blade, without anaesthesia. Beaks are highly sensitive and used by birds to interact with the world, similar to how humans use their hands. Male chicks are killed by maceration. Egg-laying hens are depopulated and slaughtered when they are old enough that their productivity drops, with similar issues to the slaughter or broiler chickens.
 
-Other birds (ducks, quail, turkeys, gueese, guinea fowls) are treated very similarly to chickens).
+Other birds (ducks, quail, turkeys, geese, guinea fowls) are treated very similarly to chickens).
 
 ### Farmed pigs
 
