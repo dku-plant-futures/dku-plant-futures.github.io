@@ -2,7 +2,7 @@
 tags:
 - 书摘
 - 环保主义
-title: "📚 书摘 --- 乔治·蒙比奥特：不为人知的世界"
+title: "📚 书摘 — 乔治·蒙比奥特：不为人知的世界"
 ShowToc: false
 date: 2024-11-29
 images:

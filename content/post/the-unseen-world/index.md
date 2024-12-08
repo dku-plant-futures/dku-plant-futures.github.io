@@ -2,7 +2,7 @@
 tags:
 - book-excerpt
 - environmentalism
-title: "📚 Book Excerpt --- The Unseen World by George Monbiot"
+title: "📚 Book Excerpt — The Unseen World by George Monbiot"
 ShowToc: false
 date: 2024-11-29
 images:

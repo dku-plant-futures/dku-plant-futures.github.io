@@ -2,7 +2,7 @@
 tags:
 - newsletter
 date: "2024-11-23"
-title: "🗞️ Newsletter -- Free Meal, New Website and Election"
+title: "🗞️ Newsletter — Free Meal, New Website and Election"
 ShowToc: true
 images:
 - bunny-read-newsletter-01.webp

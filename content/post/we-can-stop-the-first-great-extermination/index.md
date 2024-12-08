@@ -2,7 +2,7 @@
 tags:
 - book-excerpt
 - environmentalism
-title: "📚 Book Excerpt --- We Can Stop the First Great Extermination by George Monbiot"
+title: "📚 Book Excerpt — We Can Stop the First Great Extermination by George Monbiot"
 ShowToc: false
 date: 2024-11-27
 images:
