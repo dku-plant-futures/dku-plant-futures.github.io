@@ -46,8 +46,8 @@ difference.
 
 Currently, Wallace-Wells writes for the [New York
 Times](https://www.nytimes.com/column/david-wallace-wells). Since this is mostly
-a plant-based diet blog, I think his column *"Food as You Know It Is About to
-Change"* is especially relevant. In it, he talks about how the global food
+a plant-based diet blog, I think his column [Food as You Know It Is About to Change](https://web.archive.org/web/20241209012848/https://www.nytimes.com/2024/07/28/opinion/food-climate-crisis-prices.html)
+is especially relevant. In it, he talks about how the global food
 system is facing more hunger, climate risks, and price instability. He also
 points out that innovations like resilient crops and plant-based diets give us
 hope. At the same time, he stresses how important it is to push for bigger
