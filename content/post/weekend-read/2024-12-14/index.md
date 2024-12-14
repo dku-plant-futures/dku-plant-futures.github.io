@@ -1,7 +1,7 @@
 ---
 tags:
-- interent-excerpt
 - weekend-read
+- book-recommendation
 - environmentalism
 title: "📰 Weekend Read — Food as You Know It Is About to Change By David Wallace-Wells"
 ShowToc: false
@@ -15,7 +15,7 @@ images:
     caption="Photo by [amine photographe](https://www.pexels.com/photo/close-up-shot-of-fruit-salad-14469142/)"
 >}}
 
-Last weekend, I introduced an article by [Elizabeth Kolbert]({{< relref
+Last weekend, I introduced [Elizabeth Kolbert]({{< relref
 "../2024-12-08/index.md" >}}), one of my favorite climate and environmental
 writers.
 
@@ -44,10 +44,12 @@ room to make them less bad. Every ton of CO2 we stop from being emitted means
 fewer lives lost in the future. Every little bit of harm we avoid makes a real
 difference. 
 
-Currently, Wallace-Wells writes for the [New York
-Times](https://www.nytimes.com/column/david-wallace-wells). Since this is mostly
-a plant-based diet blog, I think his column [Food as You Know It Is About to Change](https://web.archive.org/web/20241209012848/https://www.nytimes.com/2024/07/28/opinion/food-climate-crisis-prices.html)
-is especially relevant. In it, he talks about how the global food
+Currently, Wallace-Wells writes for the [New York Times](https://www.nytimes.com/column/david-wallace-wells).
+Since this is mostly a plant-based diet blog,
+I think his column 
+[Food as You Know It Is About to Change](https://www.nytimes.com/2024/07/28/opinion/food-climate-crisis-prices.html) is especially relevant. 
+([Link to the Internet Archive](https://web.archive.org/web/20241209012848/https://www.nytimes.com/2024/07/28/opinion/food-climate-crisis-prices.html))
+In it, he talks about how the global food
 system is facing more hunger, climate risks, and price instability. He also
 points out that innovations like resilient crops and plant-based diets give us
 hope. At the same time, he stresses how important it is to push for bigger

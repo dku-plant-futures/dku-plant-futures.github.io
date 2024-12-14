@@ -1,7 +1,7 @@
 ---
 tags:
-- interent-excerpt
 - weekend-read
+- book-recommendation
 - environmentalism
 title: "📰 Weekend Read — When the Arctic Melts by By Elizabeth Kolbert"
 ShowToc: false
@@ -10,7 +10,7 @@ images:
 - iceberg-in-greenland.jpg
 ---
 
-I'm starting a new weekend tradition of sharing articles that spark curiosity
+I'm starting a new weekend tradition of recommending authors and articles that spark curiosity
 and reflection on our world's future.
 
 {{< 
@@ -26,5 +26,15 @@ Kolbert, author of *[The Sixth Extinction: An Unnatural History](https://www.goo
 In her latest article, Kolbert takes us to a scientific station in Greenland. The piece reveals an important scientific finding: ice core samples show that Earth's temperature can shift significantly within just a few years. This research suggests that if climate change passes certain thresholds, its effects may become irreversible.
 
 The article also offers an interesting glimpse into the daily lives of researchers working on Greenland's vast ice sheet.
+
+Finally, I want to quote the following passage form the article because it captures the
+tragic irony of humanity's response to climate change 
+--- our desire to witness and appreciate the beauty of a vanishing world
+simultaneously accelerates its destruction.
+
+> The new airports will bring more visitors to Greenland to see the melting ice, and the increase in air travel will melt more ice—another potential feedback loop.
+> No one desires this outcome—not the travellers and certainly not the Greenlanders,
+> whose attachment to the ice is profound.
+> But everyone pushes ahead anyway.
 
 I hope you find the article as interesting and thought-provoking as I did!

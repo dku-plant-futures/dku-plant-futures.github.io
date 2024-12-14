@@ -1,7 +1,7 @@
 ---
 tags:
-- 网络摘录
 - 周末阅读
+- 书籍推荐
 - 环保主义
 title: "📰 周末阅读 — 《你所熟知的食物即将改变》作者：David Wallace-Wells"
 ShowToc: false
@@ -15,9 +15,9 @@ images:
     caption="图片来源：[amine photographe](https://www.pexels.com/photo/close-up-shot-of-fruit-salad-14469142/)"
 >}}
 
-上周末，我推荐了[Elizabeth Kolbert]({{< ref path="/post/weekend-read/2024-12-08/" lang="en" >}})的文章，她是我最喜欢的气候和环保作家之一。
+上周末，我推荐了[Elizabeth Kolbert]({{< ref path="/post/weekend-read/2024-12-08/" lang="zh" >}})，她是我最喜欢的气候和环保作家之一。
 
-本周，我想推荐David Wallace-Wells的文章，他是《[不宜居的地球：暖化后的生活](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth)》的作者。这本书让我深刻认识到气候变化的挑战有多么严峻。
+本周，我想推荐David Wallace-Wells，他是《[不宜居的地球：暖化后的生活](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth)》的作者。这本书让我深刻认识到气候变化的挑战有多么严峻。
 
 到2100年全球升温超过2摄氏度的前景令人沮丧，但我很欣赏David在[一次采访](https://www.npr.org/2023/12/11/1196978511/nprs-book-of-the-day-draft-12-11-2023)中对他的书的看法：
 
@@ -27,7 +27,8 @@ images:
 
 目前，Wallace-Wells为[《纽约时报》](https://www.nytimes.com/column/david-wallace-wells)撰稿。
 由于这是一个以植物性饮食为主的博客，
-我认为他的专栏 [你所熟知的食物即将改变](https://web.archive.org/web/20241209012848/https://www.nytimes.com/2024/07/28/opinion/food-climate-crisis-prices.html) 特别相关。
+我认为他的专栏 《[你所熟知的食物即将改变](https://www.nytimes.com/2024/07/28/opinion/food-climate-crisis-prices.html) 特别相关。
+（[互联网档案馆链接](https://web.archive.org/web/20241209012848/https://www.nytimes.com/2024/07/28/opinion/food-climate-crisis-prices.html)）
 在文章中，他谈到全球粮食系统正面临更多的饥饿、气候风险和价格不稳定。
 他还指出，耐受性更强的作物和植物性饮食等创新给了我们希望。
 同时，他强调推动更大变革和更多投资以确保未来的粮食供应的重要性。
