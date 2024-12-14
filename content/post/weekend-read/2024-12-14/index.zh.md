@@ -7,7 +7,7 @@ title: "📰 周末阅读 — 《你所熟知的食物即将改变》作者：Da
 ShowToc: false
 date: 2024-12-14
 images:
-- iceberg-in-greenland.jpg
+- fruit-plate.jpg
 ---
 
 {{< 

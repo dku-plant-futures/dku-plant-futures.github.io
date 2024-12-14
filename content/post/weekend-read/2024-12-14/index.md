@@ -7,7 +7,7 @@ title: "📰 Weekend Read — Food as You Know It Is About to Change By David Wa
 ShowToc: false
 date: 2024-12-14
 images:
-- iceberg-in-greenland.jpg
+- fruit-plate.jpg
 ---
 
 {{< 
