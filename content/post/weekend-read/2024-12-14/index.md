@@ -19,14 +19,13 @@ Last weekend, I introduced [Elizabeth Kolbert]({{< relref
 "../2024-12-08/index.md" >}}), one of my favorite climate and environmental
 writers.
 
-This week, I’d like to recommend David Wallace-Wells, the author of *[The
-Uninhabitable Earth: Life After
-Warming](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth)*.
+This week, I’d like to recommend David Wallace-Wells, the author of
+*[The Uninhabitable Earth: Life After Warming](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth)*.
 This book really opened my eyes to just how serious the challenges of climate
 change are. 
 
 The idea of more than 2 degrees of warming by 2100 is grim, but I appreciate
-what David said in [an interview](https://www.npr.org/2023/12/11/1196978511/nprs-book-of-the-day-draft-12-11-2023) about his book: 
+what David said in [an interview](https://www.npr.org/2023/12/11/1196978511/nprs-book-of-the-day-draft-12-11-2023): 
 
 > So how optimistic I am is based as much around 4 degrees of warming as it is
 > around 2. Now, 2 degrees is hellish enough. I think it's about our best-case
