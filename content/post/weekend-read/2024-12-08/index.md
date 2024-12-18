@@ -1,7 +1,7 @@
 ---
 tags:
 - weekend-read
-- book-recommendation
+- book
 - environmentalism
 title: "📰 Weekend Read — When the Arctic Melts by By Elizabeth Kolbert"
 ShowToc: false

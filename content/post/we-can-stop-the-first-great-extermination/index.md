@@ -1,6 +1,6 @@
 ---
 tags:
-- book-excerpt
+- book
 - environmentalism
 title: "📚 Book Excerpt — We Can Stop the First Great Extermination by George Monbiot"
 ShowToc: false

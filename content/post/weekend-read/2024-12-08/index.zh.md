@@ -1,7 +1,7 @@
 ---
 tags:
 - 周末阅读  
-- 书籍推荐  
+- 书籍
 - 环保主义  
 title: "📰 周末阅读 — 《当北极融化》作者：Elizabeth Kolbert"  
 ShowToc: false

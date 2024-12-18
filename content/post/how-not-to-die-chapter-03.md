@@ -1,7 +1,7 @@
 ---
 tags:
 - event
-- book-club
+- book
 date: "2024-09-08T00:00:00Z"
 title: "📚 Book Club: How Not to Die from Brain Diseases (Chapter 3 of How
   Not to Die)"

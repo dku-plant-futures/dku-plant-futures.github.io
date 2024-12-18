@@ -1,7 +1,7 @@
 ---
 tags:
 - event
-- book-club
+- book
 date: "2024-08-26T00:00:00Z"
 title: "📚 Book Club: How Not to Die (Intro)"
 ---
