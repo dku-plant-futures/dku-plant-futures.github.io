@@ -4,7 +4,7 @@ tags:
 - trip
 - restaurant
 date: "2024-12-19"
-title: "😋 Ru Vegan --- A Slice of Purpose in Shanghai's Vegan Scene"
+title: "😋 Ru Vegan — A Slice of Purpose in Shanghai's Vegan Scene"
 images:
 - logo-of-ru-vegan.jpg
 ---
