@@ -1,6 +1,6 @@
 ---
 tags:
-- annoucement
+- announcement
 title: "📣 2025 Spring Recruitment"
 ShowToc: false
 date: 2024-12-04
