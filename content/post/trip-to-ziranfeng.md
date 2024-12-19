@@ -2,6 +2,7 @@
 tags:
 - event
 - trip
+- restaurant
 date: "2024-09-01T00:00:00Z"
 title: "😋 A Trip to Ziranfeng/自然风 Vegetarian Buffet"
 ---

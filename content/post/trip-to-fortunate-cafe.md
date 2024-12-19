@@ -2,6 +2,7 @@
 tags:
 - event
 - trip
+- restaurant
 date: "2024-08-28T00:00:00Z"
 title: "😋 A Day of Gourmet Vegan Food in Shanghai"
 ---
