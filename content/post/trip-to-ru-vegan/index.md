@@ -4,17 +4,17 @@ tags:
 - trip
 - restaurant
 date: "2024-12-19"
-title: "😋 Ru Vegan — A Slice of Purpose in Shanghai's Vegan Scene"
+title: "😋 Ru·Pure Vegan — A Slice of Purpose in Shanghai's Vegan Scene"
 images:
 - logo-of-ru-vegan.jpg
 ---
 
 {{<
     figure src="logo-of-ru-vegan.jpg"
-    caption="Logo of Ru Vegan"
+    caption="Logo of Ru"
 >}}
 
-I'm here to review Ru Vegan (茹), a vegan restaurant in Shanghai, which I
+I'm here to review Ru (茹), also known as Pure Vegan, a vegan restaurant in Shanghai, which I
 visited with members of Plant Futures DKU on a crisp Monday in December 2025.
 But before I tell you about the restaurant, I want to talk about what makes a
 meal meaningful.
@@ -33,12 +33,12 @@ purpose. The space isn't just elegant and peaceful; it radiates intention. The
 staff's warmth transforms what could be just another restaurant into something
 that feels more like a sanctuary.
 
-{{< figure src="ru-vegan.jpg" caption="Ru Vegan" >}}
+{{< figure src="ru-vegan.jpg" caption="Ru" >}}
 
 Ms. Zhang, the manager, spent two hours guiding us through their menu with the
 kind of enthusiasm usually reserved for showing old family photos. Each dish
 that arrived at our table was both a work of art and a testament to obsessive
-attention to detail. Take their spring rolls, for instance. They tested ten
+attention to detail. Take their taro rolls, for instance. They tested ten
 different varieties of taro to find the perfect one, and then, in a move that
 perfectly encapsulates their philosophy, chose to bake rather than fry them. In
 fact, there isn't a single fried item on their menu --- a small detail that
@@ -50,11 +50,11 @@ speaks volumes about their commitment to both health and flavor.
 
 {{< figure src="pizza.jpg" caption="Black Tiger Mushroom Pizza (黑虎掌菌比萨饼)" >}}
 
-{{< figure src="spring-roll-and-radish-cake.jpg" caption="Chenpi and Taro Spring Rolls (陈皮罗忘子香芋卷) & Snow Pear and Skin-Softening Radish Cake (雪梨地皮肤萝卜糕)" >}}
+{{< figure src="taro-roll-and-radish-cake.jpg" caption="Chenpi and Taro Spring Rolls (陈皮罗忘子香芋卷) & Snow Pear and Skin-Softening Radish Cake (雪梨地皮肤萝卜糕)" >}}
 
 Let me tell you about their pizza, because finding good vegan pizza is like
 finding a four-leaf clover in a concrete jungle. The cashew cheese and spicy
-mushrooms create what I can only describe as a harmony of flavors that makes you
+mushrooms source create what I can only describe as a harmony of flavors that makes you
 forget everything you thought you knew about what pizza "should" be.
 
 {{< figure src="dishes.jpg" caption="Food we ordered" >}}
