@@ -3,10 +3,10 @@ tags:
 - weekend-read
 - book
 - environmentalism
-title: "📰 Weekend Read — H is Hope By Elizabeth Kolbert"
+title: "📚 Weekend Read — H is Hope By Elizabeth Kolbert"
 ShowToc: false
-date: 2024-12-21
-draft:true
+date: 2024-12-20
+draft: true
 images:
 - h-is-for-hope.jpg
 ---
@@ -26,18 +26,14 @@ The audiobook, which I listened to, clocks in at just over ninety minutes,
 far shorter than Kolbert's previous works, but that's intentional.
 Ordinary citizens don't need endless pages of data — we need to feel,
 to feel the crisis as something visceral, immediate.
-Hope in saviour technologies, politicians, or billionaires is misplaced;
-the only hope lies in action, in living as though our lives depend on it,
-because, of course, they do.
 
-The book's structure — an alphabet of vignettes — feels almost whimsical,
-each letter bringing its own observation, its own challenge.
+The book's structure — an alphabet of vignettes — feels almost whimsical.
 It's a small, clever conceit, and yet it doesn't trivialise the message.
 We can embrace creativity, Kolbert seems to say,
 even as we reckon with a reality so stark it defies imagination:
 we may not turn things around this time.
 
-Kolbert doesn't shy away from the enormity of the odds,
+Kolbert doesn't shy away from the enormity of the odds we are facing,
 but she also refuses to indulge in despair, that comfortable cloak.
 In fact, the chapter on D is the shortest, a mere whisper, and it reads:
 
