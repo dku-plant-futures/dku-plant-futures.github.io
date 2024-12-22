@@ -4,7 +4,7 @@ tags:
 - 旅行
 - 餐厅
 date: "2024-12-19"
-title: "😋 茹·Pure Vegan——上海素食界的初心一片"
+title: "😋 茹·Pure Vegan — 上海素食界的初心一片"
 images:
 - logo-of-ru-vegan.jpg
 ---
