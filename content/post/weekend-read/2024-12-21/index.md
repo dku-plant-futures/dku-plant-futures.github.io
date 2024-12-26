@@ -3,7 +3,7 @@ tags:
 - weekend-read
 - book
 - environmentalism
-title: "📚 Weekend Read — H is for Hope By Elizabeth Kolbert"
+title: "📚 Weekend Read — H Is for Hope By Elizabeth Kolbert"
 ShowToc: false
 date: 2024-12-21
 draft: false
