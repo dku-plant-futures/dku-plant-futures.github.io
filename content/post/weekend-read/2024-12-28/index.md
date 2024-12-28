@@ -4,8 +4,8 @@ tags:
 - book
 - environmentalism
 title: "📚 Weekend Read — Veganuary, Extreme Heat and More Beans"
-ShowToc: false
 date: 2024-12-28
+draft: false
 images:
 - veganuary-logo.jpg
 - beans.jpg
