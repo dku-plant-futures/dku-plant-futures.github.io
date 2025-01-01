@@ -30,6 +30,12 @@ url = "/about"
 weight = 10
 
 [[languages.en.menu.main]]
+identifier = "faq"
+name = "FAQ"
+url = "/faq"
+weight = 13
+
+[[languages.en.menu.main]]
 identifier = "tags"
 name = "Tags"
 url = "/tags"
@@ -66,6 +72,12 @@ identifier = "about"
 name = "关于"
 url = "/about"
 weight = 10
+
+[[languages.zh.menu.main]]
+identifier = "faq"
+name = "问题"
+url = "/faq"
+weight = 13
 
 [[languages.zh.menu.main]]
 identifier = "tags"
