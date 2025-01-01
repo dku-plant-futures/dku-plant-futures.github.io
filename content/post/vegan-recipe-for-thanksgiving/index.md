@@ -1,6 +1,7 @@
 ---
 tags:
 - recipe
+- veganism
 title: "🍽️ Thanksgiving Vegan Recipes"
 ShowToc: true
 date: 2024-11-26

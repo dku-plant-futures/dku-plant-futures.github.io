@@ -1,6 +1,7 @@
 ---
 tags:
 - 菜谱
+- 纯素
 title: "🍽️ 感恩节纯素食谱分享"
 ShowToc: true
 date: 2024-11-26

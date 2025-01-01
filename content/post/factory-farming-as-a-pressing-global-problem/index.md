@@ -5,6 +5,7 @@ tags:
 - effective-altruism
 - animal-welfare
 - environmentalism
+- veganism
 title: "🌐 Internet Excerpt — Factory Farming as a Pressing World Problem by Benjamin Hilton"
 ShowToc: true
 date: 2024-12-06
