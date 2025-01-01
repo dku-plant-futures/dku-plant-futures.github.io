@@ -79,6 +79,19 @@ Early humans were more like opportunistic snackers than mighty hunters, mostly e
 
 ## **What about plants? Don't they have feelings?**
 
-This is one of those questions that sounds deep at 3 AM but gets a bit silly in the light of day. Plants don't have brains or nervous systems – they're more like amazing organic robots than conscious beings. They respond to their environment, sure, but so does your smartphone, and nobody's organizing protests about turning off their iPhone.
+This is one of those questions that, at 3 AM, seems to plumb the depths of
+existence, but, in the cold light of day, reveals itself as rather whimsical.
+Plants, you see, lack brains, and they lack nervous systems – they are, in essence,
+more akin to astonishing organic automatons than to conscious entities. They
+respond to their surroundings, certainly, but so too does your smartphone, and
+yet, no one is arranging demonstrations about switching off their iPhone.
 
-But let's play this out: even if plants did have feelings (which they don't), eating plants directly would still cause less plant suffering than eating animals. Why? Because the animals we eat have to eat WAY more plants to grow than if we just ate the plants ourselves. It's like having a middleman for your suffering, if suffering is what you're worried about.
+But let's indulge the thought:
+even if plants did possess feelings (which, let us reiterate, they do not),
+consuming plants directly would still, in fact, cause less plant suffering
+than consuming animals.
+Why, you ask?
+Because the animals we consume must first consume a *vastly greater* quantity
+of plants to grow than we would if we simply ate the plants ourselves.
+It's as though there’s a middleman, a conduit, for the suffering of plants
+that is caused by our diet.
