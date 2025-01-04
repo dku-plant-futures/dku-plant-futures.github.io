@@ -1,9 +1,8 @@
 ---
 tags:
 - weekend-read
-- book
 - environmentalism
-title: "📚 Weekend Read — Veganuary, Extreme Heat and More Beans"
+title: "📰 Weekend Read — Veganuary, Extreme Heat and More Beans"
 date: 2024-12-28
 draft: false
 images:
