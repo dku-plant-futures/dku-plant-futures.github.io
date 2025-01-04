@@ -3,7 +3,7 @@ tags:
 - weekend-read
 - climate-change
 - food
-title: "📰 Grist and Drying World"
+title: "📰 Weekend Read — Grist and Drying World"
 date: 2025-01-05
 draft: false
 ---
