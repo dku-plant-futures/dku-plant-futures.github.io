@@ -1,8 +1,8 @@
 ---
 tags:
 - weekend-read
-- book
-- environmentalism
+- food
+- climate-change
 title: "📰 Weekend Read — Food as You Know It Is About to Change By David Wallace-Wells"
 ShowToc: false
 date: 2024-12-14

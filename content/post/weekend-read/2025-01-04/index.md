@@ -1,8 +1,8 @@
 ---
 tags:
 - weekend-read
-- climate
-- environmentalism
+- climate-change
+- food
 title: "📰 Grist and Drying World"
 date: 2025-01-05
 draft: false

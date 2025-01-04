@@ -2,7 +2,7 @@
 tags:
 - weekend-read
 - book
-- environmentalism
+- climate-change
 title: "📰 Weekend Read — When the Arctic Melts by By Elizabeth Kolbert"
 ShowToc: false
 date: 2024-12-08

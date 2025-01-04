@@ -1,7 +1,8 @@
 ---
 tags:
 - weekend-read
-- environmentalism
+- climate-change
+- food
 title: "📰 Weekend Read — Veganuary, Extreme Heat and More Beans"
 date: 2024-12-28
 draft: false

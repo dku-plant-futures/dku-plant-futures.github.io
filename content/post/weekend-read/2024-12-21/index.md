@@ -2,7 +2,7 @@
 tags:
 - weekend-read
 - book
-- environmentalism
+- climate-change
 title: "📚 Weekend Read — H Is for Hope By Elizabeth Kolbert"
 ShowToc: false
 date: 2024-12-21
