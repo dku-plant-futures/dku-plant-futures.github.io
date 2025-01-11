@@ -80,6 +80,13 @@ Maya Slack is a senior double-majoring in Biology and Environmental Sciences and
 She is passionate about raising awareness of the close connection between our bodily
 health and the health of our environment.
 
+### Tianyue (Esther) Qian
+
+Esther is a freshman student at DKU.
+As a vegetable foodie,
+she is interested in using data analysis technologies to visualise the benefits
+of a vegetarian lifestyle and engaging in activities to promote a greener life.
+
 ### Xing Shi Cai (Advisor)
 
 {{< 
