@@ -87,6 +87,12 @@ As a vegetable foodie,
 she is interested in using data analysis technologies to visualise the benefits
 of a vegetarian lifestyle and engaging in activities to promote a greener life.
 
+### Chen Xu
+
+Chen Xu is a second-year student.
+Her intended major is environmental science, specialising in public policy.
+She is interested in China's policy on carbon dioxide emissions and carbon neutrality.
+
 ### Xing Shi Cai (Advisor)
 
 {{< 
