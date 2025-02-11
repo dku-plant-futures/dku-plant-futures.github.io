@@ -40,7 +40,7 @@ Join **PF x APA x Sustainable DKU** in creating warm homes for campus cats using
 ### 🌍 Food & Sustainability Festival
 
 **Date & Time:** Friday, 02/21, 12-6 PM\
-**Location:** CCT 3rd Floor Breezeway\
+**Location:** ~CCT 3rd Floor Breezeway~ [Zoom](https://duke.zoom.us/j/6666529045)\
 Enjoy **delicious plant-based foods**, learn about sustainable living, and listen to insightful presentations!
 
 ### 🎤 Speakers Series
