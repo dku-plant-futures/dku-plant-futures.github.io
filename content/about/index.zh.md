@@ -63,6 +63,14 @@ Coco Zhang 是昆山杜克大学的新生，对通过艺术海报设计来推广
 
 Maya Slack 是一名双主修生物学和环境科学与政策的高年级学生。她热衷于提高人们对身体健康与环境健康之间密切联系的认识。
 
+### Tianyue (Esther) Qian  
+
+Esther 是 DKU 的一年级学生。作为一名热爱蔬食的美食爱好者，她对利用数据分析技术来可视化素食生活方式的益处感兴趣，并积极参与推广绿色生活的活动。  
+
+### Chen Xu  
+
+Chen Xu 是二年级学生。她的预期专业是环境科学，专注于公共政策。她对中国的二氧化碳排放及碳中和政策感兴趣。
+
 ### 蔡醒诗（顾问）
 
 {{<
@@ -86,10 +94,10 @@ Maya Slack 是一名双主修生物学和环境科学与政策的高年级学生
 
 有多种方式可以获取俱乐部的最新动态，选择你最喜欢的一种吧：
 
-- 🏷️ 收藏我们的 [主页]({{< ref "/" >}})
-- 📤 记住我们的短网址 https://tinyurl.com/pfdku
+- 🏷️ 收藏我们的 [主页 (https://tinyurl.com/pfdku)]({{< ref "/" >}})
 - 🗞️ 订阅我们的 [RSS feed](/index.xml)
+- 💬 加入我们的 [群聊 (Microsoft Teams)](https://teams.microsoft.com/l/team/19%3As6SZBTPi7s1f4rHlBfk9aozuwQEAwzQO-yboEB1bxwM1%40thread.tacv2/conversations?groupId=855d3ffe-800c-46a5-a8b4-ec2e656d031f&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c)
 - 📷 关注我们的 [Instagram](https://www.instagram.com/plantfuturesdku/)
+- 🤖 关注我们的 [Reddit](https://www.reddit.com/user/PlantFutureDKU/)
 - 🦋 关注我们的 [BlueSky](https://bsky.app/profile/plantfuturesdku.bsky.social)
 - 🐘 关注我们的 [Mastodon](https://mastodon.world/@plantfuturesdku)
-- 💬 加入我们的 [群聊/Microsoft Teams](https://teams.microsoft.com/l/team/19%3As6SZBTPi7s1f4rHlBfk9aozuwQEAwzQO-yboEB1bxwM1%40thread.tacv2/conversations?groupId=855d3ffe-800c-46a5-a8b4-ec2e656d031f&tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c)
