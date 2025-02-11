@@ -1,6 +1,7 @@
 ---
 tags:
 - event
+- eco-feb
 date: "2025-02-10"
 title: "🌱✨ DKU ECO-FEB 2025 is here! ✨🌱"
 images:
