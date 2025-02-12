@@ -13,8 +13,12 @@ images:
     caption="DKU ECO-FEB 2025 Speaker Series"
 >}}
 
-**Join us for a transformative event at the heart of [DKU ECO-FEB 2025]({{< relref "eco-feb-2025" >}}),**  
-where ethics meet action for a better world. Organized by Duke Kunshan University's **Plant Futures Club**, this gathering explores how conscious choices—especially in our diets—can profoundly shape global well-being.
+**Join us for the [DKU Eco February 2025]({{< relref "eco-feb-2025" >}}) Speaker Series,**
+a thought-provoking exploration of how ethical choices lead to meaningful action for a better world.
+Hosted by Duke Kunshan University's **Plant Futures Club**, 
+this series examines how our everyday choices—particularly around food—impact global well-being.
+
+**Note:** This is an online event which will be conducted in English.
 
 **What to Expect:**  
 - **🎤 Insights from Maggie Baird (Feb 21st, 9 AM Beijing Time / Feb 20th, 19:00 CST):**  
