@@ -41,13 +41,13 @@ Join **PF x APA x Sustainable DKU** in creating warm homes for campus cats using
 ### 🌍 Food & Sustainability Festival
 
 **Date & Time:** Friday, 02/21, 12-6 PM\
-**Location:** ~CCT 3rd Floor Breezeway~ [Zoom](https://duke.zoom.us/j/6666529045)\
+**Location:** CCT 3rd Floor Breezeway\
 Enjoy **delicious plant-based foods**, learn about sustainable living, and listen to insightful presentations!
 
 ### 🎤 Speakers Series
 
 **Date:** Friday, 02/21\
-**Location:** CCT 3rd Floor Theatre
+**Location:** ~CCT 3rd Floor Theatre~[Zoom](https://duke.zoom.us/j/6666529045)
 
 - **[Maggie Baird](https://supportandfeed.org/about/)** (Founder of Support + Feed) – 9-10 AM\
   Maggie Baird is the visionary behind Support + Feed, an organization dedicated to combating the climate crisis and food insecurity by promoting a global shift to an equitable, plant-based food system.
