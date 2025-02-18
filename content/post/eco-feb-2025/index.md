@@ -55,9 +55,6 @@ Enjoy **delicious plant-based foods**, learn about sustainable living, and liste
 - **[Peter Singer](https://en.wikipedia.org/wiki/Animal_Liberation_\(book\))** (Author of *Animal Liberation*) – 10-11 AM\
   Peter Singer is an Australian philosopher renowned for his book *Animal Liberation*, which is considered a foundational text for the animal rights movement.
 
-- **[Vikas Garg](https://www.abillion.com/users/vikas)** (Founder of Abillion) – 11 AM - 12 PM\
-  Vikas Garg is the founder and CEO of Abillion, a platform aimed at inspiring a billion people to adopt a plant-based lifestyle by 2030.
-
 - **谭小岛/Isla** (Founder of 小岛生活/Islelife) – 1-2 PM\
   Isla is an eco-entrepreneur and founder of Islelife, a startup that assists event organizers, such as concerts, in sourcing eco-friendly products.\
   *Plus, enjoy ********Free Oatly Drinks******** during Isla's session!*
@@ -90,6 +87,14 @@ Engage in a thought-provoking debate on the benefits and drawbacks of geneticall
 **Date & Time:** Wednesday, 02/26, 9:30 AM - 1 PM\
 **Location:** Performance Café\
 Support our campus cats through this fundraiser event.
+
+### 🎤 Speakers Series
+
+**Date:** Friday, 02/28\
+**Location:** ~CCT 3rd Floor Theatre~[Zoom](https://duke.zoom.us/j/6666529045)
+
+- **[Vikas Garg](https://www.abillion.com/users/vikas)** (Founder of Abillion) – 11 AM - 12 PM\
+  Vikas Garg is the founder and CEO of Abillion, a platform aimed at inspiring a billion people to adopt a plant-based lifestyle by 2030.
 
 📢 **Don't miss out!** Whether you're an artist 🎨, a debater 🗣️, a foodie 🌱, or an animal lover 🐾, there's something for **everyone**! Join us to learn, take action, and build a more sustainable future together. 💚
 
