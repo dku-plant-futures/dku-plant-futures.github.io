@@ -29,19 +29,6 @@ We also help to run the community garden at DKU.
 
 ## Executive Board
 
-### Keyi Shi (Ex-Co-President)
-
-{{< 
-    figure 
-    src="/images/people/keyi-shi.jpg" class="small" alt="Keyi Shi"
-    caption="Keyi Shi"
->}}
-
-Keyi Shi is a Master student of Environmental Policy, class of 2024. She co-founded Plant
-Futures at DKU in 2023 with the passion of promoting plant-based diets and making the
-dining environment more sustainable on campus. She also does research on behavioural change
-related to food consumption and hopes to influence more people around.
-
 ### Helene Gu (Co-President)
 
 {{< 
@@ -109,6 +96,21 @@ topics on his [personal website](https://newptcai.gitlab.io/). As the club advis
 organizes Meatless Monday Lunches at DKU's canteen, arranges visits to vegetarian
 restaurants in Kunshan and the surrounding areas, and hosts documentary screenings and
 lectures on environmental issues.
+
+## Former Members of the Executive Board
+
+### Keyi Shi (Ex-Co-President)
+
+{{< 
+    figure 
+    src="/images/people/keyi-shi.jpg" class="small" alt="Keyi Shi"
+    caption="Keyi Shi"
+>}}
+
+Keyi Shi is a Master student of Environmental Policy, class of 2024. She co-founded Plant
+Futures at DKU in 2023 with the passion of promoting plant-based diets and making the
+dining environment more sustainable on campus. She also does research on behavioural change
+related to food consumption and hopes to influence more people around.
 
 ## Contact
 
