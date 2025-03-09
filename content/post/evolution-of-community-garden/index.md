@@ -1,6 +1,8 @@
 ---
 title: "🌱 The Evolution of DKU Community Garden"
 date: 2025-02-18T09:20:02+08:00
+tags: 
+- community-garden
 images:
 - garden-on-2025-01-17.jpg
 ---
