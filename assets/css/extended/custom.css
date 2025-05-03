@@ -12,6 +12,10 @@
   width: 50%;
 }
 
+.post-content .tiny img {
+  max-width: 200px;
+}
+
 .post-content .small img {
   max-width: 300px;
 }
