@@ -3,7 +3,15 @@ title: "🌱 Community Garden Steering Committee (CGSC) 🌱"
 date: 2025-05-05
 tags:
 - community-garden
+images:
+- community-garden-2025-05-05.jpg
 ---
+
+{{<
+    figure src="./community-garden-2025-05-05.jpg"
+    caption="Community Garden in May 2025"
+    class="small"
+>}}
 
 The Community Garden Steering Committee (CGSC) of Duke Kunshan University (DKU) consists of volunteers responsible for the day-to-day management of the Community Garden. To help garden participants connect with the appropriate CGSC members, here are our introductions.
 
@@ -18,7 +26,7 @@ The Community Garden Steering Committee (CGSC) of Duke Kunshan University (DKU) 
 {{<
     figure src="xing-shi-cai.jpg"
     caption="Xing Shi Cai"
-    class="tiny"
+    class="small"
 >}}
 
 **Responsibility:** Membership Management
@@ -30,7 +38,7 @@ I'm an assistant professor of mathematics at DKU and have served as the adviser 
 {{<
     figure src="meng-wang.jpg"
     caption="Meng Wang"
-    class="tiny"
+    class="small"
 >}}
 
 **Responsibility:** Group Activities + Future Star Community Grant
@@ -42,7 +50,7 @@ I work at the Language and Culture Center (LCC and have been involved with a com
 {{<
     figure src="luisa-li.jpg"
     caption="Luisa Li"
-    class="tiny"
+    class="small"
 >}}
 
 **Responsibility:** Group Activities + Fundraising and Awareness
@@ -54,7 +62,7 @@ I'm from the Center for Teaching and Learning (CTL) and have always found comfor
 {{<
     figure src="xinxue-wang.jpg"
     caption="Xinxue Wang"
-    class="tiny"
+    class="small"
 >}}
 
 **Responsibility:** Garden Design & Infrastructure
@@ -66,7 +74,7 @@ As a graduate student in Environmental Policy at DKU, I serve as the student rep
 {{<
     figure src="jiawen-cai.jpg"
     caption="Jiawen Cai"
-    class="tiny"
+    class="small"
 >}}
 
 **Responsibility:** External Partnerships & Education
@@ -78,7 +86,7 @@ I'm the Senior Coordinator for Undergraduate Academic Activities and an employee
 {{<
     figure src="micky-zhang.jpg"
     caption="Micky Zhang"
-    class="tiny"
+    class="small"
 >}}
 
 **Responsibility:** Group Buy Coordination

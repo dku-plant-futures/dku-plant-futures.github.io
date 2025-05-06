@@ -5,9 +5,11 @@ tags:
 - 社区花园
 ---
 
-Here's the updated Chinese version, aligned with your revised English version:
-
----
+{{<
+    figure src="./community-garden-2025-05-05.jpg"
+    caption="2025年5月的社区花园"
+    class="portrait"
+>}}
 
 昆山杜克大学 (DKU) 社区花园指导委员会 (CGSC) 由志愿者组成，负责社区花园的日常管理。为帮助花园参与者与适当的 CGSC 成员联系，以下是我们的介绍。
 
@@ -23,7 +25,7 @@ Here's the updated Chinese version, aligned with your revised English version:
 {{<
 figure src="xing-shi-cai.jpg"
 caption="蔡醒诗"
-class="tiny"
+class="small"
 >}}
 
 **职责：** 会员管理
@@ -35,7 +37,7 @@ class="tiny"
 {{<
 figure src="meng-wang.jpg"
 caption="王蒙"
-class="tiny"
+class="small"
 >}}
 
 **职责：** 集体活动 + 未来星社区资助项目
@@ -47,7 +49,7 @@ class="tiny"
 {{<
 figure src="luisa-li.jpg"
 caption="李凡"
-class="tiny"
+class="small"
 >}}
 
 **职责：** 集体活动 + 筹资与宣传
@@ -59,7 +61,7 @@ class="tiny"
 {{<
 figure src="xinxue-wang.jpg"
 caption="王馨雪"
-class="tiny"
+class="small"
 >}}
 
 **职责：** 花园设计与基础设施
@@ -71,7 +73,7 @@ class="tiny"
 {{<
 figure src="jiawen-cai.jpg"
 caption="蔡佳文"
-class="tiny"
+class="small"
 >}}
 
 **职责：** 外部合作与教育
@@ -83,7 +85,7 @@ class="tiny"
 {{<
 figure src="micky-zhang.jpg"
 caption="Micky Zhang"
-class="tiny"
+class="small"
 >}}
 
 **职责：** 团购协调
