@@ -1,7 +1,7 @@
 ---
-title: "🌱 CGSC (Community Garden Steering Committee)"
+title: "🌱 Community Garden Steering Committee (CGSC) 🌱"
 date: 2025-05-05
-tags: 
+tags:
 - community-garden
 ---
 
@@ -21,8 +21,9 @@ The Community Garden Steering Committee (CGSC) of Duke Kunshan University (DKU) 
     class="tiny"
 >}}
 
-**Responsibility:** Membership Management  
-I'm an assistant professor of mathematics at DKU and have served as the adviser for the DKU Plant Futures club since 2023. Our club promotes plant-based diets and products to protect the environment and support animal welfare. In 2024, I initiated the restart of the Community Garden at DKU to encourage people to connect with nature and develop gardening skills—abilities that may become increasingly valuable in the future.
+**Responsibility:** Membership Management
+
+I'm an assistant professor of mathematics at DKU and have served as the adviser for the DKU Plant Futures club since 2023. Our club promotes plant-based diets and products to protect the environment and support animal welfare. In 2024, I initiated the restart of the Community Garden at DKU to encourage people to connect with nature and develop gardening skills---abilities that may become increasingly valuable in the future.
 
 ### Meng Wang (王蒙)
 
@@ -32,8 +33,9 @@ I'm an assistant professor of mathematics at DKU and have served as the adviser 
     class="tiny"
 >}}
 
-**Responsibility:** Group Activities + Future Star Community Grant  
-I work at the Language and Culture Center (LCC) and have been involved with a community garden in Shanghai since 2022. For me, being part of the DKU community garden extends beyond the harvest—it's about building community. This year, I'm organizing group activities for the communal garden boxes and have helped apply for the Future Star Community Grant from the Beijing Starbucks Foundation to support infrastructure improvements and garden growth.
+**Responsibility:** Group Activities + Future Star Community Grant
+
+I work at the Language and Culture Center (LCC and have been involved with a community garden in Shanghai since 2022. For me, being part of the DKU community garden extends beyond the harvest---it's about building community. This year, I'm organizing group activities for the communal garden boxes and have helped apply for the Future Star Community Grant from the Beijing Starbucks Foundation to support infrastructure improvements and garden growth.
 
 ### Luisa Li (李凡)
 
@@ -43,13 +45,21 @@ I work at the Language and Culture Center (LCC) and have been involved with a co
     class="tiny"
 >}}
 
-**Responsibility:** Day-to-Day Management  
-I'm from the Center for Teaching and Learning (CTL) and have always found comfort and joy in plants, keeping greenery in my home regardless of its size. Growing up, I watched my mother cultivate various vegetables, flowers, and trees, which inspired my dream of having a garden. The beauty of our community garden lies in the shared experience and the joy of seeing others enjoy diverse plants. As more people join, our impact grows and the work becomes lighter. If you're considering joining, I encourage you to take part.
+**Responsibility:** Group Activities + Fundraising and Awareness
+
+I'm from the Center for Teaching and Learning (CTL) and have always found comfort and joy in plants, keeping greenery in my home regardless of its size. Growing up, I watched my mother cultivate various vegetables, flowers, and trees, which inspired my dream of having a garden. The beauty of our community garden lies in the shared experience and the joy of seeing others enjoy varieties of plants. As more people join, our impact grows, and the labor becomes lighter. If you're considering joining, I encourage you to start TODAY!
 
 ### Xinxue Wang (王馨雪)
 
-**Responsibility:** Garden Design & Infrastructure  
-As a graduate student in Environmental Policy at DKU, I serve as the student representative on the Sustainability Committee. I bring nearly 10 years of experience in planting and composting, having been involved in the design and management of several community gardens. I've helped design the installation of planting boxes and am currently working on paving the paths at the garden. I've also organized close to 100 community-building and environmental education events.
+{{<
+    figure src="xinxue-wang.jpg"
+    caption="Xinxue Wang"
+    class="tiny"
+>}}
+
+**Responsibility:** Garden Design & Infrastructure
+
+As a graduate student in Environmental Policy at DKU, I serve as the student representative on the Sustainability Committee. I bring nearly 10 years of experience in planting and composting. Having been involved in the design and management of several community gardens, I've helped design the installation of planting boxes. I am currently working on updating the layout and paving the paths at the garden. 
 
 ### Jiawen Cai (蔡佳文)
 
@@ -59,7 +69,8 @@ As a graduate student in Environmental Policy at DKU, I serve as the student rep
     class="tiny"
 >}}
 
-**Responsibility:** External Partnerships & Education  
+**Responsibility:** External Partnerships & Education
+
 I'm the Senior Coordinator for Undergraduate Academic Activities and an employee representative on the Sustainability Committee. I've helped connect our garden with Yuefeng Island organic farm and am coordinating visits from external experts to provide classes on gardening. I've also initiated and led several community learning projects, launching 10 undergraduate courses focused on community learning.
 
 ### Micky Zhang
@@ -70,5 +81,6 @@ I'm the Senior Coordinator for Undergraduate Academic Activities and an employee
     class="tiny"
 >}}
 
-**Responsibility:** Group Buy Coordination  
-I serve as the Procurement Director at DKU and recently joined the CGSC to assist with organizing group buys, such as the purchase of organic pesticides used in the garden. If you'd like to coordinate group purchases for gardening materials, please feel free to reach out.
+**Responsibility:** Group Buy Coordination
+
+I serve as the Procurement Director at DKU and recently joined the CGSC to assist with organizing group buys, such as the purchase of organic pesticides used in the garden. If you'd like to coordinate group purchases for gardening materials, please feel free to reach out. 
