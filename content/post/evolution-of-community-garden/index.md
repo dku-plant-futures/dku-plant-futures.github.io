@@ -55,7 +55,7 @@ create a space where people can connect, experience the impacts of climate
 change firsthand, and develop a deeper appreciation for agriculture and food
 production.
 
-## Answers to Some Questions
+## Frequently Asked Questions
 
 I got some following up questions regarding this article.
 
@@ -107,7 +107,8 @@ workshops will provide hands-on learning experiences in organic farming
 techniques, seasonal planting, and sustainable pest management.
 
 The garden's governance is evolving alongside its physical growth. Our current
-ad-hoc committee includes: myself (Faculty), Meng Wang (Faculty), Luisa Li
+[Community Garden Steering Committee]({{< ref "/post/meet-community-garden-steering-committee/" >}})
+includes: myself (Faculty), Meng Wang (Faculty), Luisa Li
 (Staff), Jiawen Cai (Staff), Xinxue Wang (Graduate Student), and Maya Slack
 (Undergraduate Student). By year's end, we aim to transition to an elected
 leadership structure with increased Plant Future Club involvement, ensuring the
