@@ -3,6 +3,8 @@ title: "🌱 社区花园指导委员会 (CGSC)"
 date: 2025-05-05
 tags:
 - 社区花园
+images:
+- community-garden-2025-05-05.jpg
 ---
 
 {{<
