@@ -6,7 +6,7 @@ tags:
 ---
 
 {{<
-    figure src="./community-garden-2025-05-05.jpg"
+    figure src="community-garden-2025-05-05.jpg"
     caption="2025年5月的社区花园"
     class="portrait"
 >}}
