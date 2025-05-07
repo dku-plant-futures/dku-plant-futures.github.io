@@ -34,7 +34,7 @@ Gaia Ecological Construction Inspires Civic Action"
 friends call me *Jingang*.
 I'm retired now and spend most of my time on community-environment projects.
 I'm a **Gaia Design & Build practitioner**,
-a seed instructor at *Friends of Nature* Blue Sky Lab,
+a seed instructor at [Friends of Nature](https://www.fon.org.cn/en) Blue Sky Lab,
 and a member of the Smart Air lecturer team.
 I joined Friends of Nature' second Low-Carbon Family Renovation program and am a certified
 composting trainer with **Green Option**.
