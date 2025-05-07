@@ -14,12 +14,6 @@ images:
     class="medium"
 >}}
 
-{{<
-    figure src="jingkang-wang-garden.jpg"
-    caption="Mr. Wang Jingkang's garden"
-    class="medium"
->}}
-
 # A Deep Dive into Community-Garden Design: An Interview with Wang Jingkang
 
 *Recently, environmental advocate **Wang Jingkang** toured the DKU Community Garden.
@@ -79,6 +73,12 @@ In **2016**, while visiting relatives in Melbourne,
 I toured local communities and farms and encountered **permaculture** principles.
 Those experiences deepened my understanding of ecological community gardens and shaped
 the approach I use today.
+
+{{<
+    figure src="jingkang-wang-garden.jpg"
+    caption="Mr. Wang Jingkang's garden"
+    class="medium"
+>}}
 
 ## Design Principles
 

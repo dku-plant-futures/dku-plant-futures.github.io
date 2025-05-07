@@ -14,12 +14,6 @@ images:
     class="medium"
 >}}
 
-{{<
-    figure src="jingkang-wang-garden.jpg"
-    caption="王京康先生的花园"
-    class="medium"
->}}
-
 # 深入社区花园设计：王京康访谈实录
 
 *近日，
@@ -88,6 +82,12 @@ images:
 我了解到了一些"朴门永续"的生态理念，
 这让我对社区生态花园的认识更加深入了。
 这些经历让我逐渐形成了自己对社区花园的理解和实践方法。
+
+{{<
+    figure src="jingkang-wang-garden.jpg"
+    caption="王京康先生的花园"
+    class="medium"
+>}}
 
 ## 设计原则
 
