@@ -1,7 +1,6 @@
 ---
 title: "🌱 A Deep Dive into Community Garden Design: An Interview with Wang Jingkang"
 date: 2025-05-06
-draft: true
 tags:
 - Community Garden
 images:
