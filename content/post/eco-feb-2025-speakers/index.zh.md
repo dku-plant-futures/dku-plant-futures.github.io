@@ -3,7 +3,7 @@ tags:
 - 活动  
 - 生态二月（ECO-FEB）  
 date: "2025-02-11"  
-title: "🌱✨ DKU 生态二月 2025 讲座系列：彼得·辛格与玛姬·拜尔德 ✨🌱"  
+title: "✨ DKU 生态二月 2025 讲座系列：彼得·辛格与玛姬·拜尔德"
 images:  
 - eco-feb-2025-speaker-series.jpg  
 ---

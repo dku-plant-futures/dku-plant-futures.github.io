@@ -1,5 +1,5 @@
 ---
-title: 昆山杜克大学的素食指南
+title: 🧭 昆山杜克大学的素食指南
 ShowToc: true
 date: 2024-11-23
 images:

@@ -1,5 +1,5 @@
 ---
-title: 关于素食的常见问题
+title: ❓ 关于素食的常见问题
 tag:  
 - 纯素
 ShowToc: true  

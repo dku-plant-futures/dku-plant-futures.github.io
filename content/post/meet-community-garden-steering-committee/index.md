@@ -1,5 +1,5 @@
 ---
-title: "🌱 Community Garden Steering Committee (CGSC) 🌱"
+title: "🌱 Community Garden Steering Committee (CGSC)"
 date: 2025-05-05
 tags:
 - community-garden

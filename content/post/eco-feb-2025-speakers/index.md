@@ -3,7 +3,7 @@ tags:
 - event
 - eco-feb
 date: "2025-02-11"
-title: "🌱✨ DKU ECO-FEB 2025 Speaker Series: Peter Singer and Maggie Baird ✨🌱"
+title: "✨ DKU ECO-FEB 2025 Speaker Series: Peter Singer and Maggie Baird"
 images:
 - eco-feb-2025-speaker-series.jpg
 ---

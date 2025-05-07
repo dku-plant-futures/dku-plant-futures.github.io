@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions about a Plant-based Diet  
+title: ❓ Frequently Asked Questions about a Plant-based Diet
 tag:  
 - veganism  
 ShowToc: true  

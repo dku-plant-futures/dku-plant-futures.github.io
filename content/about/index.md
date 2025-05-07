@@ -1,5 +1,5 @@
 ---
-title: About Plant Futures DKU
+title: 👤 About Plant Futures DKU
 ShowToc: true
 date: 2024-11-23
 ---

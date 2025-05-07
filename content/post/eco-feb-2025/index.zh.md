@@ -3,7 +3,7 @@ tags:
 - 活动  
 - 生态二月（ECO-FEB）  
 date: "2025-02-10"  
-title: "🌱✨ DKU 生态二月 2025 开始啦！✨🌱"  
+title: "✨ DKU 生态二月 2025 开始啦！"
 images:  
 - eco-feb-2025.jpg  
 ---
