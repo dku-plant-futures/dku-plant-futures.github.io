@@ -14,102 +14,101 @@ images:
     class="medium"
 >}}
 
-# A Deep Dive into Community Garden Design: An Interview with Wang Jingkang
-
-*Recently, environmental advocate Wang Jingkang was invited to tour our DKU Community Garden.
-We, [CGSC]({{< ref "/post/meet-community-garden-steering-committee/" >}}), seized the chance to sit down for a brief interview and ask him about his philosophy and experience in community-garden design. Below is the full transcript.*
-
-> **Further reading:** Wang Jingkang, "Everyone Is a Designer---Gaia Ecological Construction Inspires Civic Action"  
-> [https://www.meipian.cn/1xsw99sy](https://www.meipian.cn/1xsw99sy)
-
 {{<
     figure src="jingkang-wang-garden.jpg"
     caption="Mr. Wang Jingkang's garden"
     class="medium"
 >}}
 
+# A Deep Dive into Community-Garden Design: An Interview with Wang Jingkang
+
+*Recently, environmental advocate **Wang Jingkang** toured the DKU Community Garden.
+We at [CGSC]({{< ref "/post/meet-community-garden-steering-committee/" >}}) seized the chance to sit down for a short interview about his philosophy and hands-on experience in community-garden design. Below is the full transcript.*
+
+> **Further reading:** Wang Jingkang, "Everyone Is a Designer---Gaia Ecological Construction Inspires Civic Action"
+> [https://www.meipian.cn/1xsw99sy](https://www.meipian.cn/1xsw99sy)
+
 ## Self-Introduction
 
-**Q:** Could you briefly introduce yourself and your background in garden design?  
+**Q:** Could you briefly introduce yourself and your background in garden design?
 
-**Wang Jingkang:** Hello everyone, I'm Wang Jingkang, though friends usually call me "Jingang." I'm retired now and devote most of my time to community environmental work. I'm a Gaia Design & Build practitioner, a seed instructor at Nature Friends' Blue Sky Lab, and also part of the Smart Air lecturer team. I took part in Nature Friends' second Low-Carbon Family Renovation project and hold a composting certificate from Green Option.
+**Wang Jingkang:** Hello everyone, I'm Wang Jingkang---friends call me *Jingang*. I'm retired now and spend most of my time on community-environment projects. I'm a **Gaia Design & Build practitioner**, a seed instructor at *Nature Friends* Blue Sky Lab, and a member of the Smart Air lecturer team. I joined Nature Friends' second Low-Carbon Family Renovation program and am a certified composting trainer with **Green Option**.
 
-I'm passionate about promoting natural ecology, urban environmental protection, comfortable homes, and low-carbon living. Over the years, I've gained experience in community building, rainwater harvesting, home gardening, composting methods, and DIY eco-devices. I'm currently pushing hard for neighborhood composting to get more people involved.
+I'm passionate about natural ecology, urban environmental protection, comfortable homes, and low-carbon living. Over the years I've gained experience in community building, rain-water harvesting, home gardening, composting techniques, and DIY eco-devices. Right now, I'm actively promoting **neighborhood composting** to get more people involved.
 
-I also launched a project called **Third-Life Space**, encouraging seniors in the community to "age actively," stay energetic, and maintain social connections.
+I also launched **Third-Life Space**, a project that encourages older adults in the community to age actively---staying energetic and socially connected.
 
 ## How His Interest Began
 
-**Q:** What drew you to community-garden design in particular?  
+**Q:** What first drew you to community-garden design?
 
-**Wang Jingkang:** Honestly, it started simply because I liked it. My interest dates back to 2008 during the Beijing Olympics, when I joined a tulip-garden competition at Shunyi Flower Port. Later, in 2013, I entered the Family Garden Construction Contest at the World Expo Park---that's when I really began focusing on building community gardens.
+**Wang Jingkang:** Honestly, it began with simple enjoyment. My interest dates back to **2008**, when I joined a tulip-garden competition at Shunyi Flower Port during the Beijing Olympics. In **2013** I entered the Family Garden Construction Contest at the World Expo Park, and that's when I really started focusing on community-garden building.
 
-That same year I joined *Nature Friends*, the first non-governmental environmental organization in China, founded by Liang Congjie. There I dove deeper into ecological issues and started weaving eco elements into garden building.
+That same year I volunteered with *Nature Friends*---China's first nonprofit environmental NGO, founded by Liang Congjie---and dug deeper into ecological issues, weaving eco elements into garden projects.
 
-In 2016, while visiting relatives in Melbourne, I toured a few local communities and farms and learned about permaculture principles. Those experiences deepened my understanding of ecological community gardens and shaped the approach I use today.
+In **2016**, while visiting relatives in Melbourne, I toured local communities and farms and encountered **permaculture** principles. Those experiences deepened my understanding of ecological community gardens and shaped the approach I use today.
 
 ## Design Principles
 
-**Q:** What principles or ideas do you usually follow when designing a community garden?  
+**Q:** What principles guide you when designing a community garden?
 
-**Wang Jingkang:** My core principle is: **co-learning, co-building, everyone participates.**
+**Wang Jingkang:** My core principle is **"co-learning, co-building---everyone participates."**
 
-I want the garden-building process itself to be a community eco-exchange platform, so that people discover the relationship between humans and nature---and with each other---through active participation. I value the "from nothing to something" process because it gives everyone a real sense of ownership and closeness to the garden they built with their own hands.
+I treat the garden-building process itself as a community eco-exchange platform so people can explore the relationship between humans and nature---and with one another---through hands-on work. The *from-nothing-to-something* process gives everyone a sense of ownership and closeness to what they've built.
 
-To me, a community garden isn't just a physical space; it's a platform that connects people to nature and to each other. The sense of achievement and connection people get from creating together is priceless.
+A community garden isn't just a physical space; it's a platform that connects people to nature and to each other. The sense of achievement and connection people gain from creating together is priceless.
 
 ## Memorable Projects
 
-**Q:** Are there one or two projects that left a strong impression on you? What stood out about them?  
+**Q:** Could you share one or two projects that left a strong impression on you? What made them stand out?
 
-**Wang Jingkang:** As a technical adviser in community building, I've seen plenty---some successful, some less so. I've noticed many communities treat garden projects as surface-level "beautification" without true sustainability, often because they don't fully understand gardens.
+**Wang Jingkang:** As a technical adviser I've seen plenty---some successful, some not. Many communities build surface-level "flower-bed" projects that look nice but aren't sustainable because the team doesn't truly understand gardens.
 
-One case that really stuck with me was Zhao Jialou in Beijing (famous for the historic "Burning of Zhao Jialou"). When I was invited on-site, infrastructure was already done: steel planting boxes welded and placed along the street. The intent was to add greenery, but they hadn't considered box height, soil quality, drainage---only visual impact. It became a stereotypical "flower-bed project": little real beauty, no environmental benefit, and residents felt no attachment.
+One striking example was **a community in Beijing's Dongcheng District**. When I arrived, the infrastructure was already in place: steel planting boxes welded and lined along the street. They'd focused only on visual effect, overlooking box height, soil quality, and drainage. The result was a typical *showpiece* project---little real beauty, no environmental benefit, and residents felt no attachment.
 
-In contrast, the **Keyu Garden** project in Haidian was done well. That's a Chinese Academy of Social Sciences residential compound. We added eco elements from the ground up---using natural materials, installing insect hotels to boost biodiversity. Because the spot was a narrow, poorly ventilated corner, we planted mainly herbs to keep it natural and low-maintenance with lots of perennials.
+In contrast, the **Keyuyuan Community** project in Haidian District turned out well. It's a Chinese Academy of Social Sciences residential compound. From the start we added eco elements---natural materials, insect hotels for biodiversity, and mostly herbs and hardy perennials to keep maintenance light in a narrow, humid corner.
 
-Most importantly, we introduced the idea that **"everyone is a designer."** Residents shared their expectations; we used their ideas as the primary design input, guiding them through the process. Participation was strong and people felt ownership, so they now voluntarily care for the garden and protect their own handiwork. That sense of involvement and accomplishment is, to me, the most meaningful part of a community garden.
+Most importantly, we promoted the idea that **"everyone is a designer."** Residents shared their expectations; we used their ideas as the primary input, guiding them through the process. Participation was high, people felt ownership, and they now voluntarily care for the garden. That involvement and accomplishment, to me, is the most meaningful part of any community-garden project.
 
 ## Significance on a University Campus
 
-**Q:** What value do you think a community garden brings to a university campus like DKU?  
+**Q:** What value do you think a community garden brings to a university campus like DKU?
 
-**Wang Jingkang:** I think a campus community *vegetable* garden makes a lot of sense. First, I'd call it a "community veggie garden" and involve faculty and students in co-building from day one. Give it a good name, weave ecology into it, and it becomes a great way for people to learn about natural farming, plants, and environmental concepts.
+**Wang Jingkang:** A campus **vegetable** garden makes great sense. I'd call it a *community veggie garden* and involve faculty and students in co-building from day one. Give it a good name, weave ecological ideas into it, and it becomes a perfect way to learn about natural farming, plants, and sustainability.
 
-Such a garden can also be a social hub for campus clubs: a place to showcase growing experiences and feelings---an immediate window for fostering ecological awareness.
+It can also serve as a **social hub** for campus clubs---a place to share growing experiences and reflections, directly fostering ecological awareness.
 
-What's planted isn't the most important thing. It's the process: seed in the soil, sprouting after days, growth, harvest, edibility. The whole cycle is therapeutic; it's a form of inner healing (that's my personal experience).
+What you grow isn't the key point; it's the process---seed in soil, sprouting, growth, harvest, and finally eating. The whole cycle is therapeutic; it brings inner healing.
 
-Of course, everyone's understanding will differ. On campus it's both a learning site and a spot to relax and connect with nature.
+Everyone's experience will differ, of course, but on campus the garden is both a learning space and a place to relax and connect with nature.
 
 ## Advice for the DKU Garden
 
-**Q:** If you could offer one suggestion, what do you think we most need to improve?  
+**Q:** If you could offer one suggestion, what should we improve most?
 
 **Wang Jingkang:** A few quick points:
 
-1. **Clear positioning.** Since it's a campus veggie garden, make it *look* like a veggie garden but still visually pleasing---don't let it seem like a random troweled plot.  
-2. **Defined boundaries.** Clear edges make management easier.  
-3. **Natural materials.** Use materials with a natural feel; it matches the eco ethos.  
-4. **Function and paths.** Decide functions first, then lay out paths so everyone can easily reach their plot. A convenient, pleasant experience encourages visits and brings friends; more visibility, more impact.
+1. **Clear positioning.** Since it's a campus veggie garden, make it *look* like one while still being visually appealing---avoid the feel of a random plot.
+2. **Defined boundaries.** Clear edges make management easier.
+3. **Natural materials.** Use materials with a natural texture; they match the eco ethos.
+4. **Functions and paths.** Decide the garden's functions first, then lay out paths so everyone can easily reach their plot. Convenience and a pleasant experience encourage visits---and friends will come to see and share.
 
-Yesterday I noticed everyone left the beds with muddy shoes---that's not ideal. I'd label it an "edible scenic micro-garden," blending it with campus landscaping so it looks natural. Participants will like it, and I'm sure leadership will too.
+Yesterday I noticed everyone left with muddy shoes---that's not ideal. I'd call it an **"edible scenic micro-garden,"** blending it with campus landscaping so it looks natural. Participants will enjoy it, and I'm sure the administration will, too.
 
-If it works well, you could later expand for more landscape value. That would be a great direction.
+If it works well, you could later expand the area and boost its landscape value---that's a great direction.
 
 ## Tips for Beginners
 
-**Q:** Do you have any practical advice for people just starting to plant in a community garden?  
+**Q:** Any practical advice for newcomers to community-garden planting?
 
-**Wang Jingkang:** For beginners, three things:
+**Wang Jingkang:** Three things:
 
-1. **Learn plant habits.** Every species has its quirks and needs---know them if you want success.  
-2. **Be patient.** Plants grow at their own pace; you can't rush them.  
-3. **Accept failure.** Honestly, many of my own attempts flop. Growing is about accumulating experience; failure teaches the most.
+1. **Learn plant habits.** Every species has its quirks---know them for better success.
+2. **Be patient.** Plants grow at their own pace; you can't rush them.
+3. **Accept failure.** Many of my own attempts flop; gardening is about experience, and failure teaches the most.
 
-Gardening forces you to slow down. Unlike learning knowledge by direct intake, you have to *do* the whole cycle yourself to really feel it and master how plants grow.
+Gardening forces you to slow down. Unlike learning facts, you have to *do* the full cycle yourself to truly grasp it.
 
-Ask the school gardeners, groundskeepers, or staff from rural backgrounds---people who've handled plants since childhood have lots to share.
+Ask school gardeners, groundskeepers, or staff with rural backgrounds---they've handled plants since childhood and have a wealth of practical knowledge.
 
-Also start with easy crops, then move to tougher ones. For instance, I saw a teacher sowing loads of leek seeds; leeks are slow: two or three years from seed to harvest---too long for most. A better way is to plant leek *roots*. Leeks regrow after each cut; as long as roots stay intact they keep producing year-round. Knowing plant traits makes growing so much easier.
-
+Start with easy crops, then move to tougher ones. For instance, I saw a teacher sowing loads of leek seeds---leeks are slow, taking two--three years from seed to plate. A better way is to **plant leek roots**: they regrow after each cut and, if the roots stay intact, keep producing year-round. Understanding plant traits makes gardening much easier.
