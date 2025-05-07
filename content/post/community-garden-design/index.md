@@ -13,8 +13,6 @@ images:
     class="medium"
 >}}
 
-# A Deep Dive into Community-Garden Design: An Interview with Wang Jingkang
-
 *Recently, environmental advocate **Wang Jingkang** toured the DKU Community Garden.
 We at [CGSC]({{< ref "/post/meet-community-garden-steering-committee/" >}}) seized the
 chance to sit down for a short interview about his philosophy and hands-on experience in
