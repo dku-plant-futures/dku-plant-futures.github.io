@@ -17,7 +17,7 @@ images:
 
 **联系方式：**
 
-* 微软 Teams 频道：[https://tinyurl.com/garden-dku](https://tinyurl.com/garden-dku)
+* 微软 Teams：[https://tinyurl.com/garden-dku](https://tinyurl.com/dku-garden)
 * 电子邮件：[dku-garden@proton.me](mailto:dku-garden@proton.me)
 
 ## 委员会成员

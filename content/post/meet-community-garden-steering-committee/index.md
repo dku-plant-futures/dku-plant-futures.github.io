@@ -16,7 +16,7 @@ images:
 The Community Garden Steering Committee (CGSC) of Duke Kunshan University (DKU) consists of volunteers responsible for the day-to-day management of the Community Garden. To help garden participants connect with the appropriate CGSC members, here are our introductions.
 
 **Contact Information:**
-* Microsoft Teams Channel: [https://tinyurl.com/garden-dku](https://tinyurl.com/garden-dku)
+* Microsoft Teams: [https://tinyurl.com/garden-dku](https://tinyurl.com/dku-garden)
 * Email: [dku-garden@proton.me](mailto:dku-garden@proton.me)
 
 ## Committee Members
