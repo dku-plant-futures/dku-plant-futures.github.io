@@ -1,9 +1,8 @@
 ---
-title: "🌱 That Time We All Went to an Island Farm and I Had an Existential Crisis About Bananas"
+title: "🌱 When We All Went to an Island Farm and I Had an Existential Crisis About Bananas"
 date: 2025-05-16
 tags:
 - community-garden
-- existential-farming-thoughts
 draft: true
 images:
 - yuefeng-island-01.jpg
@@ -14,7 +13,7 @@ images:
 
 {{<
     figure src="./yuefeng-island-01.jpg"
-    caption="Sixteen humans attempting to look natural while someone counts down from three"
+    caption="Group photo from our trip to Yuefeng Island Organic Farm"
 >}}
 
 So here's the thing about farms:
@@ -35,7 +34,7 @@ which is the stuff that keeps me alive every single day.
 
 {{<
     figure src="./yuefeng-island-02.jpg"
-    caption="A lake so still it makes you wonder if water is having an existential crisis too"
+    caption="A quiet moment by Yangcheng Lake"
 >}}
 
 The farm, we learned,
@@ -51,7 +50,7 @@ we should probably make sure we can actually grow things there.
 
 {{<
     figure src="./yuefeng-island-03.jpg"
-    caption="Goats living their best lives while philosophically questioning our presence"
+    caption="Some friendly goats enjoying their day"
 >}}
 
 We met goats---That's not a surprise.
@@ -70,7 +69,7 @@ living under the same sky that has witnessed every single moment of human histor
 
 {{< 
     figure src="./yuefeng-island-04.jpg"
-    caption="Flowers that don't know they're being photographed for a blog post about existential agricultural crises"
+    caption="Flowers soaking up the spring sun"
 >}}
 
 Beneath the farm's picture-perfect surface
@@ -90,7 +89,7 @@ but a present reality affecting the people who grow our food.
 
 {{< 
     figure src="./yuefeng-island-05.jpg"
-    caption="Ancient wheat varieties that have witnessed more human history than your history textbook"
+    caption="Heirloom wheat varieties grown at the farm"
 >}}
 
 One of the farm's crucial roles involves preserving heirloom crop varieties---
@@ -107,7 +106,7 @@ but an insurance policy against biological catastrophe.
 
 {{<
     figure src="./yuefeng-island-06.jpg"
-    caption="Plants engaged in the ultimate reality show: 'Survivor: Kunshan Climate Edition'"
+    caption="Experimental crops adapting to local conditions"
 >}}
 
 In their experimental plots, Mr.
@@ -122,7 +121,7 @@ of coaxing food from dirt.
 
 {{<
     figure src="./yuefeng-island-07.jpg"
-    caption="A wall of potential lives, each seed containing universes of possibility and several megabytes of genetic code"
+    caption="Seed wall in the farm’s classroom"
 >}}
 
 We ended our visit in the farm's classroom,
@@ -137,7 +136,7 @@ where humans remember that we're part of nature,
 not just its awkward,
 destructive house guests.
 
----
+----
 
 *Note:
 For more information on why your future grandchildren
