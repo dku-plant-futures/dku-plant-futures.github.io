@@ -11,7 +11,7 @@ images:
 ---
 
 {{<
-    figure src="./yuefeng-island-01.jpg"
+    figure src="yuefeng-island-01.jpg"
     caption="Group photo from our trip to Yuefeng Island Organic Farm"
 >}}
 
@@ -32,7 +32,7 @@ about the food I eat,
 which is the stuff that keeps me alive every single day.
 
 {{<
-    figure src="./yuefeng-island-02.jpg"
+    figure src="yuefeng-island-02.jpg"
     caption="A quiet moment by Yangcheng Lake"
 >}}
 
@@ -48,7 +48,7 @@ tempting,
 we should probably make sure we can actually grow things there.
 
 {{<
-    figure src="./yuefeng-island-03.jpg"
+    figure src="yuefeng-island-03.jpg"
     caption="Some friendly goats enjoying their day"
 >}}
 
@@ -67,7 +67,7 @@ untroubled by deadlines or social media engagement metrics,
 living under the same sky that has witnessed every single moment of human history.
 
 {{< 
-    figure src="./yuefeng-island-04.jpg"
+    figure src="yuefeng-island-04.jpg"
     caption="Flowers soaking up the spring sun"
 >}}
 
@@ -87,7 +87,7 @@ isn't some abstract future problem
 but a present reality affecting the people who grow our food.
 
 {{< 
-    figure src="./yuefeng-island-05.jpg"
+    figure src="yuefeng-island-05.jpg"
     caption="Heirloom wheat varieties grown at the farm"
 >}}
 
@@ -104,7 +104,7 @@ Out agricultural diversity isn't just some hippie ideal
 but an insurance policy against biological catastrophe.
 
 {{<
-    figure src="./yuefeng-island-06.jpg"
+    figure src="yuefeng-island-06.jpg"
     caption="Experimental crops adapting to local conditions"
 >}}
 
@@ -119,7 +119,7 @@ on concrete and Wi-Fi reconnect with the ancient art
 of coaxing food from dirt.
 
 {{<
-    figure src="./yuefeng-island-07.jpg"
+    figure src="yuefeng-island-07.jpg"
     caption="Seed wall in the farm’s classroom"
 >}}
 

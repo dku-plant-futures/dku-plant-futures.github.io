@@ -10,7 +10,7 @@ images:
 - yuefeng-island-04.jpg
 ---
 
-{{< figure src="./yuefeng-island-01.jpg" caption="我们在月风岛有机农场的合影" >}}
+{{< figure src="yuefeng-island-01.jpg" caption="我们在月风岛有机农场的合影" >}}
 
 农场这回事吧，
 一方面和你想象中的一模一样，另一方面却又完全出乎意料。
@@ -26,7 +26,7 @@ images:
 我开始思考：每天养活我的食物，
 我其实知道得少得可怜。
 
-{{< figure src="./yuefeng-island-02.jpg" caption="阳澄湖畔的宁静时刻" >}}
+{{< figure src="yuefeng-island-02.jpg" caption="阳澄湖畔的宁静时刻" >}}
 
 我们了解到，农场最初是按公园的样子设计的，
 就好比造了一辆长得像生日蛋糕的车。
@@ -39,7 +39,7 @@ images:
 虽然拍照好看的设计很诱人，
 但我们得先确保东西真的能种出来。
 
-{{< figure src="./yuefeng-island-03.jpg" caption="几只友好的山羊悠闲地度过一天" >}}
+{{< figure src="yuefeng-island-03.jpg" caption="几只友好的山羊悠闲地度过一天" >}}
 
 我们见到了几只山羊——这倒没啥意外。
 不过汤先生解释说，它们主要是为了教学用的，
@@ -54,7 +54,7 @@ images:
 生活在见证了人类整个历史的天空下，
 那一刻，真的让人动容。
 
-{{< figure src="./yuefeng-island-04.jpg" caption="沐浴春日阳光的花朵" >}}
+{{< figure src="yuefeng-island-04.jpg" caption="沐浴春日阳光的花朵" >}}
 
 农场表面看起来如诗如画，
 花朵美得让植物园都要自愧不如，
@@ -72,7 +72,7 @@ images:
 气候危机不是未来的遥远威胁，
 而是此时此刻正影响着种植我们食物的人的现实。
 
-{{< figure src="./yuefeng-island-05.jpg" caption="农场种植的古老小麦品种" >}}
+{{< figure src="yuefeng-island-05.jpg" caption="农场种植的古老小麦品种" >}}
 
 农场的另一项重要工作是保存传统作物品种，
 就像在Spotify时代里守护黑胶唱片。
@@ -85,7 +85,7 @@ images:
 多样性的农业，不是某种“嬉皮”理想主义，
 而是我们抵御生物灾难的重要保险。
 
-{{< figure src="./yuefeng-island-06.jpg" caption="适应本地环境的试验性作物" >}}
+{{< figure src="yuefeng-island-06.jpg" caption="适应本地环境的试验性作物" >}}
 
 在实验田里，
 汤先生和团队开展着类似“植物移民计划”的工作，
@@ -98,7 +98,7 @@ images:
 如今愿意重新学习种地，
 内心真的会生出些希望。
 
-{{< figure src="./yuefeng-island-07.jpg" caption="农场教室里的种子展示墙" >}}
+{{< figure src="yuefeng-island-07.jpg" caption="农场教室里的种子展示墙" >}}
 
 最后我们来到农场的教室，
 一整面墙上展示着上百种种子。
