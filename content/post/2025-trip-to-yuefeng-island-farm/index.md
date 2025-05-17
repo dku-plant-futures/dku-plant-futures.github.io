@@ -1,8 +1,9 @@
 ---
-title: "🌱 2025 Trip to Yuefeng Island Farm"
+title: "🌱 That Time We All Went to an Island Farm and I Had an Existential Crisis About Bananas"
 date: 2025-05-16
 tags:
 - community-garden
+- existential-farming-thoughts
 draft: true
 images:
 - yuefeng-island-01.jpg
@@ -13,125 +14,133 @@ images:
 
 {{<
     figure src="./yuefeng-island-01.jpg"
-    caption="Group photo of the 2025 trip to Yuefeng Island organic farm"
+    caption="Sixteen humans attempting to look natural while someone counts down from three"
 >}}
 
-On the weekend of May 11th, 2025,
-DKU community garden organized
-our first field trip to Yuefeng Island organic farm,
-located next to Yangcheng Lake.
-Mr. Tang, an expert of organic farming working at the farm,
-gave us a fascinating tour.
+So here's the thing about farms:
+they're simultaneously exactly what you'd expect and nothing like you imagined.
+On May 11th, 2025,
+our DKU community garden crew ventured to Yuefeng Island Organic Farm,
+which sits beside Yangcheng Lake like a bookish teenager at a school dance:
+quietly impressive but not making a big deal about it.
+
+Our guide was Mr. Tang,
+an organic farming wizard who speaks about plants
+the way some people speak about their first love.
+As he led us through fields that stretched toward the horizon
+with a kind of infinite green hopefulness,
+I found myself thinking about how much I don't know
+about the food I eat,
+which is the stuff that keeps me alive every single day.
 
 {{<
     figure src="./yuefeng-island-02.jpg"
-    caption="The farm is located right next to the Yangcheng Lake"
+    caption="A lake so still it makes you wonder if water is having an existential crisis too"
 >}}
 
-One of the first things that we have learned, is that,
-the farm was originally designed as if it was a park,
-and the infrastructure is not suitable for farm actually.
-It took them quite some years to make the changes.
-This is reminder for us that it is important to
-take infrastructures in mind when we design our own community garden,
-although we are much smaller.
+The farm, we learned,
+was originally designed to look like a park,
+which is sort of like building a car that looks like a birthday cake.
+Sure, it's beautiful,
+but try parallel parking it.
+This aesthetic-over-function approach created years of headaches as they retrofitted
+beauty with practicality.
+It's a reminder for our community garden that while Instagram-worthy layouts are
+tempting,
+we should probably make sure we can actually grow things there.
 
 {{<
     figure src="./yuefeng-island-03.jpg"
-    caption="Goats on the farm"
+    caption="Goats living their best lives while philosophically questioning our presence"
 >}}
 
-It was not a surprise to see farm animals like goats on the farm.
-But Mr. Tang admits admits that there is strict regulation
-regarding raising farm animals
-and they are only allowed here as part of educational activities
-for visitors, especially children.
-Well, I suppose it's quite educational for child to see real animals these days.
-In any case, I am glad to see the goats have ample space to graze.
+We met goats---That's not a surprise.
+However, they're mostly there for educational purposes,
+Mr. Tang explained,
+because regulations around livestock are tighter than
+skinny jeans from when we were ten years younger.
+These goats serve as living textbooks for children
+who might otherwise think meat materializes magically in supermarkets.
+(As a vegetarian,
+I stood there silently hoping some kid would make the connection between these
+adorable beings and whatever their parents served for dinner last night.)
+There's something profoundly moving about watching animals simply existing,
+untroubled by deadlines or social media engagement metrics,
+living under the same sky that has witnessed every single moment of human history.
 
-{{<
+{{< 
     figure src="./yuefeng-island-04.jpg"
-    caption="There are flowers everywhere on the farm"
+    caption="Flowers that don't know they're being photographed for a blog post about existential agricultural crises"
 >}}
 
-We are quite impressed by the idly environment of the farm ---
-there are beautiful flowers and trees everywhere.
-However, Mr. Tang also told us there are also many difficulties
-that we could not see.
-For example, last year, Typhoon Bebinca (2024)
-the most severe typhoon Suzhou has ever seen in recorded history,
-severely damaged their big green house.
-It was still in the process of repairmen.
-And to make it more wind resistant,
-the farm is adding more reinforcement to the green house.
-The total cost is in the range of hundreds of thousands of yuan.
-This shows the agriculture industry
-is at the front line facing the challenges of climate change,
-and has to prepare for the upcoming more frequent extreme weathers.
-This is also one reason why we started our community garden ---
-to make people realize climate change is not a remote idea,
-but will significantly impact everyone in the near future.
+Beneath the farm's picture-perfect surface
+---with flowers that would make a botanical garden feel inadequate
+---lies a story of resilience.
+In 2024,
+Typhoon Bebinca unleashed the meteorological equivalent
+of a temper tantrum across Shanghai and Jiangsu,
+severely damaging their greenhouse.
+The repairs cost hundreds of thousands of yuan.
+It's a stark reminder that while we debate climate change over coffees,
+farmers are living its consequences in real-time.
+Our little community garden isn't just about growing questionably shaped carrots---
+it's also about helping people to recognize that the climate crisis
+isn't some abstract future problem
+but a present reality affecting the people who grow our food.
 
-{{<
+{{< 
     figure src="./yuefeng-island-05.jpg"
-    caption="Old verities of wheat in the farm"
+    caption="Ancient wheat varieties that have witnessed more human history than your history textbook"
 >}}
 
-One important function of the farm is to provide
-a space to keep old verities of stable food such as wheat,
-rice and soy beans alive.
-Modern factory farming forces most farmers to grow a single variety of each corps.
-This has significant risks.
-For example,
-if there is a plight which infects the most commonly grown crop variety,
-it could easily wipe it out entirely.
-(This is happening at the moment for bananas.)
-Having alternatives offers the opportunity to find a variety that is disease
-resistant.
-More over, by keep growing them, the farm are selecting mutations
-that are going to be better suitable for a warming world.
-This also gives us an idea of perhaps to collaborate with the farm
-and grow some old varieties of crops in our community garden.
-This would give the garden an additional purpose
-and offers an educational opportunity for our participants.
+One of the farm's crucial roles involves preserving heirloom crop varieties---
+the agricultural equivalent of saving vinyl records in a Spotify world.
+Modern farming loves monocultures the way teenagers
+love dramatic relationship declarations:
+intensely but problematically.
+(The Cavendish banana---
+which is the only banana you can find in grocery stores---
+faces potential extinction from the same fungal disease that wiped out
+its predecessor in the 1950s.)
+Out agricultural diversity isn't just some hippie ideal
+but an insurance policy against biological catastrophe.
 
 {{<
     figure src="./yuefeng-island-06.jpg"
-    caption="Experimental crops in the farm"
+    caption="Plants engaged in the ultimate reality show: 'Survivor: Kunshan Climate Edition'"
 >}}
 
-Another interesting we have learned from Mr. Tang is that
-they are constantly experimenting with growing plants from different regions.
-It is often only possible through a lot of trial and error,
-that they can learn what is suitable for plating in Kunshan.
-That is also why they give a parcel of land to each of their interns
-to plant whatever they prefer.
-This gives them extra motivation and experience.
-
-I was surmised to learn that the farm has intern program as it is not
-an educational institution.
-However, Mr. Tang explained that in recent years,
-there have a significant increase in the interest of farming
-among young urban people.
-However, most of them have little experience in farming
-and get into the business with naive optimism.
-The intern program is to help them learn
-the basis of starting an organic farm
-and avoid significant financial loss.
-I found it a very good idea.
-
-Our trip ended at the farm's classroom where
-kids can see and play and learn about seeds.
-They have a whole wall in the classroom with specimens
-of all sorts of seeds.
-They look really beautiful,
-like jewels of different colours.
-But unlike cold dead jewels,
-the seeds have life in them.
-That gives us some hope.
+In their experimental plots, Mr.
+Tang and his team run what amounts to a botanical immigration program,
+testing which plants from other regions might thrive in Kunshan's climate.
+The farm also hosts interns---mostly young urbanites
+who've decided that spreadsheets and computer screens
+aren't actually the pinnacle of human existence.
+There's something inspiring about knowing people raised
+on concrete and Wi-Fi reconnect with the ancient art
+of coaxing food from dirt.
 
 {{<
     figure src="./yuefeng-island-07.jpg"
-    caption="Experimental crops in the farm"
+    caption="A wall of potential lives, each seed containing universes of possibility and several megabytes of genetic code"
 >}}
 
+We ended our visit in the farm's classroom,
+where a wall displays hundreds of different seeds.
+Unlike diamonds or gold,
+these tiny capsules of potential aren't valuable because they're rare or shiny,
+but because they contain life itself.
+Looking at that wall of seeds,
+I felt a strange mix of hope and melancholy.
+In those seeds lies the possibility of a future
+where humans remember that we're part of nature,
+not just its awkward,
+destructive house guests.
+
+---
+
+*Note:
+For more information on why your future grandchildren
+might never know the joy of bananas,
+check out this cheerful article:
+[What We Can Learn From the Near-Death of the Banana](https://time.com/5730790/banana-panama-disease/).*
