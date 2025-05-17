@@ -3,7 +3,6 @@ title: "🌱 去岛上农场的那次，我对香蕉产生了存在主义危机"
 date: 2025-05-16
 tags:
 - 社区花园
-draft: true
 images:
 - yuefeng-island-01.jpg
 - yuefeng-island-02.jpg

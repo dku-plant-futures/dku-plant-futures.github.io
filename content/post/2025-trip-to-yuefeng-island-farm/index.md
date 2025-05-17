@@ -3,7 +3,6 @@ title: "🌱 When We All Went to an Island Farm and I Had an Existential Crisis 
 date: 2025-05-16
 tags:
 - community-garden
-draft: true
 images:
 - yuefeng-island-01.jpg
 - yuefeng-island-02.jpg
