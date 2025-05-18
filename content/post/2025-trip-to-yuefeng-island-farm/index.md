@@ -1,5 +1,5 @@
 ---
-title: "🌱 When We All Went to an Island Farm and I Had an Existential Crisis About Bananas"
+title: "🌱 Trip to Yuefeng Island Organic Farm"
 date: 2025-05-16
 tags:
 - community-garden
