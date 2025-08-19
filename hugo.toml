@@ -13,6 +13,8 @@ disqusShortname = 'dku-plant-futures'
 
 timeZone = 'Asia/Shanghai'
 
+[languages]
+
 [languages.en]
 
 [languages.en.menu]
@@ -53,7 +55,10 @@ name = "Chat"
 url = "https://tinyurl.com/pfdku-chat"
 weight = 30
 
-[languages]
+[languages.en.params.editPost]
+URL = "https://github.com/dku-plant-futures/dku-plant-futures.github.io/tree/hugo/content"
+Text = "Suggest Edits"
+appendFilePath = true
 
 [languages.zh]
 title = '昆杜植物未来社'
@@ -105,6 +110,11 @@ description = "昆山杜克大学植物未来社"
 Title = '博客文章'
 Content = '我们的努力和计划 ---'
 
+[languages.zh.params.editPost]
+URL = "https://github.com/dku-plant-futures/dku-plant-futures.github.io/tree/hugo/content"
+Text = "建议修改"
+appendFilePath = true
+
 [params]
 author = 'Plant Futures DKU'
 description = "This is the website for Plant Futures DKU Club."
@@ -146,11 +156,6 @@ url = "https://www.reddit.com/user/PlantFutureDKU/"
 
 [[params.socialIcons]]
 name = "rss"
-
-[params.editPost]
-URL = "https://github.com/dku-plant-futures/dku-plant-futures.github.io/tree/hugo/content"
-Text = "Suggest Edits"
-appendFilePath = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"] # necessary for search
