@@ -58,7 +58,7 @@ tuned for details!**
 
 ### 🌱 Event Preview
 
-* **Early September:** Yuefengdao Autumn Sowing Field Trip
+* **End of August:** Yuefengdao Autumn Sowing Field Trip
 * **Mid-September:** Biolan Compost Bin Factory Field Trip
 * **Every Other Wednesday:** Brother Tang's Gardening Exchange at Yuefengdao
 * **Garden Co-building:** Tool Shed Design Workshop; Working Bee (Public area cleanup, gravel replenishment, gabion filling)
