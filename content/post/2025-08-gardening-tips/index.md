@@ -1,6 +1,8 @@
 ---
 title: "🌱 Gardening Tips #1 – in Late August"
 date: 2025-08-19T20:49:48+08:00
+author:
+- "Xinxue Wang"
 tags:
 - community-garden
 - gardening-tip
