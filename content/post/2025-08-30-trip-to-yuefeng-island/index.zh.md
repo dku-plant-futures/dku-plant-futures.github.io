@@ -36,7 +36,7 @@ Step5. 种植前 2–3 天，浇透水，为土壤造墒；如果土壤太干，
 
 {{< 
     figure
-    src="insect-proof-netting.png"
+    src="insect-proof-netting.jpg"
     caption="防虫网"
     class="medium"
 >}}

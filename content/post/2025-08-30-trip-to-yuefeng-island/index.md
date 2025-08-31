@@ -36,7 +36,7 @@ Autumn sowing allows cultivation of various leafy and root vegetables, such as b
 
 {{< 
     figure
-    src="insect-proof-netting.png"
+    src="insect-proof-netting.jpg"
     caption="Insect Proof Netting"
     class="medium"
 >}}
