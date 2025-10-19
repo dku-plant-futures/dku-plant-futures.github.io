@@ -17,6 +17,29 @@ Thank you to all who have supported the garden throughout the past year, and to 
 
 ## Committee Members (2026)
 
+
+### Coraline Goron (高丽娜)
+
+**Responsibility:** Climate & Sustainability Integration
+*(New Member)*
+
+{{<
+figure src="coraline-goron.jpg"
+caption="Coraline Goron"
+class="small"
+>}}
+
+Coraline is Assistant Professor of Environmental Policy in both the iMEP program and the undergraduate program. She serves as the Director of the Climate and Sustainability Initiative and as the Chair of the DKU Sustainability Committee.
+Coraline played an important role in the first renovation of the Community Garden and continues to support integrating the garden into DKU’s broader efforts on sustainability and climate education, linking it with applied learning and student engagement.
+
+**Thoughts and Ideas:**
+
+* **Focus Area:** Strengthen the connection between the garden and DKU’s sustainability teaching and research.
+* **Improvement Suggestions:** Promote interdisciplinary collaboration and hands-on learning in the garden.
+* **Interested Role:** Climate and sustainability integration.
+
+---
+
 ### Luisa Li (李凡)
 **Responsibility:** Group Activities + Fundraising and Awareness
 *(Continuing Member)*
