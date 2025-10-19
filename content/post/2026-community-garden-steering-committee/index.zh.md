@@ -1,12 +1,12 @@
 ---
-title: "🌿 2026 杜克昆山大学社区花园指导委员会 (CGSC)"
+title: "🌿 2026 昆山杜克大学社区花园指导委员会 (CGSC)"
 date: 2025-10-19
 tags:
 - community-garden
 ---
 
 我们很高兴地宣布：
-**杜克昆山大学（DKU）2026 年社区花园指导委员会（Community Garden Steering Committee, CGSC）**
+**昆山杜克大学（DKU）2026 年社区花园指导委员会（Community Garden Steering Committee, CGSC）**
 正式成立！  
 新一届委员会将于 **2025 年 11 月 1 日** 正式接任。  
 衷心感谢过去一年中所有支持花园的朋友们，也感谢上一届团队的奉献与用心。
@@ -53,7 +53,7 @@ caption="高丽娜（Coraline Goron）"
 class="small"
 >}}
 
-**高丽娜（Coraline Goron）** 是杜克昆山大学的 **环境政策助理教授**，任教于 **国际环境政策硕士项目（iMEP）** 及**本科项目**。  
+**高丽娜（Coraline Goron）** 是昆山杜克大学的 **环境政策助理教授**，任教于 **国际环境政策硕士项目（iMEP）** 及**本科项目**。  
 她同时担任 **气候与可持续发展倡议（Climate and Sustainability Initiative）主任** 以及 **DKU 可持续发展委员会主席**。  
 她在社区花园的首次改造中发挥了重要作用，并持续推动将花园融入 **DKU 更广泛的可持续与气候教育实践中**，  
 将其与**应用型学习机会和学生参与**相结合。
