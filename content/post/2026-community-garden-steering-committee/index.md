@@ -72,7 +72,7 @@ Micky serves as the Procurement Director at DKU and has been supporting the CGSC
 
 ---
 
-### Pengcheng Tan (谭鹏程)
+### Pengcheng Tan (谈鹏程)
 **Responsibility:** Tools & Equipment Maintenance
 *(New Member)*
 
@@ -121,7 +121,8 @@ I'm Wanjian Li from the DKU Finance Department. I'm passionate about agriculture
     class="small"
 >}}
 
-I'm Xue Qiu, a librarian at DKU Library. I joined the CGSC because I believe the garden is a living learning space that connects people through nature, creativity, and sustainability. I hope to enhance the garden's visibility through storytelling, library collaboration, and community engagement.
+I am Xue Qiu, Senior Coordinator for Outreach and Learning Resource Management at the DKU library.
+I joined the CGSC because I believe the garden is a living learning space that connects people through nature, creativity, and sustainability. I hope to enhance the garden's visibility through storytelling, library collaboration, and community engagement.
 
 **Thoughts and Ideas:**
 - **Plot Allocation:** Encourage broader participation by recruiting new members, including families and children.
@@ -145,5 +146,5 @@ I'm Xinyao Gao, a sophomore student studying Environmental Science at DKU, activ
 
 ---
 
-We look forward to another vibrant year of growth, learning, and community in our DKU garden. 🌱
+We look forward to another vibrant year of growth, learning, and community in our DKU garden. 🌱  
 *--- The Community Garden Steering Committee (CGSC)*
